@@ -29,3 +29,7 @@ class GameResult:
     @property
     def nr_points_played(self) -> int:
         return self.points_team1 + self.points_team2
+
+    @property
+    def team_size(self) -> int:
+        return len(self.team1)

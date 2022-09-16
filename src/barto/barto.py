@@ -10,7 +10,7 @@ from src.barto.game_result import GameResult
 class BartoRatings:
     rating_scale = 1 / 400
 
-    def __init__(self, init_rating: float, sd_rating: float, sd_game: float) -> None:
+    def __init__(self, init_rating: float, sd_rating: float, sd_game_performance: float) -> None:
         """Keeps track of and calculates the ratings using the Barto Method.
 
         Parameters
@@ -23,35 +23,42 @@ class BartoRatings:
             The (assumed) standard deviation of a player's game form.
         """
         self._ratings = defaultdict(lambda: init_rating)
-        self.sd_rating = sd_rating
-        self.sd_game = sd_game
+        self._calculator = BartoCalculator(sd_rating=sd_rating,
+                                           sd_game_performance=sd_game_performance,
+                                           rating_scale=self.rating_scale)
 
-    def add_result(self, game_result: GameResult) -> None:
-        rating_advantage_team2 = self._get_rating_difference(game_result)
+    def add_results(self, results: list[GameResult]) -> None:
+        for game_result in results:
+            self.add_single_result(game_result=game_result)
+
+    def add_single_result(self, game_result: GameResult) -> None:
+        rating_gain_team1 = self._get_rating_gain(game_result=game_result)
+        self._update_ratings(game_result, rating_gain_team1)
 
     def _get_rating_difference(self, game_result: GameResult) -> float:
         rating_team1 = self.get_team_rating(game_result.team1)
         rating_team2 = self.get_team_rating(game_result.team2)
-        return rating_team2 - rating_team1
+        return rating_team1 - rating_team2
 
-    def _get_maximum_likelhood_rating(self, rating_advantage_team2: float, n: int, won_a: int):
-        numerator_bayes = self._get_numerator_bayes(rating_advantage_team2=rating_advantage_team2, n=n, won_a=won_a)
+    def _get_rating_gain(self, game_result: GameResult) -> float:
+        rating_advantage_team1 = self._get_rating_difference(game_result)
 
-    def _get_likelihood(self, rating_advantage_team2: float, n: int, won_a: int) -> float:
-        f = self._get_function_integral(rating_advantage_team2=rating_advantage_team2, n=n, won_a=won_a)
-        integration_limits = 300
+        rating_gain_team1 = self._calculator.get_rating_gain(
+            prior_rating_advantage=rating_advantage_team1,
+            n_contests=game_result.nr_points_played,
+            constests_won=game_result.points_team1)
 
-        return integrate.quad(f, a=-integration_limits, b=integration_limits)
+        return rating_gain_team1
 
-    def _get_function_integral(self, rating_advantage_team2: float, n: int, won_a: int) -> callable:
-        def f(p_d):
-            norm_ = stats.norm.pdf(x=p_d, loc=rating_advantage_team2, scale=self.sd_game)
-            pc = 1 / (1 + math.exp(p_d * self.rating_scale))
-            bin_ = stats.binom.pmf(k=won_a, n=n, p=pc)
+    def _update_ratings(self, game_result: GameResult, rating_gain_team1: float) -> None:
+        self._update_ratings_team(team=game_result.team1, rating_gain_team=rating_gain_team1)
+        self._update_ratings_team(team=game_result.team2, rating_gain_team=-1 * rating_gain_team1)
 
-            return norm_ * bin_
+    def _update_ratings_team(self, team: list[str], rating_gain_team: float) -> None:
+        player_rating_gain = rating_gain_team / len(team)
 
-        return f
+        for player in team:
+            self._ratings[player] += player_rating_gain
 
     @property
     def ratings(self):
