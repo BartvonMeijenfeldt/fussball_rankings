@@ -1,10 +1,10 @@
 from dataclasses import dataclass
 import math
 
-from collections import defaultdict
 from scipy import integrate, stats, optimize
 
 from src.barto.game_result import GameResult
+from src.barto.ratings import Player, Ratings
 
 
 class BartoRatings:
@@ -22,7 +22,7 @@ class BartoRatings:
         sd_day
             The (assumed) standard deviation of a player's game form.
         """
-        self._ratings = defaultdict(lambda: init_rating)
+        self._ratings = Ratings(init_rating=init_rating)
         self._calculator = BartoCalculator(sd_rating=sd_rating,
                                            sd_game_performance=sd_game_performance,
                                            rating_scale=self.rating_scale)
@@ -58,13 +58,12 @@ class BartoRatings:
         player_rating_gain = rating_gain_team / len(team)
 
         for player in team:
-            new_player_rating = self._ratings[player] + player_rating_gain
-            rounded_new_player_rating = round(new_player_rating, ndigits=1)
-            self._ratings[player] = rounded_new_player_rating
+            self._ratings[player] += player_rating_gain
 
     @property
-    def ratings(self):
-        return self._ratings.copy()
+    def ratings(self) -> list[Player]:
+        ratings = list(self._ratings.values())
+        return ratings
 
     def get_team_rating(self, team: list[str]) -> float:
         player_ratings = [self.get_player_rating(player) for player in team]
@@ -72,7 +71,8 @@ class BartoRatings:
         return team_rating
 
     def get_player_rating(self, player: str) -> float:
-        return self._ratings[player]
+        player: Player = self._ratings[player]
+        return player.rating
 
 
 @dataclass
