@@ -58,7 +58,9 @@ class BartoRatings:
         player_rating_gain = rating_gain_team / len(team)
 
         for player in team:
-            self._ratings[player] += player_rating_gain
+            new_player_rating = self._ratings[player] + player_rating_gain
+            rounded_new_player_rating = round(new_player_rating, ndigits=1)
+            self._ratings[player] = rounded_new_player_rating
 
     @property
     def ratings(self):
@@ -171,5 +173,5 @@ class BartoCalculator:
     def _optimize_posterior(self, neg_unnormalized_posterior: callable) -> float:
         rating_gain_bounds = [-self.max_rating_gain, self.max_rating_gain]
         result = optimize.minimize_scalar(neg_unnormalized_posterior, bounds=rating_gain_bounds, method='brent')
-        rating_gain = round(result.x)
+        rating_gain = result.x
         return rating_gain
