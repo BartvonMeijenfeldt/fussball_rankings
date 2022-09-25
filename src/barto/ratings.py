@@ -1,7 +1,8 @@
+from collections import UserDict
 from dataclasses import dataclass
 
 
-class Ratings(dict):
+class Ratings(UserDict):
     def __init__(self, init_rating=1500):
         self.init_rating = init_rating
         super().__init__()

@@ -3,8 +3,9 @@ import math
 
 from scipy import integrate, stats, optimize
 
-from src.barto.game_result import GameResult
 from src.barto.ratings import Player, Ratings
+from src.barto.game_result import GameResult
+from src.barto.rating_result import RatingResult
 
 
 class BartoRatings:
@@ -23,6 +24,7 @@ class BartoRatings:
             The (assumed) standard deviation of a player's game form.
         """
         self._ratings = Ratings(init_rating=init_rating)
+        self._rating_results = []
         self._calculator = BartoCalculator(sd_rating=sd_rating,
                                            sd_game_performance=sd_game_performance,
                                            rating_scale=self.rating_scale)
@@ -32,15 +34,16 @@ class BartoRatings:
             self.add_single_result(game_result=game_result)
 
     def add_single_result(self, game_result: GameResult) -> None:
-        rating_gain_team1 = self._get_rating_gain(game_result=game_result)
-        self._update_ratings(game_result, rating_gain_team1)
+        rating_gain_players_team1 = self._get_rating_gain_players_team1(game_result=game_result)
+        self._add_rating_result(game_result, rating_gain_players_team1=rating_gain_players_team1)
+        self._update_ratings(game_result=game_result, rating_gain_players_team1=rating_gain_players_team1)
 
     def _get_rating_difference(self, game_result: GameResult) -> float:
         rating_team1 = self.get_team_rating(game_result.team1)
         rating_team2 = self.get_team_rating(game_result.team2)
         return rating_team1 - rating_team2
 
-    def _get_rating_gain(self, game_result: GameResult) -> float:
+    def _get_rating_gain_players_team1(self, game_result: GameResult) -> float:
         rating_advantage_team1 = self._get_rating_difference(game_result)
 
         rating_gain_team1 = self._calculator.get_rating_gain(
@@ -48,22 +51,46 @@ class BartoRatings:
             n_contests=game_result.nr_points_played,
             constests_won=game_result.points_team1)
 
-        return rating_gain_team1
+        rating_gain_players_team1 = self._get_players_rating_gain(
+            rating_gain_team=rating_gain_team1, team_size=len(game_result.team1))
 
-    def _update_ratings(self, game_result: GameResult, rating_gain_team1: float) -> None:
-        self._update_ratings_team(team=game_result.team1, rating_gain_team=rating_gain_team1)
-        self._update_ratings_team(team=game_result.team2, rating_gain_team=-1 * rating_gain_team1)
+        return rating_gain_players_team1
 
-    def _update_ratings_team(self, team: list[str], rating_gain_team: float) -> None:
-        player_rating_gain = rating_gain_team / len(team)
+    def _update_ratings(self, game_result: GameResult, rating_gain_players_team1: float) -> None:
+        self._update_ratings_team(team=game_result.team1, rating_gain_player=rating_gain_players_team1)
+        self._update_ratings_team(team=game_result.team2, rating_gain_player=-1 * rating_gain_players_team1)
 
+    def _update_ratings_team(self, team: list[str], rating_gain_player: float) -> None:
         for player in team:
-            self._ratings[player] += player_rating_gain
+            self._ratings[player] += rating_gain_player
+
+    @staticmethod
+    def _get_players_rating_gain(rating_gain_team: float, team_size: int) -> float:
+        return round(rating_gain_team / team_size, ndigits=1)
+
+    def _add_rating_result(self, game_result: GameResult, rating_gain_players_team1: float) -> None:
+        rating_advantage_team1 = self._get_rating_difference(game_result)
+        expected_percent_score_team1 = self._calculator.get_expected_percent_score(
+            prior_rating_advantage=rating_advantage_team1)
+
+        rating_result = RatingResult(
+            team1=game_result.team1,
+            team2=game_result.team2,
+            points_team1=game_result.points_team1,
+            points_team2=game_result.points_team2,
+            rating_advantage=rating_advantage_team1,
+            expected_percent_score=expected_percent_score_team1,
+            rating_gain_players_team1=rating_gain_players_team1)
+
+        self._rating_results.append(rating_result)
 
     @property
     def ratings(self) -> list[Player]:
-        ratings = list(self._ratings.values())
-        return ratings
+        return list(self._ratings.values())
+
+    @property
+    def rating_results(self) -> list[RatingResult]:
+        return self._rating_results.copy()
 
     def get_team_rating(self, team: list[str]) -> float:
         player_ratings = [self.get_player_rating(player) for player in team]
@@ -100,7 +127,7 @@ class BartoCalculator:
     sd_game_performance: float
     rating_scale: float = 1 / 400
     max_rating_gain: float = 100
-    max_performance_diff: float = 300
+    max_performance_diff: float = 3000
 
     def get_rating_gain(self, prior_rating_advantage: float, n_contests: float, constests_won: float):
         """Get rating gain team 1.
@@ -149,7 +176,9 @@ class BartoCalculator:
                 game_outcome_probability = self._get_game_outcome_probability_mass(performance_diff=performance_diff)
                 return performance_diff_probability * game_outcome_probability
 
-            value, _ = integrate.quad(f, a=-1 * self.max_performance_diff, b=self.max_performance_diff)
+            lower_bound = self.prior_rating_advantage - self.max_performance_diff
+            upper_bound = self.prior_rating_advantage + self.max_performance_diff
+            value, _ = integrate.quad(f, a=lower_bound, b=upper_bound)
             return value
 
         return likelihood
@@ -175,3 +204,9 @@ class BartoCalculator:
         result = optimize.minimize_scalar(neg_unnormalized_posterior, bounds=rating_gain_bounds, method='brent')
         rating_gain = result.x
         return rating_gain
+
+    def get_expected_percent_score(self, prior_rating_advantage) -> float:
+        self._set_game_results(prior_rating_advantage=prior_rating_advantage, n_contests=1, constests_won=1)
+        likelhood_bayes = self._get_likelihood_bayes()
+        expected_percent_score = likelhood_bayes(rating_gain=0)
+        return expected_percent_score
