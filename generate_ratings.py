@@ -9,7 +9,7 @@ from src.barto.ratings import Player
 
 def read_game_results(path: str) -> list[GameResult]:
     with open(path, 'r', encoding='utf-8-sig') as f:
-        reader = csv.reader(f, delimiter=';')
+        reader = csv.reader(f, delimiter=',')
         header = next(reader)
         game_results = [_convert_row_to_single_game_result(header, row) for row in reader]
 
