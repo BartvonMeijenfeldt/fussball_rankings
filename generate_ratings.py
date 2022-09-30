@@ -1,7 +1,6 @@
 import csv
-from datetime import datetime
-from src.barto.rating_result import RatingResult
 
+from src.barto.game_calculation import GameCalculation
 from src.barto.barto import BartoRatings
 from src.barto.game_result import GameResult
 from src.barto.ratings import Player
@@ -26,14 +25,14 @@ def _convert_row_to_single_game_result(header: list[str], row: list[str]) -> Gam
     return GameResult(team1=team1, team2=team2, points_team1=points_team1, points_team2=points_team2)
 
 
-def get_ratings_and_results(game_results: list[GameResult]) -> tuple[list[Player], list[RatingResult]]:
+def get_ratings_and_calculations(game_results: list[GameResult]) -> tuple[list[Player], list[GameCalculation]]:
     barto_ratings = BartoRatings(init_rating=1500, sd_rating=100, sd_game_performance=100)
     barto_ratings.add_results(results=game_results)
-    return barto_ratings.ratings, barto_ratings.rating_results
+    return barto_ratings.ratings, barto_ratings.calculations
 
 
 def save_ratings(ratings: list[Player]) -> None:
-    filename = _get_file_name('beta_ratings')
+    filename = 'beta_ratings.csv'
     ratings.sort(reverse=True)
 
     with open(filename, 'w') as f:
@@ -47,8 +46,8 @@ def save_ratings(ratings: list[Player]) -> None:
             writer.writerow(values)
 
 
-def save_rating_results(rating_results: list[RatingResult]) -> None:
-    filename = _get_file_name('beta_rating_results')
+def save_calculations(calculations: list[GameCalculation]) -> None:
+    filename = 'calculations.csv'
 
     with open(filename, 'w') as f:
         writer = csv.writer(f, delimiter=',')
@@ -57,7 +56,7 @@ def save_rating_results(rating_results: list[RatingResult]) -> None:
                   'ExpectedPercentScore', 'AchievedPercentScore', 'RatingGainPlayersTeam1']
         writer.writerow(header)
 
-        for result in rating_results:
+        for result in calculations:
             values = [', '.join(result.team1), ', '.join(result.team2),
                       result.points_team1, result.points_team2,
                       round(result.rating_advantage, ndigits=1),
@@ -67,13 +66,8 @@ def save_rating_results(rating_results: list[RatingResult]) -> None:
             writer.writerow(values)
 
 
-def _get_file_name(base_name: str) -> str:
-    now_str = datetime.strftime(datetime.now(), '%Y-%m-%d %H:%M')
-    filename = f'{base_name}_{now_str}.csv'
-    return filename
-
 if __name__ == "__main__":
     game_results = read_game_results('results_table_football.csv')
-    ratings, rating_results = get_ratings_and_results(game_results=game_results)
+    ratings, calculations = get_ratings_and_calculations(game_results=game_results)
     save_ratings(ratings=ratings)
-    save_rating_results(rating_results=rating_results)
+    save_calculations(calculations=calculations)

@@ -5,7 +5,7 @@ from scipy import integrate, stats, optimize
 
 from src.barto.ratings import Player, Ratings
 from src.barto.game_result import GameResult
-from src.barto.rating_result import RatingResult
+from src.barto.game_calculation import GameCalculation
 
 
 class BartoRatings:
@@ -24,7 +24,7 @@ class BartoRatings:
             The (assumed) standard deviation of a player's game form.
         """
         self._ratings = Ratings(init_rating=init_rating)
-        self._rating_results = []
+        self._calculations = []
         self._calculator = BartoCalculator(sd_rating=sd_rating,
                                            sd_game_performance=sd_game_performance,
                                            rating_scale=self.rating_scale)
@@ -73,7 +73,7 @@ class BartoRatings:
         expected_percent_score_team1 = self._calculator.get_expected_percent_score(
             prior_rating_advantage=rating_advantage_team1)
 
-        rating_result = RatingResult(
+        rating_result = GameCalculation(
             team1=game_result.team1,
             team2=game_result.team2,
             points_team1=game_result.points_team1,
@@ -82,15 +82,15 @@ class BartoRatings:
             expected_percent_score=expected_percent_score_team1,
             rating_gain_players_team1=rating_gain_players_team1)
 
-        self._rating_results.append(rating_result)
+        self._calculations.append(rating_result)
 
     @property
     def ratings(self) -> list[Player]:
         return list(self._ratings.values())
 
     @property
-    def rating_results(self) -> list[RatingResult]:
-        return self._rating_results.copy()
+    def calculations(self) -> list[GameCalculation]:
+        return self._calculations.copy()
 
     def get_team_rating(self, team: list[str]) -> float:
         player_ratings = [self.get_player_rating(player) for player in team]

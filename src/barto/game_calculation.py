@@ -2,7 +2,7 @@ from dataclasses import dataclass, field
 
 
 @dataclass
-class RatingResult:
+class GameCalculation:
     team1: list[str]
     team2: list[str]
     points_team1: int

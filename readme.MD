@@ -1,6 +1,6 @@
 # Internal Fussball ratings at Transavia
 ## Barto Rating
-Ratings are based on the rating system named Barto which I developed during my Master's thesis. My thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
+Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
 ## Terminology
 - G: a game between 2 opposing teams (possibly consisting out of 1 player each) which is composed of multiple contests
 - c: a contest modelled as a Bernoullia trial with the outcomes team A winning or team B.
