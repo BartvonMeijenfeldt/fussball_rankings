@@ -1,6 +1,6 @@
 # Internal Fussball ratings at Transavia
 ## Barto Rating
-### Ratings are based on the rating system named Barto which I developed during my Master's thesis. My thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
+Ratings are based on the rating system named Barto which I developed during my Master's thesis. My thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
 ## Terminology
 - G: a game between 2 opposing teams (possibly consisting out of 1 player each) which is composed of multiple contests
 - c: a contest modelled as a Bernoullia trial with the outcomes team A winning or team B.
@@ -12,7 +12,7 @@
 - p_c: probability of winning a contest.
 - B_p: scaling parameter. To decide what difference in ratings means what win percentage.
 ## Methodoloygy
-### Every player will has some rating mu (initialized at 1500) which is an estimation of the player's true level, S, with uncertainy sigma_s. When a player plays a game, they will not always play on their true level but we assume them to have good games and bad games. We model this with their game performance, P, which is a normal distribution with mean S and sigma_p. Now if two teams A and B are to play the skill of each team will be the sum of the ratings of the players in the team. Then the difference of the ratings between the teams determine the chance, p_c, of each player to win a contest. The whole game is then a Binomial distribution with N_c: the number of contests to be played, p_c the probability of team A to win a point, and x the number of contests won by team A. Additional subscripts show whether the terms refer to team A or B
+Every player will has some rating mu (initialized at 1500) which is an estimation of the player's true level, S, with uncertainy sigma_s. When a player plays a game, they will not always play on their true level but we assume them to have good games and bad games. We model this with their game performance, P, which is a normal distribution with mean S and sigma_p. Now if two teams A and B are to play the skill of each team will be the sum of the ratings of the players in the team. Then the difference of the ratings between the teams determine the chance, p_c, of each player to win a contest. The whole game is then a Binomial distribution with N_c: the number of contests to be played, p_c the probability of team A to win a point, and x the number of contests won by team A. Additional subscripts show whether the terms refer to team A or B
 - S ~ N(mu, sigma_s)
 - P ~ N(S, sigma_p)
 - p_c = 1 / (1 + exp(P_B - P_A) / B_p)
