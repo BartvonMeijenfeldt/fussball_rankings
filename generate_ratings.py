@@ -66,8 +66,23 @@ def save_calculations(calculations: list[GameCalculation]) -> None:
             writer.writerow(values)
 
 
+def save_readme(ratings: list[Player]) -> None:
+    ratings_str = ''
+    for i, player in enumerate(ratings, start=1):
+        ratings_str += f'{i}. {player.name}: {player.rating} \n'
+
+    with open('base_readme.MD', 'r') as f:
+        base_readme = f.read()
+
+    readme = base_readme.format(ratings=ratings_str)
+
+    with open('readme.MD', 'w') as f:
+        f.write(readme)
+
+
 if __name__ == "__main__":
     game_results = read_game_results('results_table_football.csv')
     ratings, calculations = get_ratings_and_calculations(game_results=game_results)
     save_ratings(ratings=ratings)
     save_calculations(calculations=calculations)
+    save_readme(ratings=ratings)

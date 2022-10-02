@@ -1,18 +1,6 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
-1. Liveris: 1663.2 
-2. Bas: 1644.5 
-3. Job: 1562.7 
-4. Yashin: 1556.7 
-5. Bart: 1548.6 
-6. Carl: 1523.6 
-7. Mohammed: 1453.3 
-8. Koen: 1451.6 
-9. Daan Riepma: 1437.7 
-10. Wouter: 1417.8 
-11. Dennis: 1408.1 
-12. Timo: 1332.2 
-
+{ratings}
 ## Barto Rating
 Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
 ## Terminology
