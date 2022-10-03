@@ -1,26 +1,29 @@
 Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,AchievedPercentScore,RatingGainPlayersTeam1
-"Bart, Daan Riepma","Job, Mohammed",4,5,0,0.5,0.444,-7.4
+"Bart, Daan Ri","Job, Mohammed",4,5,0,0.5,0.444,-7.4
 "Bart, Bas","Job, Mohammed",5,1,-22.2,0.486,0.833,35.7
-"Bart, Bas","Dennis, Daan Riepma",10,3,71.4,0.544,0.769,37.4
+"Bart, Bas","Dennis, Daan Ri",10,3,71.4,0.544,0.769,37.4
 "Bart, Bas","Dennis, Koen",10,2,176.2,0.607,0.833,37.1
 "Bart, Wouter","Liveris, Timo",7,10,102.8,0.563,0.412,-27.9
 "Bas, Koen","Dennis, Bart",10,4,72.7,0.545,0.714,29.0
 "Job, Bas","Timo, Koen",10,2,91.1,0.556,0.833,44.6
 "Job, Timo","Bart, Koen",6,10,6.4,0.504,0.375,-23.2
-"Dennis, Daan Riepma","Bas, Mohammed",3,10,-303.8,0.321,0.231,-15.9
+"Dennis, Daan Ri","Bas, Mohammed",3,10,-303.8,0.321,0.231,-15.9
 "Bart, Timo","Liveris, Koen",6,10,30.8,0.519,0.375,-25.8
 "Timo, Bart","Koen, Liveris",2,10,-72.4,0.456,0.167,-46.3
 "Bart, Wouter","Koen, Liveris",3,10,-173.5,0.395,0.231,-27.8
-"Dennis, Bas","Mohammed, Daan Riepma",10,4,153.4,0.593,0.714,21.0
-"Bas, Daan Riepma","Dennis, Mohammed",10,6,270.8,0.661,0.625,-6.8
-"Bas, Mohammed","Dennis, Daan Riepma",10,4,367.4,0.712,0.714,0.3
+"Dennis, Bas","Mohammed, Daan Ri",10,4,153.4,0.593,0.714,21.0
+"Bas, Daan Ri","Dennis, Mohammed",10,6,270.8,0.661,0.625,-6.8
+"Bas, Mohammed","Dennis, Daan Ri",10,4,367.4,0.712,0.714,0.3
 "Bart, Timo","Mohammed, Koen",10,6,-186.9,0.387,0.625,43.0
 "Bart, Carl","Timo, Koen",10,5,53.8,0.533,0.667,23.5
 "Bart, Carl","Koen, Bas",10,7,-158.9,0.403,0.588,34.3
 "Bas, Koen","Carl, Bart",10,4,21.7,0.513,0.714,34.2
 "Bas, Timo","Job, Yashin",3,10,128.5,0.578,0.231,-56.7
 "Timo, Job","Bas, Koen",7,10,-260.6,0.345,0.412,12.9
-"Daan Riepma, Mohammed","Bart, Wouter",10,8,-138.2,0.416,0.556,26.5
+"Daan Ri, Mohammed","Bart, Wouter",10,8,-138.2,0.416,0.556,26.5
 "Bart, Timo","Mohammed, Koen",9,10,-75.1,0.454,0.474,3.9
 "Koen, Timo","Bart, Liveris",2,10,-286.4,0.331,0.167,-27.8
 "Timo, Koen","Bart, Liveris",3,10,-397.6,0.273,0.231,-7.6
+"Dennis, Koen","Timo, Bas",10,3,-117.0,0.428,0.769,55.6
+"Timo, Koen","Dennis, Bas",5,10,-268.8,0.34,0.333,-1.2
+"Bas, Timo","Dennis, Daan Ri",10,2,-37.1,0.477,0.833,56.2
