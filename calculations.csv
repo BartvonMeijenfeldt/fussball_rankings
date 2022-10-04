@@ -27,3 +27,9 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Dennis, Koen","Timo, Bas",10,3,-117.0,0.428,0.769,55.6
 "Timo, Koen","Dennis, Bas",5,10,-268.8,0.34,0.333,-1.2
 "Bas, Timo","Dennis, Daan Ri",10,2,-37.1,0.477,0.833,56.2
+"Bart, Yashin","Bas, Koen",10,9,-47.0,0.471,0.526,10.7
+"Job, Liveris","Yashin, Timo",10,3,326.9,0.691,0.769,13.8
+"Timo, Job","Liveris, Yashin",2,10,-336.3,0.304,0.167,-23.7
+"Job, Yashin","Liveris, Timo",10,5,135.3,0.583,0.667,14.9
+"Daan Ri, Bas","Dennis, Job",10,8,40.7,0.525,0.556,5.7
+"Yashin, Koen","Frenk, Timo",10,2,308.3,0.681,0.833,26.0
