@@ -33,3 +33,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Job, Yashin","Liveris, Timo",10,5,135.3,0.583,0.667,14.9
 "Daan Ri, Bas","Dennis, Job",10,8,40.7,0.525,0.556,5.7
 "Yashin, Koen","Frenk, Timo",10,2,308.3,0.681,0.833,26.0
+"Bart, Wouter","Carl, Liveris",8,10,-232.3,0.361,0.444,16.4
+"Philip, Wouter","Daan Ri, Koen",10,7,25.7,0.516,0.588,13.3
+"Bart, Philip","Koen, Daan Ri",10,3,207.1,0.625,0.769,24.7
