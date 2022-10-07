@@ -17,7 +17,7 @@ class Player:
     rating: float
     nr_games: int
 
-    def __add__(self, rating_gain: float):
+    def __iadd__(self, rating_gain: float):
         self.rating = round(self.rating + rating_gain, ndigits=1)
         self.nr_games += 1
         return self
