@@ -38,11 +38,6 @@ class BartoRatings:
         self._add_rating_result(game_result, rating_gain_players_team1=rating_gain_players_team1)
         self._update_ratings(game_result=game_result, rating_gain_players_team1=rating_gain_players_team1)
 
-    def _get_rating_difference(self, game_result: GameResult) -> float:
-        rating_team1 = self.get_team_rating(game_result.team1)
-        rating_team2 = self.get_team_rating(game_result.team2)
-        return rating_team1 - rating_team2
-
     def _get_rating_gain_players_team1(self, game_result: GameResult) -> float:
         rating_advantage_team1 = self._get_rating_difference(game_result)
 
@@ -55,6 +50,11 @@ class BartoRatings:
             rating_gain_team=rating_gain_team1, team_size=len(game_result.team1))
 
         return rating_gain_players_team1
+
+    def _get_rating_difference(self, game_result: GameResult) -> float:
+        rating_team1 = self.get_team_rating(game_result.team1)
+        rating_team2 = self.get_team_rating(game_result.team2)
+        return rating_team1 - rating_team2
 
     def _update_ratings(self, game_result: GameResult, rating_gain_players_team1: float) -> None:
         self._update_ratings_team(team=game_result.team1, rating_gain_player=rating_gain_players_team1)
