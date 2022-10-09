@@ -1,18 +1,18 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
 1. Liveris: 1669.4 
-2. Bas: 1641.3 
-3. Yashin: 1618.2 
+2. Yashin: 1652.6 
+3. Bas: 1641.3 
 4. Bart: 1600.4 
 5. Job: 1562.0 
 6. Philip: 1538.0 
-7. Carl: 1507.2 
-8. Koen: 1483.3 
+7. Koen: 1517.7 
+8. Carl: 1507.2 
 9. Frenk: 1474.0 
 10. Mohammed: 1453.3 
 11. Wouter: 1447.5 
-12. Dennis: 1403.0 
-13. Daan Ri: 1349.2 
+12. Dennis: 1368.6 
+13. Daan Ri: 1314.8 
 14. Timo: 1253.2 
 
 ## Barto Rating

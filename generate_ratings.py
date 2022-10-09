@@ -1,9 +1,19 @@
 import csv
+import gspread
 
 from src.barto.game_calculation import GameCalculation
 from src.barto.barto import BartoRatings
 from src.barto.game_result import GameResult
 from src.barto.ratings import Player
+
+
+def download_game_results(path: str) -> None:
+    gc = gspread.service_account()
+    game_results = gc.open('Fussball-Results-Transavia').get_worksheet(0).get_all_values()
+
+    with open(path, 'w') as f:
+        writer = csv.writer(f)
+        writer.writerows(game_results)
 
 
 def read_game_results(path: str) -> list[GameResult]:
@@ -81,6 +91,7 @@ def save_readme(ratings: list[Player]) -> None:
 
 
 if __name__ == "__main__":
+    download_game_results('results_table_football.csv')
     game_results = read_game_results('results_table_football.csv')
     ratings, calculations = get_ratings_and_calculations(game_results=game_results)
     save_ratings(ratings=ratings)
