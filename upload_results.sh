@@ -1,3 +1,4 @@
+cd $( dirname -- "${BASH_SOURCE[0]}" )
 git switch latest_ratings
 git pull
 python generate_ratings.py
