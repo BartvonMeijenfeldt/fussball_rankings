@@ -1,4 +1,6 @@
-cd $( dirname -- "${BASH_SOURCE[0]}" )
+#!/bin/bash
+cd "$( dirname -- "${BASH_SOURCE[0]}" )"
+echo $(ls)
 git switch latest_ratings
 git pull
 source ~/miniconda3/bin/activate fussball_rankings
