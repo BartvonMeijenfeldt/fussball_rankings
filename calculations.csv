@@ -37,3 +37,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Philip, Wouter","Daan Ri, Koen",10,7,25.7,0.516,0.588,13.3
 "Bart, Philip","Koen, Daan Ri",10,3,207.1,0.625,0.769,24.7
 "Dennis, Daan Ri","Yashin, Koen",1,10,-349.3,0.297,0.091,-34.4
+"Koen, Bas","Wouter, Yashin",10,5,58.9,0.536,0.667,22.9
+"Yashin, Koen","Bas, Wouter",10,6,81.5,0.55,0.625,13.6
