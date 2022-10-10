@@ -40,3 +40,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Koen, Bas","Wouter, Yashin",10,5,58.9,0.536,0.667,22.9
 "Yashin, Koen","Bas, Wouter",10,6,81.5,0.55,0.625,13.6
 "Bas, Yashin","Martin, Mohammed",10,6,340.6,0.698,0.625,-14.2
+"Kassandra, Koen","Martin, Yashin",2,10,-89.1,0.445,0.167,-44.8
+"Yashin, Kassandra","Martin, Koen",6,7,60.7,0.537,0.462,-12.3
