@@ -45,3 +45,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Kassandra, Yashin","Martin, Koen",3,10,11.5,0.507,0.231,-45.3
 "Bas, Timo","Martin, Mohammed",10,3,-194.5,0.382,0.769,63.3
 "Bas, Mohammed","Martin, Timo",10,6,234.1,0.64,0.625,-2.9
+"Koen, Yashin","Martin, Mohammed",8,10,225.8,0.636,0.444,-36.7
+"Yashin, Koen","Martin, Mohammed",10,3,79.0,0.548,0.769,36.7
