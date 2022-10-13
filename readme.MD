@@ -7,14 +7,14 @@
 5. Job: 1562.0 
 6. Philip: 1539.6 
 7. Martin: 1533.7 
-8. Koen: 1519.4 
+8. Koen: 1530.5 
 9. Carl: 1507.2 
-10. Frenk: 1484.2 
+10. Frenk: 1473.1 
 11. Wouter: 1440.8 
-12. Kassandra: 1397.6 
-13. Dennis: 1368.6 
-14. Daan Ri: 1367.8 
-15. Mohammed: 1351.3 
+12. Daan Ri: 1404.1 
+13. Kassandra: 1397.6 
+14. Dennis: 1368.6 
+15. Mohammed: 1315.0 
 16. Timo: 1266.8 
 
 ## Barto Rating
