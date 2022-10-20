@@ -2,13 +2,13 @@
 ## Ratings
 1. Bas: 1685.4 
 2. Liveris: 1682.8 
-3. Yashin: 1638.3 
-4. Koen: 1620.9 
+3. Yashin: 1620.2 
+4. Koen: 1602.8 
 5. Bart: 1581.7 
 6. Job: 1562.0 
-7. Martin: 1540.0 
+7. Martin: 1558.1 
 8. Frenk: 1539.3 
-9. Philip: 1520.1 
+9. Philip: 1538.2 
 10. Carl: 1507.2 
 11. Michiel: 1484.7 
 12. Wouter: 1406.1 
