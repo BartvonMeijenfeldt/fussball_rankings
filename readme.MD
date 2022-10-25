@@ -2,10 +2,10 @@
 ## Ratings
 1. Liveris: 1682.8 
 2. Koen: 1668.3 
-3. Bart: 1608.2 
-4. Bas: 1593.4 
+3. Bart: 1620.2 
+4. Bas: 1605.4 
 5. Yashin: 1580.8 
-6. Job: 1562.0 
+6. Job: 1550.0 
 7. Frenk: 1539.3 
 8. Philip: 1538.2 
 9. Carl: 1507.2 
@@ -16,7 +16,7 @@
 14. Kassandra: 1400.6 
 15. Dennis: 1399.1 
 16. Mohammed: 1327.5 
-17. Timo: 1292.2 
+17. Timo: 1280.2 
 
 ## Barto Rating
 Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
