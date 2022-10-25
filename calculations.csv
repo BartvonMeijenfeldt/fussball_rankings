@@ -86,3 +86,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Frenk, Yashin","Martin, Job",10,9,20.3,0.512,0.526,2.7
 "Bart, Yashin","Mohammed, Koen",7,10,160.0,0.597,0.412,-34.4
 "Loek, Bas","Yashin, Daan Ru",10,3,100.6,0.562,0.769,34.6
+"Timo, Martin","Mohammed, Yashin",10,8,-141.3,0.414,0.556,26.9
+"Bart, Mohammed","Bas, Koen",2,10,-377.6,0.283,0.167,-20.3
+"Bart, Mohammed","Bas, Koen",10,9,-458.8,0.244,0.526,59.4
