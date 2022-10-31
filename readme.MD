@@ -2,12 +2,12 @@
 ## Ratings
 1. Liveris: 1682.8 
 2. Bart: 1669.2 
-3. Koen: 1640.3 
-4. Yashin: 1636.9 
-5. Philip: 1575.4 
-6. Job: 1547.3 
-7. Bas: 1535.7 
-8. Loek: 1534.6 
+3. Yashin: 1664.2 
+4. Koen: 1613.0 
+5. Loek: 1561.9 
+6. Philip: 1548.1 
+7. Job: 1547.3 
+8. Bas: 1535.7 
 9. Martin: 1507.7 
 10. Frenk: 1495.9 
 11. Mohammed: 1486.9 
