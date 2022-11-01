@@ -100,3 +100,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Loek, Yashin","Philip, Koen",10,6,-44.2,0.473,0.625,27.3
 "Yashin, Koen","Timo, Philip",10,5,411.9,0.734,0.667,-13.1
 "Philip, Yashin","Timo, Koen",9,10,282.1,0.667,0.474,-38.6
+"Bas, Yashin","Bart, Timo",11,8,110.1,0.567,0.579,2.2
+"Bart, Bas","Liveris, Koen",10,8,-116.4,0.429,0.556,24.0
