@@ -103,3 +103,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bas, Yashin","Bart, Timo",11,8,110.1,0.567,0.579,2.2
 "Bart, Bas","Liveris, Koen",10,8,-116.4,0.429,0.556,24.0
 "Frenk, Yashin","Bart, Daan Ru",10,8,48.1,0.53,0.556,4.9
+"Yashin, Bart","Timo, Koen",10,7,324.5,0.69,0.588,-20.0
+"Bart, Yashin","Timo, Koen",10,7,244.5,0.646,0.588,-11.2
