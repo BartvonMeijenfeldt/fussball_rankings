@@ -6,20 +6,20 @@
 4. Bas: 1592.8 
 5. Yashin: 1565.1 
 6. Loek: 1561.9 
-7. Philip: 1522.6 
-8. Job: 1516.4 
+7. Frenk: 1531.4 
+8. Philip: 1522.6 
 9. Martin: 1507.7 
-10. Frenk: 1487.3 
-11. Mohammed: 1486.9 
-12. Carl: 1482.4 
+10. Mohammed: 1486.9 
+11. Carl: 1482.4 
+12. Job: 1472.3 
 13. Thomas: 1465.5 
 14. Michiel: 1440.4 
-15. Kassandra: 1434.0 
-16. Daan Ri: 1404.1 
-17. Dennis: 1399.1 
-18. Timo: 1394.0 
-19. Wouter: 1390.5 
-20. Daan Ru: 1366.6 
+15. Wouter: 1434.6 
+16. Kassandra: 1434.0 
+17. Daan Ri: 1404.1 
+18. Dennis: 1399.1 
+19. Daan Ru: 1366.6 
+20. Timo: 1349.9 
 
 ## Barto Rating
 Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)

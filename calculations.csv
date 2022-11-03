@@ -110,3 +110,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Yashin, Wouter","Kassandra, Koen",4,10,-32.8,0.48,0.286,-33.0
 "Bas, Wouter","Timo, Job",10,7,-10.2,0.494,0.588,17.4
 "Bas, Timo","Frenk, Job",10,9,-70.9,0.456,0.526,13.5
+"Frenk, Wouter","Job, Timo",10,7,-32.6,0.48,0.588,19.9
+"Frenk, Wouter","Job, Timo",10,5,47.0,0.529,0.667,24.2
