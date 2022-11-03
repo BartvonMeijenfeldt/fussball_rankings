@@ -3,10 +3,10 @@
 1. Koen: 1669.0 
 2. Liveris: 1658.8 
 3. Bart: 1654.9 
-4. Yashin: 1565.1 
-5. Bas: 1561.9 
+4. Bas: 1579.3 
+5. Yashin: 1565.1 
 6. Loek: 1561.9 
-7. Job: 1547.3 
+7. Job: 1529.9 
 8. Philip: 1522.6 
 9. Martin: 1507.7 
 10. Frenk: 1500.8 
@@ -17,8 +17,8 @@
 15. Kassandra: 1434.0 
 16. Daan Ri: 1404.1 
 17. Dennis: 1399.1 
-18. Timo: 1397.9 
-19. Wouter: 1373.1 
+18. Wouter: 1390.5 
+19. Timo: 1380.5 
 20. Daan Ru: 1366.6 
 
 ## Barto Rating
