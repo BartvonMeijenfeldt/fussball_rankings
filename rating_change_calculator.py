@@ -1,7 +1,7 @@
 # Script to calculate rating changes
 import argparse
 
-from src.barto.barto import BartoCalculator
+from barto.barto import BartoCalculator
 
 
 parser = argparse.ArgumentParser()

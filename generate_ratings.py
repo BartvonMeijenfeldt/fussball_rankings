@@ -1,10 +1,10 @@
 import csv
 import gspread
 
-from src.barto.game_calculation import GameCalculation
-from src.barto.barto import BartoRatings
-from src.barto.game_result import GameResult
-from src.barto.ratings import Player
+from barto.game_calculation import GameCalculation
+from barto.barto import BartoRatings
+from barto.game_result import GameResult
+from barto.ratings import Player
 
 
 def download_game_results(path: str) -> None:

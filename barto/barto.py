@@ -3,9 +3,9 @@ import math
 
 from scipy import integrate, stats, optimize
 
-from src.barto.ratings import Player, Ratings
-from src.barto.game_result import GameResult
-from src.barto.game_calculation import GameCalculation
+from .ratings import Player, Ratings
+from .game_result import GameResult
+from .game_calculation import GameCalculation
 
 
 class BartoRatings:
