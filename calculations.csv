@@ -115,3 +115,7 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Oliver, Wouter","Mohammed, Koen",8,10,-221.3,0.367,0.444,15.1
 "Oliver, Mohammed","Wouter, Koen",10,9,-116.7,0.429,0.526,18.9
 "Frenk, Job","Loek, Daan Ru",10,8,75.2,0.546,0.556,1.8
+"Timo, Liveris","Job, Michiel",10,1,94.2,0.558,0.909,54.3
+"Liveris, Timo","Michiel, Job",10,3,311.4,0.683,0.769,15.2
+"Mohammed, Koen","Frenk, Wouter",10,1,161.7,0.598,0.909,48.8
+"Mohammed, Koen","Frenk, Wouter",10,5,356.9,0.707,0.667,-7.7
