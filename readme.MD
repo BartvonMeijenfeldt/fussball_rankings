@@ -5,21 +5,21 @@
 3. Koen: 1635.0 
 4. Bas: 1592.8 
 5. Yashin: 1565.1 
-6. Loek: 1561.9 
+6. Loek: 1560.1 
 7. Oliver: 1534.0 
-8. Frenk: 1531.4 
+8. Frenk: 1533.2 
 9. Philip: 1522.6 
 10. Martin: 1507.7 
 11. Mohammed: 1490.7 
 12. Carl: 1482.4 
-13. Job: 1472.3 
+13. Job: 1474.1 
 14. Thomas: 1465.5 
 15. Michiel: 1440.4 
 16. Kassandra: 1434.0 
 17. Wouter: 1430.8 
 18. Daan Ri: 1404.1 
 19. Dennis: 1399.1 
-20. Daan Ru: 1366.6 
+20. Daan Ru: 1364.8 
 21. Timo: 1349.9 
 
 ## Barto Rating
