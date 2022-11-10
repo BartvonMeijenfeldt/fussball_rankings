@@ -3,21 +3,21 @@
 1. Liveris: 1737.5 
 2. Koen: 1716.0 
 3. Bart: 1654.9 
-4. Bas: 1592.8 
-5. Loek: 1592.7 
-6. Mohammed: 1563.8 
+4. Loek: 1592.7 
+5. Mohammed: 1563.8 
+6. Bas: 1556.1 
 7. Yashin: 1535.0 
 8. Oliver: 1534.0 
-9. Philip: 1522.6 
-10. Martin: 1483.6 
-11. Carl: 1479.9 
-12. Timo: 1475.5 
+9. Timo: 1512.2 
+10. Philip: 1485.9 
+11. Martin: 1483.6 
+12. Carl: 1479.9 
 13. Thomas: 1465.5 
 14. Frenk: 1459.5 
 15. Job: 1437.2 
-16. Daan Ri: 1404.1 
-17. Dennis: 1399.1 
-18. Daan Ru: 1374.0 
+16. Daan Ru: 1410.7 
+17. Daan Ri: 1404.1 
+18. Dennis: 1399.1 
 19. Michiel: 1370.9 
 20. Kassandra: 1352.9 
 21. Wouter: 1348.5 
