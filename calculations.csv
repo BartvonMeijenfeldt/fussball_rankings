@@ -82,10 +82,10 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bart, Yashin","Martin, Koen",10,7,-90.8,0.444,0.588,26.5
 "Bart, Bas","Job, Timo",10,3,347.4,0.702,0.769,12.0
 "Frenk, Martin","Mohammed, Koen",4,11,49.0,0.53,0.267,-46.1
-"Bart, Martin","Michiel, Daan Ru",10,2,94.9,0.558,0.833,44.3
+"Bart, Martin","Michiel, Donnie",10,2,94.9,0.558,0.833,44.3
 "Frenk, Yashin","Martin, Job",10,9,20.3,0.512,0.526,2.7
 "Bart, Yashin","Mohammed, Koen",7,10,160.0,0.597,0.412,-34.4
-"Loek, Bas","Yashin, Daan Ru",10,3,100.6,0.562,0.769,34.6
+"Loek, Bas","Yashin, Donnie",10,3,100.6,0.562,0.769,34.6
 "Timo, Martin","Mohammed, Yashin",10,8,-141.3,0.414,0.556,26.9
 "Bart, Mohammed","Bas, Koen",2,10,-377.6,0.283,0.167,-20.3
 "Bart, Mohammed","Bas, Koen",10,9,-458.8,0.244,0.526,59.4
@@ -93,7 +93,7 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Timo, Koen","Philip, Martin",10,9,-39.2,0.476,0.526,9.7
 "Timo, Koen","Philip, Martin",10,8,-0.4,0.5,0.556,10.5
 "Philip, Bas","Thomas, Carl",10,3,101.6,0.562,0.769,34.5
-"Daan Ru, Philip","Yashin, Mohammed",3,10,55.7,0.534,0.231,-49.6
+"Donnie, Philip","Yashin, Mohammed",3,10,55.7,0.534,0.231,-49.6
 "Yashin, Mohammed","Bas, Koen",6,10,-368.4,0.287,0.375,17.1
 "Philip, Yashin","Bas, Koen",10,5,-294.1,0.326,0.667,60.5
 "Philip, Yashin","Bas, Koen",10,7,-52.1,0.468,0.588,22.1
@@ -102,7 +102,7 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Philip, Yashin","Timo, Koen",9,10,282.1,0.667,0.474,-38.6
 "Bas, Yashin","Bart, Timo",11,8,110.1,0.567,0.579,2.2
 "Bart, Bas","Liveris, Koen",10,8,-116.4,0.429,0.556,24.0
-"Frenk, Yashin","Bart, Daan Ru",10,8,48.1,0.53,0.556,4.9
+"Frenk, Yashin","Bart, Donnie",10,8,48.1,0.53,0.556,4.9
 "Yashin, Bart","Timo, Koen",10,7,324.5,0.69,0.588,-20.0
 "Bart, Yashin","Timo, Koen",10,7,244.5,0.646,0.588,-11.2
 "Carl, Yashin","Kassandra, Koen",10,8,4.7,0.503,0.556,9.9
@@ -114,7 +114,7 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Frenk, Wouter","Job, Timo",10,5,47.0,0.529,0.667,24.2
 "Oliver, Wouter","Mohammed, Koen",8,10,-221.3,0.367,0.444,15.1
 "Oliver, Mohammed","Wouter, Koen",10,9,-116.7,0.429,0.526,18.9
-"Frenk, Job","Loek, Daan Ru",10,8,75.2,0.546,0.556,1.8
+"Frenk, Job","Loek, Donnie",10,8,75.2,0.546,0.556,1.8
 "Timo, Liveris","Job, Michiel",10,1,94.2,0.558,0.909,54.3
 "Liveris, Timo","Michiel, Job",10,3,311.4,0.683,0.769,15.2
 "Mohammed, Koen","Frenk, Wouter",10,1,161.7,0.598,0.909,48.8
@@ -122,8 +122,8 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Loek, Job","Frenk, Yashin",10,6,-92.5,0.443,0.625,32.6
 "Timo, Mohammed","Wouter, Koen",10,7,-114.6,0.43,0.588,29.2
 "Timo, Mohammed","Wouter, Koen",10,4,2.2,0.501,0.714,36.1
-"Timo, Mohammed","Liveris, Daan Ru",8,10,-11.3,0.493,0.444,-9.2
+"Timo, Mohammed","Liveris, Donnie",8,10,-11.3,0.493,0.444,-9.2
 "Martin, Mohammed","Wouter, Koen",9,10,160.4,0.597,0.474,-24.1
 "Yashin, Koen","Carl, Kassandra",10,1,251.0,0.65,0.909,41.8
 "Carl, Koen","Kassandra, Yashin",10,2,150.8,0.592,0.833,39.3
-"Timo, Daan Ru","Bas, Philip",10,9,-265.9,0.342,0.526,36.7
+"Timo, Donnie","Bas, Philip",10,9,-265.9,0.342,0.526,36.7

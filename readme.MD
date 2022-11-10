@@ -15,7 +15,7 @@
 13. Thomas: 1465.5 
 14. Frenk: 1459.5 
 15. Job: 1437.2 
-16. Daan Ru: 1410.7 
+16. Donnie: 1410.7 
 17. Daan Ri: 1404.1 
 18. Dennis: 1399.1 
 19. Michiel: 1370.9 
