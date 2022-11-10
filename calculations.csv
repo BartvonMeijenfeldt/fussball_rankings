@@ -127,3 +127,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Yashin, Koen","Carl, Kassandra",10,1,251.0,0.65,0.909,41.8
 "Carl, Koen","Kassandra, Yashin",10,2,150.8,0.592,0.833,39.3
 "Timo, Donnie","Bas, Philip",10,9,-265.9,0.342,0.526,36.7
+"Timo, Yashin","Kassandra, Koen",10,4,-21.7,0.487,0.714,38.6
+"Yashin, Koen","Kassandra, Timo",10,3,385.9,0.721,0.769,8.6
