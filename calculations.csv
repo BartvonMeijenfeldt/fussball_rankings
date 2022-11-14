@@ -130,3 +130,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Timo, Yashin","Kassandra, Koen",10,4,-21.7,0.487,0.714,38.6
 "Yashin, Koen","Kassandra, Timo",10,3,385.9,0.721,0.769,8.6
 "Wouter, Mohammed","Bas, Koen",3,10,-329.8,0.307,0.231,-13.6
+"Mohammed, Koen","Bas, Michiel",10,3,309.2,0.682,0.769,15.4
+"Bas, Koen","Mohammed, Michiel",10,0,348.2,0.702,1.0,47.6
