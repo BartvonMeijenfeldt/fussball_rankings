@@ -137,3 +137,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bart, Mohammed","Bas, Martin",4,2,71.8,0.544,0.667,12.6
 "Loek, Job","Timo, Donnie",10,3,77.0,0.547,0.769,36.8
 "Loek, Donnie","Job, Timo",10,2,24.0,0.515,0.833,50.6
+"Mohammed, Timo","Loek, Bas",10,7,-292.4,0.327,0.588,49.4
+"Kassandra, Timo","Bas, Loek",6,10,-364.9,0.289,0.375,16.8
