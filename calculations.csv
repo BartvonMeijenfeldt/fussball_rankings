@@ -135,3 +135,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Carl, Koen","Bart, Yashin",10,7,5.4,0.503,0.588,15.6
 "Martin, Mohammed","Bart, Bas",5,10,-239.6,0.357,0.333,-4.2
 "Bart, Mohammed","Bas, Martin",4,2,71.8,0.544,0.667,12.6
+"Loek, Job","Timo, Donnie",10,3,77.0,0.547,0.769,36.8
+"Loek, Donnie","Job, Timo",10,2,24.0,0.515,0.833,50.6
