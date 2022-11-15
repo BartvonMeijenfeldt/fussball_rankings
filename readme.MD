@@ -2,16 +2,16 @@
 ## Ratings
 1. Koen: 1778.2 
 2. Liveris: 1737.5 
-3. Bart: 1639.3 
-4. Bas: 1601.9 
+3. Bart: 1656.1 
+4. Bas: 1593.5 
 5. Loek: 1592.7 
 6. Yashin: 1566.6 
 7. Timo: 1542.2 
 8. Oliver: 1534.0 
-9. Mohammed: 1518.0 
+9. Mohammed: 1526.4 
 10. Carl: 1495.5 
 11. Philip: 1485.9 
-12. Martin: 1483.6 
+12. Martin: 1466.8 
 13. Thomas: 1465.5 
 14. Frenk: 1459.5 
 15. Job: 1437.2 
