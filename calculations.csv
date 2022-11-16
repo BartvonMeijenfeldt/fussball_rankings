@@ -142,3 +142,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bart, Yashin","Liveris, Timo",10,6,-35.8,0.478,0.625,26.4
 "Kassandra, Yashin","Bart, Koen",5,10,-545.2,0.207,0.333,26.0
 "Yashin, Koen","Bart, Kassandra",4,5,366.2,0.711,0.444,-37.1
+"Yashin, Job V","Floris, Bruno",10,2,81.9,0.55,0.833,45.4
+"Bruno, Yashin","Job V, Floris",6,10,81.9,0.55,0.375,-31.4
