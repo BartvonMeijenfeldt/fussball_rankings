@@ -149,3 +149,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bart, Koen","Bas, Martin",10,4,302.7,0.678,0.714,6.5
 "Bart, Bas","Martin, Koen",10,9,1.7,0.501,0.526,4.9
 "Yashin, Koen","Bas, Kassandra",10,0,340.4,0.698,1.0,48.1
+"Yashin, Koen","Bart, Martin",10,4,224.8,0.635,0.714,14.0
+"Bart, Yashin","Martin, Koen",10,6,30.6,0.519,0.625,19.1
