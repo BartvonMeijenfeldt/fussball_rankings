@@ -154,3 +154,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bas, Mohammed","Dennis, Michiel",10,2,397.4,0.727,0.833,18.7
 "Bart, Philip","Yashin, Koen",7,10,-254.5,0.348,0.412,12.3
 "Bart, Philip","Yashin, Koen",10,9,-205.3,0.376,0.526,29.5
+"Yashin, Philip","Bart, Koen",4,10,-293.1,0.327,0.286,-7.4
+"Bart, Yashin","Philip, Koen",10,9,80.7,0.55,0.526,-4.5
+"Bart, Yashin","Philip, Koen",6,10,62.7,0.539,0.375,-29.3
