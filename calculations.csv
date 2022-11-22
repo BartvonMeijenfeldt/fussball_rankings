@@ -161,3 +161,8 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Philip, Koen","Bas, Timo",10,5,285.0,0.669,0.667,-0.4
 "Philip, Koen","Bas, Timo",10,3,283.4,0.668,0.769,17.7
 "Martin, Yashin","Bart, Dennis",10,3,11.2,0.507,0.769,43.1
+"Martin, Koen","Philip, Timo",10,1,248.4,0.648,0.909,42.0
+"Bart, Koen","Martin, Timo",10,0,465.5,0.759,1.0,40.3
+"Loek, Koen","Bart, Timo",10,5,392.2,0.724,0.667,-11.2
+"Frenk, Bas","Loek, Michiel",4,10,83.9,0.551,0.286,-44.9
+"Frenk, Bas","Loek, Michiel",10,2,-95.7,0.441,0.833,61.6
