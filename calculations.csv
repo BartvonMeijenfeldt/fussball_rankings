@@ -173,4 +173,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Wouter, Carl","Yashin, Koen",5,10,-546.5,0.206,0.333,26.1
 "Bart, Liveris","Yashin, Koen",9,10,-33.1,0.48,0.474,-1.1
 "Martin, Yashin","Job, Donnie",10,3,240.9,0.644,0.769,21.6
-"Frenk, Donny","Job, Koen",0,5,-265.0,0.342,0.0,-32.3
+"Frenk, Donnie","Job, Koen",0,5,-362.1,0.291,0.0,-28.1
+"Martin, Yashin","Frenk, Job",5,2,263.3,0.657,0.714,6.8
+"Job, Yashin","Frenk, Koen",6,10,-249.3,0.351,0.375,4.5
