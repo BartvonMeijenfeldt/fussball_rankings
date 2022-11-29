@@ -15,18 +15,19 @@
 13. Frenk : 1509.9 
 14. Job : 1490.1 
 15. Floris: 1486.0 
-16. Thomas: 1465.5 
-17. Jelle: 1461.8 
-18. Job: 1451.4 
-19. Frenk: 1427.5 
-20. Timo: 1426.7 
+16. Job: 1485.6 
+17. Donnie : 1465.8 
+18. Thomas: 1465.5 
+19. Jelle: 1461.8 
+20. Frenk: 1461.7 
 21. Bruno: 1423.2 
 22. Wouter: 1415.4 
 23. Daan Ri: 1404.1 
-24. Donnie: 1360.9 
-25. Kassandra: 1337.5 
-26. Dennis: 1317.4 
-27. Michiel: 1272.7 
+24. Timo: 1392.5 
+25. Donnie: 1360.9 
+26. Kassandra: 1337.5 
+27. Dennis: 1317.4 
+28. Michiel: 1272.7 
 
 ## Barto Rating
 Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
