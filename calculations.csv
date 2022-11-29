@@ -180,3 +180,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Job, Timo","Donnie, Bas",5,3,-109.6,0.433,0.625,23.8
 "Martin, Yashin","Bas, Timo",10,7,205.4,0.624,0.588,-6.8
 "Frenk, Job","Donnie , Timo",10,5,-47.8,0.471,0.667,34.2
+"Frenk, Job","Donnie , Yashin",5,1,-134.0,0.418,0.833,42.7
+"Job, Yashin","Frenk, Donnie",5,1,235.8,0.641,0.833,20.4
+"Job, Donnie","Frenk, Yashin",5,3,-188.0,0.386,0.625,29.8
