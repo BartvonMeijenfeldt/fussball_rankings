@@ -1,6 +1,6 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
-1. Koen: 1853.7 
+1. Koen: 1860.1 
 2. Liveris: 1710.4 
 3. Bart: 1671.6 
 4. Mohammed: 1585.4 
@@ -14,20 +14,21 @@
 12. Bas: 1531.6 
 13. Martin: 1521.0 
 14. Frenk : 1509.9 
-15. Job : 1490.1 
-16. Floris: 1486.0 
-17. Frenk: 1485.6 
-18. Thomas: 1465.5 
-19. Jelle: 1461.8 
-20. Wouter: 1457.8 
-21. Bruno: 1423.2 
-22. Daan Ri: 1404.1 
-23. Donnie : 1386.0 
-24. Donnie: 1371.8 
-25. Timo: 1350.1 
-26. Kassandra: 1337.5 
-27. Dennis: 1317.4 
-28. Michiel: 1272.7 
+15. Vincent: 1493.6 
+16. Job : 1490.1 
+17. Floris: 1486.0 
+18. Frenk: 1479.2 
+19. Thomas: 1465.5 
+20. Jelle: 1461.8 
+21. Wouter: 1457.8 
+22. Bruno: 1423.2 
+23. Daan Ri: 1404.1 
+24. Donnie : 1386.0 
+25. Donnie: 1371.8 
+26. Timo: 1356.5 
+27. Kassandra: 1337.5 
+28. Dennis: 1317.4 
+29. Michiel: 1272.7 
 
 ## Barto Rating
 Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
