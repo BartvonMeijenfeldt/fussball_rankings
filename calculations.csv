@@ -185,3 +185,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Job, Yashin","Frenk, Donnie",5,1,198.7,0.62,0.833,22.5
 "Job, Donnie","Frenk, Yashin",5,3,-235.7,0.359,0.625,33.4
 "Timo, Koen","Frenk, Vincent",10,5,218.2,0.631,0.667,6.4
+"Martin, Bas","Frenk, Koen",7,10,-286.7,0.33,0.412,15.8
+"Carl, Yashin","Martin, Koen",7,10,-254.1,0.348,0.412,12.2
+"Yashin, Donnie","Bas, Koen",5,10,-428.3,0.258,0.333,14.7
