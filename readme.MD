@@ -1,10 +1,10 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
-1. Koen: 1770.1 
+1. Koen: 1784.8 
 2. Liveris: 1710.4 
-3. Bart: 1671.6 
-4. Yashin: 1632.2 
-5. Martin: 1605.1 
+3. Bart: 1656.9 
+4. Martin: 1619.8 
+5. Yashin: 1617.5 
 6. Loek: 1601.8 
 7. Mohammed: 1585.4 
 8. Job V: 1576.8 
