@@ -200,3 +200,7 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Frenk, Yashin","Timo, Martin",10,4,117.8,0.572,0.714,24.5
 "Kassandra, Yashin","Martin, Timo",10,7,65.5,0.54,0.588,8.9
 "Dennis, Yashin","Daan Ri, Koen",7,10,-271.2,0.339,0.412,14.1
+"Wouter, Job","Bas, Timo",6,5,82.8,0.551,0.545,-0.8
+"Bas, Job","Donnie, Yashin",10,6,43.4,0.527,0.625,17.7
+"Martin, Job","Mohammed, Yashin",10,9,-99.9,0.439,0.526,16.9
+"Kassandra, Yashin","Job, Mohammed",10,6,-152.0,0.408,0.625,39.2
