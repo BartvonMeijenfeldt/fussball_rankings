@@ -201,6 +201,9 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Kassandra, Yashin","Martin, Timo",10,7,65.5,0.54,0.588,8.9
 "Dennis, Yashin","Daan Ri, Koen",7,10,-271.2,0.339,0.412,14.1
 "Wouter, Job","Bas, Timo",6,5,82.8,0.551,0.545,-0.8
-"Bas, Job","Donnie, Yashin",10,6,43.4,0.527,0.625,17.7
-"Martin, Job","Mohammed, Yashin",10,9,-99.9,0.439,0.526,16.9
-"Kassandra, Yashin","Job, Mohammed",10,6,-152.0,0.408,0.625,39.2
+"Donnie, Liveris","Koen, Timo",10,9,-140.2,0.415,0.526,21.7
+"Bas, Job","Donnie, Yashin",10,6,21.7,0.513,0.625,20.1
+"Martin, Job","Mohammed, Yashin",10,9,-95.1,0.442,0.526,16.4
+"Kassandra, Yashin","Job, Mohammed",10,6,-156.3,0.405,0.625,39.7
+"Bas, Timo","Kassandra, Yashin",10,7,-245.7,0.353,0.588,44.1
+"Kassandra, Yashin","Frenk, Donnie",10,5,171.0,0.604,0.667,11.2
