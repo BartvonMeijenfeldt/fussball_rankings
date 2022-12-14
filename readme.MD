@@ -4,17 +4,17 @@
 2. Liveris: 1701.8 
 3. Bart: 1687.2 
 4. Yashin: 1649.5 
-5. Martin: 1605.8 
-6. Job V: 1576.8 
-7. Carl: 1572.2 
-8. Bas: 1566.8 
-9. Loek: 1554.3 
+5. Bas: 1604.6 
+6. Loek: 1592.1 
+7. Job V: 1576.8 
+8. Carl: 1572.2 
+9. Martin: 1568.0 
 10. Job: 1536.7 
 11. Oliver: 1534.0 
-12. Mohammed: 1529.3 
-13. Philip: 1525.6 
-14. Frenk : 1509.9 
-15. Vincent: 1501.3 
+12. Philip: 1525.6 
+13. Frenk : 1509.9 
+14. Vincent: 1501.3 
+15. Mohammed: 1491.5 
 16. Job : 1490.1 
 17. Floris: 1486.0 
 18. Frenk: 1476.6 
