@@ -1,15 +1,15 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
-1. Koen: 1735.7 
+1. Koen: 1812.5 
 2. Liveris: 1701.8 
-3. Bart: 1648.4 
-4. Loek: 1632.8 
-5. Yashin: 1625.7 
-6. Oliver: 1609.1 
-7. Bas: 1599.5 
-8. Job V: 1576.8 
-9. Martin: 1568.0 
-10. Job: 1536.7 
+3. Loek: 1632.8 
+4. Yashin: 1625.7 
+5. Oliver: 1609.1 
+6. Job V: 1576.8 
+7. Bart: 1571.6 
+8. Martin: 1568.0 
+9. Job: 1536.7 
+10. Bas: 1522.7 
 11. Carl: 1521.7 
 12. Vincent: 1510.7 
 13. Frenk : 1509.9 
@@ -24,9 +24,9 @@
 22. Kassandra: 1443.9 
 23. Bruno: 1423.2 
 24. Daan Ri: 1390.0 
-25. Wouter: 1364.1 
-26. Dennis: 1314.4 
-27. Donnie: 1311.8 
+25. Donnie: 1388.6 
+26. Wouter: 1364.1 
+27. Dennis: 1314.4 
 28. Michiel: 1197.8 
 
 ## Barto Rating
