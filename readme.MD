@@ -2,11 +2,11 @@
 ## Ratings
 1. Koen: 1720.9 
 2. Liveris: 1701.8 
-3. Bart: 1674.2 
-4. Yashin: 1651.3 
-5. Loek: 1632.8 
-6. Oliver: 1609.1 
-7. Bas: 1588.5 
+3. Bart: 1648.4 
+4. Loek: 1632.8 
+5. Yashin: 1625.7 
+6. Bas: 1614.3 
+7. Oliver: 1609.1 
 8. Job V: 1576.8 
 9. Martin: 1568.0 
 10. Job: 1536.7 
@@ -26,7 +26,7 @@
 24. Daan Ri: 1390.0 
 25. Wouter: 1364.1 
 26. Dennis: 1314.4 
-27. Donnie: 1286.2 
+27. Donnie: 1311.8 
 28. Michiel: 1197.8 
 
 ## Barto Rating
