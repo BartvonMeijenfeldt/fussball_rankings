@@ -231,3 +231,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Donnie, Koen","Bas, Bart",10,4,-65.2,0.46,0.714,43.0
 "Job V, Yashin","Irene, Jay",10,0,202.5,0.622,1.0,57.5
 "Yashin, Irene","Jane, Job V",8,10,-8.6,0.495,0.444,-9.5
+"Kassandra, Yashin","Bart, Koen",1,10,-266.5,0.342,0.091,-40.6
+"Kassandra, Koen","Bart, Yashin",4,10,11.1,0.507,0.286,-37.5
+"Bart, Kassandra","Yashin, Koen",2,10,-470.7,0.239,0.167,-13.1
