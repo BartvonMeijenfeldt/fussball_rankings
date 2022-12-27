@@ -234,3 +234,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Kassandra, Yashin","Bart, Koen",1,10,-266.5,0.342,0.091,-40.6
 "Kassandra, Koen","Bart, Yashin",4,10,11.1,0.507,0.286,-37.5
 "Bart, Kassandra","Yashin, Koen",2,10,-470.7,0.239,0.167,-13.1
+"Kassandra, Yashin","Bart, Koen",3,10,-428.9,0.258,0.231,-4.9
+"Bart, Yashin","Kassandra, Koen",10,2,138.9,0.585,0.833,40.4
+"Yashin, Koen","Bart, Kassandra",10,3,523.1,0.784,0.769,-2.9
