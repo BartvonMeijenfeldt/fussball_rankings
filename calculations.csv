@@ -240,7 +240,9 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Yashin, Koen","Bart, Kassandra",10,5,511.5,0.779,0.667,-22.8
 "Bart, Koen","Kassandra, Yashin",10,5,448.5,0.751,0.667,-16.7
 "Bart, Yashin","Kassandra, Koen",10,9,300.5,0.677,0.526,-30.5
-"Kassandra, Job","Bart, Yashin",9,10,-423.1,0.261,0.474,44.8
-"Job, Irene","Bart, Yashin",7,10,-236.0,0.359,0.412,10.2
-"Kassandra, Koen","Yashin, Bart",10,2,-23.7,0.485,0.833,55.0
-"Kassandra, Koen","Bart, Yashin",5,10,196.3,0.619,0.333,-50.0
+"Kassandra, Job V","Bart, Yashin",9,10,-316.0,0.315,0.474,32.3
+"Job V, Irene","Bart, Yashin",7,10,-166.4,0.399,0.412,2.5
+"Kassandra, Koen","Yashin, Bart",10,2,-76.6,0.453,0.833,59.8
+"Kassandra, Koen","Bart, Yashin",5,10,162.6,0.599,0.333,-46.4
+"Job V, Daan Ri","Bart, Koen",8,10,-338.3,0.303,0.444,28.4
+"Daan Ri, Job V","Bart, Koen",5,10,-224.7,0.365,0.333,-5.7
