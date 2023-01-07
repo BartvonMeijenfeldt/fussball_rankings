@@ -10,7 +10,7 @@ class GameCalculation:
     rating_advantage: float
     expected_percent_score: float
     achieved_percent_score: float = field(init=False)
-    rating_gain_players_team1: float
+    rating_change_players_team1: float
 
     def __post_init__(self):
         self.achieved_percent_score = self.points_team1 / (self.points_team1 + self.points_team2)

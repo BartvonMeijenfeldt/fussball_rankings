@@ -80,7 +80,7 @@ def save_calculations(calculations: list[GameCalculation]) -> None:
                       round(result.rating_advantage, ndigits=1),
                       round(result.expected_percent_score, ndigits=3),
                       round(result.achieved_percent_score, ndigits=3),
-                      result.rating_gain_players_team1]
+                      result.rating_change_players_team1]
             writer.writerow(values)
 
 
