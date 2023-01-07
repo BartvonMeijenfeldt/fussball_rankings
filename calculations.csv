@@ -1,81 +1,262 @@
 Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,AchievedPercentScore,RatingGainPlayersTeam1
-"Bart, Daan Ri","Job, Mohammed",4,5,0,0.5,0.444,-7.4
-"Bart, Bas","Job, Mohammed",5,1,-22.2,0.486,0.833,35.7
-"Bart, Bas","Dennis, Daan Ri",10,3,71.4,0.544,0.769,37.4
-"Bart, Bas","Dennis, Koen",10,2,176.2,0.607,0.833,37.1
-"Bart, Wouter","Liveris, Timo",7,10,102.8,0.563,0.412,-27.9
-"Bas, Koen","Dennis, Bart",10,4,72.7,0.545,0.714,29.0
-"Job, Bas","Timo, Koen",10,2,91.1,0.556,0.833,44.6
-"Job, Timo","Bart, Koen",6,10,6.4,0.504,0.375,-23.2
-"Dennis, Daan Ri","Bas, Mohammed",3,10,-303.8,0.321,0.231,-15.9
-"Bart, Timo","Liveris, Koen",6,10,30.8,0.519,0.375,-25.8
-"Timo, Bart","Koen, Liveris",2,10,-72.4,0.456,0.167,-46.3
-"Bart, Wouter","Koen, Liveris",3,10,-173.5,0.395,0.231,-27.8
-"Dennis, Bas","Mohammed, Daan Ri",10,4,153.4,0.593,0.714,21.0
-"Bas, Daan Ri","Dennis, Mohammed",10,6,270.8,0.661,0.625,-6.8
-"Bas, Mohammed","Dennis, Daan Ri",10,4,367.4,0.712,0.714,0.3
-"Bart, Timo","Mohammed, Koen",10,6,-186.9,0.387,0.625,43.0
-"Bart, Carl","Timo, Koen",10,5,53.8,0.533,0.667,23.5
-"Bart, Carl","Koen, Bas",10,7,-158.9,0.403,0.588,34.3
-"Bas, Koen","Carl, Bart",10,4,21.7,0.513,0.714,34.2
-"Bas, Timo","Job, Yashin",3,10,128.5,0.578,0.231,-56.7
-"Timo, Job","Bas, Koen",7,10,-260.6,0.345,0.412,12.9
-"Daan Ri, Mohammed","Bart, Wouter",10,8,-138.2,0.416,0.556,26.5
-"Bart, Timo","Mohammed, Koen",9,10,-75.1,0.454,0.474,3.9
-"Koen, Timo","Bart, Liveris",2,10,-286.4,0.331,0.167,-27.8
-"Timo, Koen","Bart, Liveris",3,10,-397.6,0.273,0.231,-7.6
-"Dennis, Koen","Timo, Bas",10,3,-117.0,0.428,0.769,55.6
-"Timo, Koen","Dennis, Bas",5,10,-268.8,0.34,0.333,-1.2
-"Bas, Timo","Dennis, Daan Ri",10,2,-37.1,0.477,0.833,56.2
-"Bart, Yashin","Bas, Koen",10,9,-47.0,0.471,0.526,10.7
-"Job, Liveris","Yashin, Timo",10,3,326.9,0.691,0.769,13.8
-"Timo, Job","Liveris, Yashin",2,10,-336.3,0.304,0.167,-23.7
-"Job, Yashin","Liveris, Timo",10,5,135.3,0.583,0.667,14.9
-"Daan Ri, Bas","Dennis, Job",10,8,40.7,0.525,0.556,5.7
-"Yashin, Koen","Frenk, Timo",10,2,308.3,0.681,0.833,26.0
-"Bart, Wouter","Carl, Liveris",8,10,-232.3,0.361,0.444,16.4
-"Philip, Wouter","Daan Ri, Koen",10,7,25.7,0.516,0.588,13.3
-"Bart, Philip","Koen, Daan Ri",10,3,207.1,0.625,0.769,24.7
-"Dennis, Daan Ri","Yashin, Koen",1,10,-349.3,0.297,0.091,-34.4
-"Koen, Bas","Wouter, Yashin",10,5,58.9,0.536,0.667,22.9
-"Yashin, Koen","Bas, Wouter",10,6,81.5,0.55,0.625,13.6
-"Bas, Yashin","Martin, Mohammed",10,6,340.6,0.698,0.625,-14.2
-"Kassandra, Koen","Martin, Yashin",2,10,-89.1,0.445,0.167,-44.8
-"Yashin, Kassandra","Martin, Koen",6,7,60.7,0.537,0.462,-12.3
-"Kassandra, Yashin","Martin, Koen",3,10,11.5,0.507,0.231,-45.3
-"Bas, Timo","Martin, Mohammed",10,3,-194.5,0.382,0.769,63.3
-"Bas, Mohammed","Martin, Timo",10,6,234.1,0.64,0.625,-2.9
-"Koen, Yashin","Martin, Mohammed",8,10,225.8,0.636,0.444,-36.7
-"Yashin, Koen","Martin, Mohammed",10,3,79.0,0.548,0.769,36.7
-"Philip, Wouter","Bas, Timo",10,6,-67.2,0.459,0.625,29.8
-"Timo, Liveris","Bart, Bas",10,8,-308.4,0.319,0.556,46.3
-"Timo, Liveris","Bart, Bas",2,10,-123.2,0.425,0.167,-41.8
-"Timo, Liveris","Bart, Bas",6,10,-290.4,0.328,0.375,8.9
-"Mohammed, Yashin","Martin, Koen",10,8,-105.6,0.435,0.556,22.7
-"Yashin, Mohammed","Bart, Koen",8,10,-68.3,0.458,0.444,-2.6
-"Bart, Bas","Daan Ri, Yashin",10,3,292.0,0.672,0.769,16.9
-"Bas, Yashin","Bart, Daan Ri",10,7,385.6,0.721,0.588,-26.7
-"Philip, Yashin","Frenk, Bas",9,10,42.8,0.526,0.474,-10.2
-"Bas, Philip","Yashin, Timo",10,1,326.0,0.691,0.909,36.2
-"Yashin, Bas","Philip, Koen",10,1,95.9,0.559,0.909,54.2
-"Bas, Koen","Bart, Mohammed",10,3,182.5,0.611,0.769,26.9
-"Yashin, Koen","Bart, Martin",10,6,-19.6,0.488,0.625,24.6
-"Martin, Daan Ri","Mohammed, Koen",10,6,-105.2,0.436,0.625,34.0
-"Daan Ri, Koen","Martin, Mohammed",10,9,-34.6,0.479,0.526,9.2
-"Daan Ri, Koen","Frenk, Mohammed",10,5,51.7,0.532,0.667,23.7
-"Frenk, Daan Ri","Mohammed, Koen",10,8,-18.7,0.488,0.556,12.6
-"Yashin, Koen","Martin, Wouter",10,0,181.2,0.61,1.0,59.0
-"Yashin, Wouter","Martin, Koen",7,10,1.8,0.501,0.412,-16.5
-"Yashin, Koen","Bas, Kassandra",10,7,104.8,0.564,0.588,4.4
-"Bas, Kassandra","Dennis, Martin",10,9,300.3,0.677,0.526,-30.5
-"Yashin, Kassandra","Bas, Koen",8,10,-312.0,0.317,0.444,25.5
-"Martin, Yashin","Mohammed, Koen",10,4,319.4,0.687,0.714,4.9
-"Frenk, Wouter","Bas, Kassandra",10,8,-260.7,0.345,0.556,40.8
-"Frenk, Timo","Martin, Yashin",6,10,-448.4,0.249,0.375,25.4
-"Bas, Mohammed","Philip, Michiel",10,8,-59.4,0.464,0.556,17.4
-"Yashin, Kassandra","Martin, Koen",3,10,-56.7,0.465,0.231,-38.8
-"Bas, Philip","Michiel, Koen",10,8,108.3,0.566,0.556,-2.1
-"Yashin, Koen","Martin, Philip",10,6,199.1,0.62,0.625,0.8
-"Koen, Yashin","Philip, Martin",10,9,202.3,0.622,0.526,-18.9
-"Kassandra, Koen","Bas, Yashin",10,6,-394.2,0.275,0.625,65.9
-"Kassandra, Koen","Martin, Bas",10,8,-134.4,0.418,0.556,26.1
+"Bart Defense, Daan Ri Offense","Job Defense, Mohammed Offense",4,5,0,0.5,0.444,-7.4
+"Bart Defense, Bas Offense","Job Defense, Mohammed Offense",5,1,-22.2,0.486,0.833,35.7
+"Bart Defense, Bas Offense","Dennis Defense, Daan Ri Offense",10,3,71.4,0.544,0.769,37.4
+"Bart Defense, Bas Offense","Dennis Defense, Koen Offense",10,2,176.2,0.607,0.833,37.1
+"Bart Defense, Wouter Offense","Liveris Defense, Timo Offense",7,10,102.8,0.563,0.412,-27.9
+"Bas Defense, Koen Offense","Dennis Defense, Bart Offense",10,4,37.4,0.523,0.714,32.6
+"Job Defense, Bas Offense","Timo Defense, Koen Offense",10,2,86.4,0.553,0.833,45.0
+"Job Defense, Timo Offense","Bart Defense, Koen Offense",6,10,19.2,0.512,0.375,-24.6
+"Dennis Defense, Daan Ri Offense","Bas Defense, Mohammed Offense",3,10,-156.2,0.405,0.231,-29.4
+"Bart Defense, Timo Offense","Liveris Defense, Koen Offense",6,10,99.8,0.561,0.375,-33.4
+"Timo Defense, Bart Offense","Koen Defense, Liveris Offense",2,10,-77.6,0.452,0.167,-45.8
+"Bart Defense, Wouter Offense","Koen Defense, Liveris Offense",3,10,-53.4,0.467,0.231,-39.1
+"Dennis Defense, Bas Offense","Mohammed Defense, Daan Ri Offense",10,4,92.9,0.557,0.714,27.0
+"Bas Defense, Daan Ri Offense","Dennis Defense, Mohammed Offense",10,6,69.2,0.542,0.625,14.9
+"Bas Defense, Mohammed Offense","Dennis Defense, Daan Ri Offense",10,4,273.8,0.663,0.714,9.2
+"Bart Defense, Timo Offense","Mohammed Defense, Koen Offense",10,6,15.4,0.509,0.625,20.8
+"Bart Defense, Carl Offense","Timo Defense, Koen Offense",10,5,150.9,0.592,0.667,13.3
+"Bart Defense, Carl Offense","Koen Defense, Bas Offense",10,7,-192.7,0.384,0.588,38.1
+"Bas Defense, Koen Offense","Carl Defense, Bart Offense",10,4,138.9,0.585,0.714,22.4
+"Bas Defense, Timo Offense","Job Defense, Yashin Offense",3,10,107.1,0.566,0.231,-54.6
+"Timo Defense, Job Offense","Bas Defense, Koen Offense",7,10,-154.8,0.406,0.412,1.2
+"Daan Ri Defense, Mohammed Offense","Bart Defense, Wouter Offense",10,8,-36.8,0.477,0.556,14.7
+"Bart Defense, Timo Offense","Mohammed Defense, Koen Offense",9,10,72.8,0.545,0.474,-13.7
+"Koen Defense, Timo Offense","Bart Defense, Liveris Offense",2,10,-186.5,0.387,0.167,-36.2
+"Timo Defense, Koen Offense","Bart Defense, Liveris Offense",3,10,-321.7,0.312,0.231,-14.3
+"Dennis Defense, Koen Offense","Timo Defense, Bas Offense",10,3,-165.5,0.399,0.769,60.4
+"Timo Defense, Koen Offense","Dennis Defense, Bas Offense",5,10,-132.7,0.419,0.333,-15.2
+"Bas Defense, Timo Offense","Dennis Defense, Daan Ri Offense",10,2,92.4,0.557,0.833,44.5
+"Bart Defense, Yashin Offense","Bas Defense, Koen Offense",10,9,38.5,0.524,0.526,0.5
+"Job Defense, Liveris Offense","Yashin Defense, Timo Offense",10,3,251.4,0.65,0.769,20.6
+"Timo Defense, Job Offense","Liveris Defense, Yashin Offense",2,10,-308.0,0.319,0.167,-26.0
+"Job Defense, Yashin Offense","Liveris Defense, Timo Offense",10,5,151.0,0.592,0.667,13.3
+"Daan Ri Defense, Bas Offense","Dennis Defense, Job Offense",10,8,240.9,0.644,0.556,-17.3
+"Yashin Defense, Koen Offense","Frenk Defense, Timo Offense",10,2,122.3,0.575,0.833,41.8
+"Bart Defense, Wouter Offense","Carl Defense, Liveris Offense",8,10,-93.5,0.443,0.444,0.4
+"Philip Defense, Wouter Offense","Daan Ri Defense, Koen Offense",10,7,-160.2,0.403,0.588,34.4
+"Bart Defense, Philip Offense","Koen Defense, Daan Ri Offense",10,3,251.6,0.65,0.769,20.6
+"Dennis Defense, Daan Ri Offense","Yashin Defense, Koen Offense",1,10,-314.1,0.316,0.091,-37.0
+"Koen Defense, Bas Offense","Wouter Defense, Yashin Offense",10,5,-22.8,0.486,0.667,31.5
+"Yashin Defense, Koen Offense","Bas Defense, Wouter Offense",10,6,92.5,0.557,0.625,12.4
+"Bas Defense, Yashin Offense","Martin Defense, Mohammed Offense",10,6,137.1,0.584,0.625,7.5
+"Kassandra Defense, Koen Offense","Martin Defense, Yashin Offense",2,10,33.6,0.521,0.167,-55.9
+"Yashin Defense, Kassandra Offense","Martin Defense, Koen Offense",6,7,-18.4,0.489,0.462,-4.4
+"Kassandra Defense, Yashin Offense","Martin Defense, Koen Offense",3,10,-27.4,0.483,0.231,-41.6
+"Bas Defense, Timo Offense","Martin Defense, Mohammed Offense",10,3,-150.2,0.409,0.769,58.9
+"Bas Defense, Mohammed Offense","Martin Defense, Timo Offense",10,6,145.0,0.588,0.625,6.7
+"Koen Defense, Yashin Offense","Martin Defense, Mohammed Offense",8,10,127.0,0.578,0.444,-25.2
+"Yashin Defense, Koen Offense","Martin Defense, Mohammed Offense",10,3,123.2,0.575,0.769,32.5
+"Philip Defense, Wouter Offense","Bas Defense, Timo Offense",10,6,-89.5,0.445,0.625,32.3
+"Timo Defense, Liveris Offense","Bart Defense, Bas Offense",10,8,-319.1,0.313,0.556,47.5
+"Timo Defense, Liveris Offense","Bart Defense, Bas Offense",2,10,-129.1,0.421,0.167,-41.2
+"Timo Defense, Liveris Offense","Bart Defense, Bas Offense",6,10,-293.9,0.327,0.375,9.3
+"Mohammed Defense, Yashin Offense","Martin Defense, Koen Offense",10,8,-115.2,0.43,0.556,23.9
+"Yashin Defense, Mohammed Offense","Bart Defense, Koen Offense",8,10,-180.6,0.391,0.444,10.4
+"Bart Defense, Bas Offense","Daan Ri Defense, Yashin Offense",10,3,167.9,0.602,0.769,28.3
+"Bas Defense, Yashin Offense","Bart Defense, Daan Ri Offense",10,7,232.7,0.639,0.588,-9.8
+"Philip Defense, Yashin Offense","Frenk Defense, Bas Offense",9,10,28.0,0.517,0.474,-8.4
+"Bas Defense, Philip Offense","Yashin Defense, Timo Offense",10,1,151.9,0.592,0.909,49.6
+"Yashin Defense, Bas Offense","Philip Defense, Koen Offense",10,1,50.6,0.531,0.909,57.9
+"Bas Defense, Koen Offense","Bart Defense, Mohammed Offense",10,3,83.4,0.551,0.769,36.2
+"Yashin Defense, Koen Offense","Bart Defense, Martin Offense",10,6,61.8,0.538,0.625,15.7
+"Martin Defense, Daan Ri Offense","Mohammed Defense, Koen Offense",10,6,-258.8,0.346,0.625,51.0
+"Daan Ri Defense, Koen Offense","Martin Defense, Mohammed Offense",10,9,-3.4,0.498,0.526,5.5
+"Daan Ri Defense, Koen Offense","Frenk Defense, Mohammed Offense",10,5,95.1,0.558,0.667,19.1
+"Frenk Defense, Daan Ri Offense","Mohammed Defense, Koen Offense",10,8,-180.5,0.391,0.556,31.5
+"Yashin Defense, Koen Offense","Martin Defense, Wouter Offense",10,0,137.9,0.584,1.0,62.1
+"Yashin Defense, Wouter Offense","Martin Defense, Koen Offense",7,10,42.1,0.526,0.412,-21.0
+"Yashin Defense, Koen Offense","Bas Defense, Kassandra Offense",10,7,81.5,0.55,0.588,7.1
+"Bas Defense, Kassandra Offense","Dennis Defense, Martin Offense",10,9,320.4,0.688,0.526,-32.8
+"Yashin Defense, Kassandra Offense","Bas Defense, Koen Offense",8,10,-135.3,0.417,0.444,5.2
+"Martin Defense, Yashin Offense","Mohammed Defense, Koen Offense",10,4,25.7,0.516,0.714,33.8
+"Frenk Defense, Wouter Offense","Bas Defense, Kassandra Offense",10,8,-248.0,0.352,0.556,39.3
+"Frenk Defense, Timo Offense","Martin Defense, Yashin Offense",6,10,-262.9,0.344,0.375,6.0
+"Bas Defense, Mohammed Offense","Philip Defense, Michiel Offense",10,8,9.0,0.506,0.556,9.4
+"Yashin Defense, Kassandra Offense","Martin Defense, Koen Offense",3,10,6.2,0.504,0.231,-44.8
+"Bas Defense, Philip Offense","Michiel Defense, Koen Offense",10,8,79.4,0.549,0.556,1.3
+"Yashin Defense, Koen Offense","Martin Defense, Philip Offense",10,6,111.2,0.568,0.625,10.3
+"Koen Defense, Yashin Offense","Philip Defense, Martin Offense",10,9,52.9,0.533,0.526,-1.2
+"Kassandra Defense, Koen Offense","Bas Defense, Yashin Offense",10,6,-162.5,0.401,0.625,40.3
+"Kassandra Defense, Koen Offense","Martin Defense, Bas Offense",10,8,-147.4,0.41,0.556,27.6
+"Bart Defense, Yashin Offense","Martin Defense, Koen Offense",10,7,-104.3,0.436,0.588,28.1
+"Bart Defense, Bas Offense","Job Defense, Timo Offense",10,3,383.7,0.72,0.769,8.8
+"Frenk Defense, Martin Offense","Mohammed Defense, Koen Offense",4,11,3.4,0.502,0.267,-41.4
+"Bart Defense, Martin Offense","Michiel Defense, Donnie Offense",10,2,118.1,0.572,0.833,42.2
+"Frenk Defense, Yashin Offense","Martin Defense, Job Offense",10,9,33.1,0.52,0.526,1.1
+"Bart Defense, Yashin Offense","Mohammed Defense, Koen Offense",7,10,112.5,0.569,0.412,-29.0
+"Loek Defense, Bas Offense","Yashin Defense, Donnie Offense",10,3,63.5,0.539,0.769,38.1
+"Timo Defense, Martin Offense","Mohammed Defense, Yashin Offense",10,8,-151.4,0.408,0.556,28.1
+"Bart Defense, Mohammed Offense","Bas Defense, Koen Offense",2,10,-268.0,0.341,0.167,-29.3
+"Bart Defense, Mohammed Offense","Bas Defense, Koen Offense",10,9,-385.2,0.279,0.526,50.7
+"Kassandra Defense, Koen Offense","Timo Defense, Philip Offense",10,4,299.0,0.676,0.714,6.8
+"Timo Defense, Koen Offense","Philip Defense, Martin Offense",10,9,0.2,0.5,0.526,5.0
+"Timo Defense, Koen Offense","Philip Defense, Martin Offense",10,8,20.2,0.512,0.556,8.1
+"Philip Defense, Bas Offense","Thomas Defense, Carl Offense",10,3,139.1,0.585,0.769,31.0
+"Donnie Defense, Philip Offense","Yashin Defense, Mohammed Offense",3,10,17.0,0.51,0.231,-45.9
+"Yashin Defense, Mohammed Offense","Bas Defense, Koen Offense",6,10,-171.1,0.396,0.375,-3.8
+"Philip Defense, Yashin Offense","Bas Defense, Koen Offense",10,5,-302.5,0.322,0.667,61.4
+"Philip Defense, Yashin Offense","Bas Defense, Koen Offense",10,7,-56.9,0.465,0.588,22.7
+"Loek Defense, Yashin Offense","Philip Defense, Koen Offense",10,6,-131.0,0.42,0.625,36.9
+"Yashin Defense, Koen Offense","Timo Defense, Philip Offense",10,5,433.7,0.744,0.667,-15.3
+"Philip Defense, Yashin Offense","Timo Defense, Koen Offense",9,10,225.0,0.635,0.474,-31.8
+"Bas Defense, Yashin Offense","Bart Defense, Timo Offense",11,8,72.9,0.545,0.579,6.6
+"Bart Defense, Bas Offense","Liveris Defense, Koen Offense",10,8,202.4,0.622,0.556,-12.9
+"Frenk Defense, Yashin Offense","Bart Defense, Donnie Offense",10,8,0.4,0.5,0.556,10.4
+"Yashin Defense, Bart Offense","Timo Defense, Koen Offense",10,7,14.8,0.509,0.588,14.6
+"Bart Defense, Yashin Offense","Timo Defense, Koen Offense",10,7,250.2,0.649,0.588,-11.8
+"Carl Defense, Yashin Offense","Kassandra Defense, Koen Offense",10,8,-54.3,0.467,0.556,16.8
+"Carl Defense, Yashin Offense","Kassandra Defense, Koen Offense",10,9,12.9,0.508,0.526,3.5
+"Yashin Defense, Wouter Offense","Kassandra Defense, Koen Offense",4,10,3.9,0.502,0.286,-36.8
+"Bas Defense, Wouter Offense","Timo Defense, Job Offense",10,7,17.5,0.511,0.588,14.3
+"Bas Defense, Timo Offense","Frenk Defense, Job Offense",10,9,-149.3,0.409,0.526,22.8
+"Frenk Defense, Wouter Offense","Job Defense, Timo Offense",10,7,-32.2,0.48,0.588,19.9
+"Frenk Defense, Wouter Offense","Job Defense, Timo Offense",10,5,47.4,0.529,0.667,24.1
+"Oliver Defense, Wouter Offense","Mohammed Defense, Koen Offense",8,10,-125.6,0.423,0.444,4.1
+"Oliver Defense, Mohammed Offense","Wouter Defense, Koen Offense",10,9,-155.2,0.406,0.526,23.5
+"Frenk Defense, Job Offense","Loek Defense, Donnie Offense",10,8,-14.4,0.491,0.556,12.1
+"Timo Defense, Liveris Offense","Job Defense, Michiel Offense",10,1,14.0,0.509,0.909,61.0
+"Liveris Defense, Timo Offense","Michiel Defense, Job Offense",10,3,-41.3,0.475,0.769,48.2
+"Mohammed Defense, Koen Offense","Frenk Defense, Wouter Offense",10,1,62.1,0.538,0.909,57.0
+"Mohammed Defense, Koen Offense","Frenk Defense, Wouter Offense",10,5,290.1,0.671,0.667,-1.0
+"Loek Defense, Job Offense","Frenk Defense, Yashin Offense",10,6,-100.6,0.438,0.625,33.5
+"Timo Defense, Mohammed Offense","Wouter Defense, Koen Offense",10,7,-222.6,0.366,0.588,41.5
+"Timo Defense, Mohammed Offense","Wouter Defense, Koen Offense",10,4,-56.6,0.465,0.714,42.1
+"Timo Defense, Mohammed Offense","Liveris Defense, Donnie Offense",8,10,46.2,0.528,0.444,-15.8
+"Martin Defense, Mohammed Offense","Wouter Defense, Koen Offense",9,10,97.7,0.56,0.474,-16.7
+"Yashin Defense, Koen Offense","Carl Defense, Kassandra Offense",10,1,366.2,0.711,0.909,33.2
+"Carl Defense, Koen Offense","Kassandra Defense, Yashin Offense",10,2,49.3,0.53,0.833,48.3
+"Timo Defense, Donnie Offense","Bas Defense, Philip Offense",10,9,-149.9,0.409,0.526,22.9
+"Timo Defense, Yashin Offense","Kassandra Defense, Koen Offense",10,4,-107.8,0.434,0.714,47.4
+"Yashin Defense, Koen Offense","Kassandra Defense, Timo Offense",10,3,566.9,0.802,0.769,-6.5
+"Wouter Defense, Mohammed Offense","Bas Defense, Koen Offense",3,10,-237.5,0.358,0.231,-21.9
+"Mohammed Defense, Koen Offense","Bas Defense, Michiel Offense",10,3,181.5,0.61,0.769,27.0
+"Bas Defense, Koen Offense","Mohammed Defense, Michiel Offense",10,0,302.3,0.678,1.0,50.6
+"Carl Defense, Koen Offense","Bart Defense, Yashin Offense",10,7,53.3,0.533,0.588,10.2
+"Martin Defense, Mohammed Offense","Bart Defense, Bas Offense",5,10,-343.0,0.3,0.333,6.3
+"Bart Defense, Mohammed Offense","Bas Defense, Martin Offense",4,2,55.1,0.534,0.667,13.7
+"Loek Defense, Job Offense","Timo Defense, Donnie Offense",10,3,51.9,0.532,0.769,39.2
+"Loek Defense, Donnie Offense","Job Defense, Timo Offense",10,2,216.1,0.63,0.833,33.7
+"Mohammed Defense, Timo Offense","Loek Defense, Bas Offense",10,7,-632.7,0.173,0.588,87.6
+"Kassandra Defense, Timo Offense","Bas Defense, Loek Offense",6,10,-230.2,0.362,0.375,2.5
+"Bart Defense, Yashin Offense","Liveris Defense, Timo Offense",10,6,138.7,0.585,0.625,7.3
+"Kassandra Defense, Yashin Offense","Bart Defense, Koen Offense",5,10,-416.9,0.264,0.333,13.6
+"Yashin Defense, Koen Offense","Bart Defense, Kassandra Offense",4,5,423.6,0.74,0.444,-41.7
+"Yashin Defense, Job V Offense","Floris Defense, Bruno Offense",10,2,103.5,0.563,0.833,43.5
+"Bruno Defense, Yashin Offense","Job V Defense, Floris Offense",6,10,86.3,0.553,0.375,-31.9
+"Bas Defense, Martin Offense","Bart Defense, Yashin Offense",8,10,-163.9,0.4,0.444,8.5
+"Bart Defense, Dennis Offense","Bas Defense, Martin Offense",8,10,84.0,0.552,0.444,-20.2
+"Bart Defense, Koen Offense","Bas Defense, Martin Offense",10,4,227.4,0.636,0.714,13.7
+"Bart Defense, Bas Offense","Martin Defense, Koen Offense",10,9,71.2,0.544,0.526,-3.4
+"Yashin Defense, Koen Offense","Bas Defense, Kassandra Offense",10,0,432.3,0.744,1.0,42.3
+"Yashin Defense, Koen Offense","Bart Defense, Martin Offense",10,4,270.3,0.661,0.714,9.6
+"Bart Defense, Yashin Offense","Martin Defense, Koen Offense",10,6,-90.2,0.445,0.625,32.4
+"Bas Defense, Mohammed Offense","Dennis Defense, Michiel Offense",10,2,283.9,0.668,0.833,28.0
+"Bart Defense, Philip Offense","Yashin Defense, Koen Offense",7,10,-268.8,0.34,0.412,13.8
+"Bart Defense, Philip Offense","Yashin Defense, Koen Offense",10,9,-213.6,0.371,0.526,30.5
+"Yashin Defense, Philip Offense","Bart Defense, Koen Offense",4,10,-210.6,0.373,0.286,-15.4
+"Bart Defense, Yashin Offense","Philip Defense, Koen Offense",10,9,70.6,0.543,0.526,-3.3
+"Bart Defense, Yashin Offense","Philip Defense, Koen Offense",6,10,57.4,0.535,0.375,-28.8
+"Martin Defense, Yashin Offense","Wouter Defense, Liveris Offense",7,10,-74.1,0.455,0.412,-7.9
+"Philip Defense, Koen Offense","Bas Defense, Timo Offense",10,5,366.7,0.712,0.667,-8.6
+"Philip Defense, Koen Offense","Bas Defense, Timo Offense",10,3,332.3,0.694,0.769,13.3
+"Wouter Defense, Liveris Offense","Bart Defense, Koen Offense",4,10,-341.7,0.301,0.286,-2.8
+"Martin Defense, Yashin Offense","Bart Defense, Dennis Offense",10,3,-181.5,0.39,0.769,62.0
+"Martin Defense, Koen Offense","Philip Defense, Timo Offense",10,1,317.4,0.686,0.909,36.8
+"Bart Defense, Koen Offense","Martin Defense, Timo Offense",10,0,510.3,0.779,1.0,37.7
+"Loek Defense, Koen Offense","Bart Defense, Timo Offense",10,5,412.3,0.734,0.667,-13.2
+"Frenk Defense, Bas Offense","Loek Defense, Michiel Offense",4,10,177.9,0.608,0.286,-54.6
+"Frenk Defense, Bas Offense","Loek Defense, Michiel Offense",10,2,-40.5,0.475,0.833,56.5
+"Yashin Defense, Koen Offense","Frenk Defense, Mohammed Offense",10,3,445.4,0.75,0.769,3.5
+"Wouter Defense, Carl Offense","Loek Defense, Jelle Offense",10,8,-184.9,0.388,0.556,32.0
+"Bart Defense, Liveris Offense","Bas Defense, Philip Offense",10,6,365.1,0.711,0.625,-16.8
+"Wouter Defense, Carl Offense","Yashin Defense, Koen Offense",5,10,-513.1,0.22,0.333,23.0
+"Bart Defense, Liveris Offense","Yashin Defense, Koen Offense",9,10,-20.0,0.488,0.474,-2.7
+"Martin Defense, Yashin Offense","Job Defense, Donnie Offense",10,3,258.1,0.654,0.769,20.0
+"Frenk Defense, Donnie Offense","Job Defense, Koen Offense",0,5,-361.9,0.291,0.0,-28.1
+"Martin Defense, Yashin Offense","Frenk Defense, Job Offense",5,2,262.2,0.656,0.714,6.9
+"Job Defense, Yashin Offense","Frenk Defense, Koen Offense",6,10,-157.1,0.404,0.375,-5.4
+"Job  Defense, Timo Offense","Frenk  Defense, Donnie Offense",4,5,-49.8,0.469,0.444,-3.3
+"Job Defense, Timo Offense","Donnie Defense, Bas Offense",5,3,-323.2,0.311,0.625,40.0
+"Martin Defense, Yashin Offense","Bas Defense, Timo Offense",10,7,252.5,0.651,0.588,-12.0
+"Frenk Defense, Job Offense","Donnie Defense, Timo Offense",10,5,95.7,0.559,0.667,19.1
+"Frenk Defense, Wouter Offense","Timo Defense, Donnie Offense",10,3,-81.8,0.45,0.769,52.2
+"Frenk Defense, Job Offense","Donnie Defense, Yashin Offense",5,1,-23.4,0.486,0.833,35.8
+"Job Defense, Yashin Offense","Frenk Defense, Donnie Offense",5,1,202.3,0.622,0.833,22.3
+"Job Defense, Donnie Offense","Frenk Defense, Yashin Offense",5,3,-278.9,0.335,0.625,36.7
+"Timo Defense, Koen Offense","Frenk Defense, Vincent Offense",10,5,343.1,0.7,0.667,-6.3
+"Martin Defense, Bas Offense","Frenk Defense, Koen Offense",7,10,-154.1,0.406,0.412,1.1
+"Carl Defense, Yashin Offense","Martin Defense, Koen Offense",7,10,-276.8,0.336,0.412,14.7
+"Yashin Defense, Donnie Offense","Bas Defense, Koen Offense",5,10,-397.3,0.273,0.333,11.7
+"Dennis Defense, Yashin Offense","Bas Defense, Koen Offense",2,10,-387.2,0.278,0.167,-19.6
+"Loek Defense, Yashin Offense","Bas Defense, Koen Offense",10,5,-294.0,0.326,0.667,60.5
+"Wouter Defense, Vincent Offense","Martin Defense, Job Offense",2,10,-138.9,0.415,0.167,-40.4
+"Wouter Defense, Job Offense","Martin Defense, Vincent Offense",3,10,-73.7,0.455,0.231,-37.2
+"Bart Defense, Yashin Offense","Martin Defense, Koen Offense",6,10,-70.0,0.457,0.375,-14.8
+"Bas Defense, Yashin Offense","Loek Defense, Job Offense",10,8,-29.1,0.482,0.556,13.9
+"Bart Defense, Koen Offense","Loek Defense, Liveris Offense",10,3,125.2,0.576,0.769,32.3
+"Yashin Defense, Koen Offense","Philip Defense, Martin Offense",10,3,384.5,0.721,0.769,8.8
+"Timo Defense, Yashin Offense","Frenk Defense, Martin Offense",6,10,99.6,0.561,0.375,-33.4
+"Frenk Defense, Yashin Offense","Timo Defense, Martin Offense",10,4,95.0,0.558,0.714,26.8
+"Kassandra Defense, Yashin Offense","Martin Defense, Timo Offense",10,7,51.2,0.531,0.588,10.5
+"Dennis Defense, Yashin Offense","Daan Ri Defense, Koen Offense",7,10,-288.6,0.329,0.412,16.0
+"Wouter Defense, Job Offense","Bas Defense, Timo Offense",6,5,-6.3,0.496,0.545,7.3
+"Donnie Defense, Liveris Offense","Koen Defense, Timo Offense",10,9,205.3,0.624,0.526,-19.3
+"Bas Defense, Job Offense","Donnie Defense, Yashin Offense",10,6,75.7,0.546,0.625,14.2
+"Martin Defense, Job Offense","Mohammed Defense, Yashin Offense",10,9,2.5,0.502,0.526,4.8
+"Kassandra Defense, Yashin Offense","Job Defense, Mohammed Offense",10,6,-51.3,0.468,0.625,28.1
+"Bas Defense, Timo Offense","Kassandra Defense, Yashin Offense",10,7,-210.4,0.373,0.588,40.1
+"Kassandra Defense, Yashin Offense","Frenk Defense, Donnie Offense",10,5,142.3,0.587,0.667,14.2
+"Loek Defense, Bas Offense","Martin Defense, Mohammed Offense",10,4,0.1,0.5,0.714,36.4
+"Philip Defense, Koen Offense","Loek Defense, Vincent Offense",10,7,222.8,0.634,0.588,-8.7
+"Kassandra Defense, Oliver Offense","Loek Defense, Koen Offense",5,10,-446.5,0.25,0.333,16.5
+"Loek Defense, Oliver Offense","Kassandra Defense, Koen Offense",10,2,-125.1,0.424,0.833,64.3
+"Yashin Defense, Timo Offense","Michiel Defense, Koen Offense",10,2,-66.7,0.459,0.833,58.9
+"Yashin Defense, Michiel Offense","Timo Defense, Koen Offense",4,10,-24.6,0.485,0.286,-33.9
+"Kassandra Defense, Yashin Offense","Carl Defense, Koen Offense",6,10,-214.6,0.371,0.375,0.8
+"Bas Defense, Donnie Offense","Philip Defense, Mohammed Offense",10,6,-92.4,0.443,0.625,32.6
+"Timo Defense, Yashin Offense","Bart Defense, Mohammed Offense",10,8,-98.3,0.44,0.556,21.9
+"Bas Defense, Mohammed Offense","Philip Defense, Timo Offense",10,4,107.0,0.565,0.714,25.6
+"Bas Defense, Timo Offense","Philip Defense, Mohammed Offense",10,9,144.6,0.588,0.526,-12.1
+"Kassandra Defense, Timo Offense","Bas Defense, Donnie Offense",10,5,-181.4,0.39,0.667,48.4
+"Yashin Defense, Koen Offense","Bart Defense, Mohammed Offense",10,6,200.4,0.621,0.625,0.7
+"Kassandra Defense, Koen Offense","Carl Defense, Yashin Offense",10,8,-62.2,0.462,0.556,17.7
+"Kassandra Defense, Koen Offense","Carl Defense, Yashin Offense",10,7,8.6,0.505,0.588,15.3
+"Kassandra Defense, Koen Offense","Carl Defense, Yashin Offense",10,9,69.8,0.543,0.526,-3.2
+"Kassandra Defense, Koen Offense","Carl Defense, Yashin Offense",8,10,57.0,0.535,0.444,-17.1
+"Bart Defense, Yashin Offense","Donnie Defense, Bas Offense",10,6,334.6,0.695,0.625,-13.6
+"Bart Defense, Donnie Offense","Bas Defense, Yashin Offense",5,10,-199.7,0.379,0.333,-8.3
+"Kassandra Defense, Koen Offense","Bas Defense, Thomas Offense",10,6,65.4,0.54,0.625,15.3
+"Donnie Defense, Koen Offense","Bart Defense, Bas Offense",10,8,-240.6,0.356,0.556,38.4
+"Donnie Defense, Koen Offense","Bas Defense, Bart Offense",10,4,150.9,0.592,0.714,21.2
+"Job V Defense, Yashin Offense","Irene Defense, Jay Offense",10,0,154.0,0.594,1.0,60.9
+"Yashin Defense, Irene Offense","Jane Defense, Job V Offense",8,10,125.1,0.576,0.444,-25.0
+"Kassandra Defense, Yashin Offense","Bart Defense, Koen Offense",1,10,-226.0,0.364,0.091,-43.8
+"Kassandra Defense, Koen Offense","Bart Defense, Yashin Offense",4,10,-57.0,0.465,0.286,-30.6
+"Bart Defense, Kassandra Offense","Yashin Defense, Koen Offense",2,10,-402.7,0.27,0.167,-18.3
+"Kassandra Defense, Yashin Offense","Bart Defense, Koen Offense",3,10,-401.2,0.271,0.231,-7.3
+"Bart Defense, Yashin Offense","Kassandra Defense, Koen Offense",10,2,142.8,0.587,0.833,40.0
+"Yashin Defense, Koen Offense","Bart Defense, Kassandra Offense",10,3,395.9,0.726,0.769,7.8
+"Yashin Defense, Koen Offense","Bart Defense, Kassandra Offense",10,5,427.1,0.741,0.667,-14.6
+"Bart Defense, Koen Offense","Kassandra Defense, Yashin Offense",10,5,430.4,0.743,0.667,-14.9
+"Bart Defense, Yashin Offense","Kassandra Defense, Koen Offense",10,9,316.4,0.686,0.526,-32.3
+"Kassandra Defense, Job V Offense","Bart Defense, Yashin Offense",9,10,-395.6,0.274,0.474,41.6
+"Job V Defense, Irene Offense","Bart Defense, Yashin Offense",7,10,-201.3,0.379,0.412,6.4
+"Kassandra Defense, Koen Offense","Yashin Defense, Bart Offense",10,2,159.0,0.597,0.833,38.6
+"Kassandra Defense, Koen Offense","Bart Defense, Yashin Offense",5,10,27.6,0.517,0.333,-32.1
+"Job V Defense, Daan Ri Offense","Bart Defense, Koen Offense",8,10,-440.8,0.252,0.444,40.0
+"Daan Ri Defense, Job V Offense","Bart Defense, Koen Offense",5,10,-301.3,0.323,0.333,2.1
+"Yashin Defense, Koen Offense","Kassandra Defense, Carl Offense",10,7,346.1,0.701,0.588,-22.3
+"Kathrine Defense, Yashin Offense","Carl Defense, Koen Offense",2,10,-73.8,0.455,0.167,-46.1
+"Carl Defense, Yashin Offense","Kathrine Defense, Koen Offense",6,10,-25.8,0.484,0.375,-19.6
+"Yashin Defense, Koen Offense","Carl Defense, Kassandra Offense",10,2,496.9,0.773,0.833,11.1
+"Yashin Defense, Philip Offense","Kathrine Defense, Maarten Offense",10,2,178.4,0.608,0.833,36.9
+"Philip Defense, Martin Offense","Kathrine Defense, Brian Offense",10,7,48.9,0.53,0.588,10.7
+"Loek Defense, Koen Offense","Kassandra Defense, Frenk Offense",10,1,479.0,0.765,0.909,25.3
+"Kassandra Defense, Koen Offense","Frenk Defense, Loek Offense",10,1,250.6,0.65,0.909,41.9
+"Loek Defense, Yashin Offense","Kassandra Defense, Koen Offense",10,6,-67.6,0.458,0.625,29.9
+"Loek Defense, Yashin Offense","Kassandra Defense, Koen Offense",9,10,52.0,0.532,0.474,-11.3
+"Yashin Defense, Koen Offense","Kassandra Defense, Philip Offense",10,8,446.5,0.75,0.556,-40.6
+"Philip Defense, Yashin Offense","Kassandra Defense, Koen Offense",6,10,-206.3,0.376,0.375,-0.1
+"Philip Defense, Yashin Offense","Kassandra Defense, Koen Offense",8,10,-206.7,0.375,0.444,13.4
+"Yashin Defense, Koen Offense","Kassandra Defense, Philip Offense",10,2,284.1,0.668,0.833,28.0
