@@ -28,7 +28,7 @@
 26. Irene: 1435.5 
 27. Bruno: 1423.2 
 28. Daan Ri: 1412.7 
-29. Kathrine: 1406.1 
+29. Katherine: 1406.1 
 30. Frenk: 1404.2 
 31. Donnie: 1356.4 
 32. Wouter: 1344.7 
