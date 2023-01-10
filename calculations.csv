@@ -247,3 +247,19 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Job V, Daan Ri","Bart, Koen",8,10,-338.3,0.303,0.444,28.4
 "Daan Ri, Job V","Bart, Koen",5,10,-224.7,0.365,0.333,-5.7
 "Yashin, Koen","Kassandra, Carl",10,7,455.8,0.755,0.588,-34.3
+"Kathrine, Yashin","Carl, Koen",2,10,-196.5,0.381,0.167,-35.4
+"Carl, Yashin","Kathrine, Koen",6,10,-84.5,0.448,0.375,-13.2
+"Yashin, Koen","Carl, Kassandra",10,2,296.4,0.675,0.833,26.9
+"Yashin, Philip","Kathrine, Maarten",10,2,73.3,0.545,0.833,46.2
+"Philip, Martin","Kathrine, Brian",10,7,158.2,0.596,0.588,-1.5
+"Loek, Koen","Kassandra, Frenk",10,1,536.0,0.79,0.909,21.6
+"Kassandra, Koen","Frenk, Loek",10,1,137.2,0.584,0.909,50.8
+"Loek, Yashin","Kassandra, Koen",10,6,-122.9,0.425,0.625,36.0
+"Loek, Yashin","Kassandra, Koen",9,10,21.1,0.513,0.474,-7.6
+"Yashin, Koen","Kassandra, Philip",10,8,552.8,0.796,0.556,-52.5
+"Philip, Yashin","Kassandra, Koen",6,10,-121.0,0.426,0.375,-9.3
+"Philip, Yashin","Kassandra, Koen",8,10,-158.2,0.404,0.444,7.8
+"Yashin, Koen","Kassandra, Philip",10,2,342.8,0.699,0.833,23.1
+"Bart, Timo","Liveris, Bas",10,7,-175.9,0.393,0.588,36.2
+"Bart, Philip","Donnie, Carl",10,2,234.0,0.64,0.833,32.2
+"Wouter, Philip","Yashin, Timo",4,10,-170.0,0.397,0.286,-19.4

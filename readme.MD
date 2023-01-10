@@ -1,36 +1,39 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
-1. Koen: 1737.7 
-2. Liveris: 1701.8 
-3. Job V: 1701.3 
-4. Loek: 1632.8 
-5. Oliver: 1609.1 
-6. Yashin: 1597.2 
-7. Bart: 1589.5 
-8. Martin: 1568.0 
-9. Carl: 1556.0 
+1. Koen: 1829.3 
+2. Job V: 1701.3 
+3. Liveris: 1665.6 
+4. Bart: 1657.9 
+5. Yashin: 1638.6 
+6. Loek: 1632.0 
+7. Oliver: 1609.1 
+8. Martin: 1566.5 
+9. Philip: 1561.0 
 10. Job: 1536.7 
-11. Bas: 1522.7 
-12. Vincent: 1510.7 
-13. Frenk : 1509.9 
-14. Jane: 1509.5 
-15. Job : 1490.1 
-16. Floris: 1486.0 
-17. Mohammed: 1478.1 
-18. Frenk: 1476.6 
-19. Philip: 1475.6 
-20. Jelle: 1461.8 
-21. Kassandra: 1460.3 
-22. Timo: 1459.1 
-23. Thomas: 1450.7 
-24. Jay: 1442.5 
-25. Irene: 1435.5 
-26. Bruno: 1423.2 
-27. Daan Ri: 1412.7 
-28. Donnie: 1388.6 
-29. Wouter: 1364.1 
-30. Dennis: 1314.4 
-31. Michiel: 1197.8 
+11. Carl: 1519.1 
+12. Timo: 1514.7 
+13. Vincent: 1510.7 
+14. Frenk : 1509.9 
+15. Jane: 1509.5 
+16. Brian: 1501.5 
+17. Job : 1490.1 
+18. Bas: 1486.5 
+19. Floris: 1486.0 
+20. Mohammed: 1478.1 
+21. Kassandra: 1465.1 
+22. Jelle: 1461.8 
+23. Maarten: 1453.8 
+24. Thomas: 1450.7 
+25. Jay: 1442.5 
+26. Irene: 1435.5 
+27. Kathrine: 1433.1 
+28. Bruno: 1423.2 
+29. Daan Ri: 1412.7 
+30. Frenk: 1404.2 
+31. Donnie: 1356.4 
+32. Wouter: 1344.7 
+33. Dennis: 1314.4 
+34. Michiel: 1197.8 
 
 ## Barto Rating
 Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
