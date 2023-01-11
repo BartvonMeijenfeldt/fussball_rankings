@@ -6,7 +6,7 @@
 4. Liveris: 1665.6 
 5. Loek: 1656.6 
 6. Oliver: 1609.1 
-7. Yashin: 1598.9 
+7. Yashin: 1599.8 
 8. Martin: 1593.5 
 9. Job: 1536.7 
 10. Philip: 1536.4 
@@ -16,7 +16,7 @@
 14. Frenk : 1509.9 
 15. Jane: 1509.5 
 16. Brian: 1501.5 
-17. Timo: 1497.4 
+17. Timo: 1496.5 
 18. Job : 1490.1 
 19. Floris: 1486.0 
 20. Mohammed: 1478.1 
@@ -30,9 +30,9 @@
 28. Daan Ri: 1412.7 
 29. Katherine: 1406.1 
 30. Frenk: 1404.2 
-31. Donnie: 1349.1 
+31. Donnie: 1350.0 
 32. Wouter: 1344.7 
-33. Dennis: 1314.4 
+33. Dennis: 1313.5 
 34. Michiel: 1197.8 
 
 ## Barto Rating
