@@ -6,12 +6,12 @@
 4. Liveris: 1665.6 
 5. Loek: 1656.6 
 6. Oliver: 1609.1 
-7. Yashin: 1599.8 
+7. Yashin: 1596.8 
 8. Martin: 1593.5 
 9. Job: 1536.7 
 10. Philip: 1536.4 
 11. Carl: 1519.1 
-12. Bas: 1511.1 
+12. Bas: 1514.1 
 13. Vincent: 1510.7 
 14. Frenk : 1509.9 
 15. Jane: 1509.5 
@@ -19,13 +19,13 @@
 17. Timo: 1496.5 
 18. Job : 1490.1 
 19. Floris: 1486.0 
-20. Mohammed: 1478.1 
-21. Kassandra: 1465.1 
+20. Thomas: 1482.3 
+21. Mohammed: 1478.1 
 22. Jelle: 1461.8 
 23. Maarten: 1461.1 
-24. Thomas: 1450.7 
-25. Jay: 1442.5 
-26. Irene: 1435.5 
+24. Jay: 1442.5 
+25. Irene: 1435.5 
+26. Kassandra: 1433.5 
 27. Bruno: 1423.2 
 28. Daan Ri: 1412.7 
 29. Katherine: 1406.1 
