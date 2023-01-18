@@ -247,11 +247,11 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Job V Defense, Daan Ri Offense","Bart Defense, Koen Offense",8,10,-440.8,0.252,0.444,40.0
 "Daan Ri Defense, Job V Offense","Bart Defense, Koen Offense",5,10,-301.3,0.323,0.333,2.1
 "Yashin Defense, Koen Offense","Kassandra Defense, Carl Offense",10,7,346.1,0.701,0.588,-22.3
-"Kathrine Defense, Yashin Offense","Carl Defense, Koen Offense",2,10,-73.8,0.455,0.167,-46.1
-"Carl Defense, Yashin Offense","Kathrine Defense, Koen Offense",6,10,-25.8,0.484,0.375,-19.6
+"Katherine Defense, Yashin Offense","Carl Defense, Koen Offense",2,10,-73.8,0.455,0.167,-46.1
+"Carl Defense, Yashin Offense","Katherine Defense, Koen Offense",6,10,-25.8,0.484,0.375,-19.6
 "Yashin Defense, Koen Offense","Carl Defense, Kassandra Offense",10,2,496.9,0.773,0.833,11.1
-"Yashin Defense, Philip Offense","Kathrine Defense, Maarten Offense",10,2,178.4,0.608,0.833,36.9
-"Philip Defense, Martin Offense","Kathrine Defense, Brian Offense",10,7,48.9,0.53,0.588,10.7
+"Yashin Defense, Philip Offense","Katherine Defense, Maarten Offense",10,2,178.4,0.608,0.833,36.9
+"Philip Defense, Martin Offense","Katherine Defense, Brian Offense",10,7,48.9,0.53,0.588,10.7
 "Loek Defense, Koen Offense","Kassandra Defense, Frenk Offense",10,1,479.0,0.765,0.909,25.3
 "Kassandra Defense, Koen Offense","Frenk Defense, Loek Offense",10,1,250.6,0.65,0.909,41.9
 "Loek Defense, Yashin Offense","Kassandra Defense, Koen Offense",10,6,-67.6,0.458,0.625,29.9
@@ -260,3 +260,20 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Philip Defense, Yashin Offense","Kassandra Defense, Koen Offense",6,10,-206.3,0.376,0.375,-0.1
 "Philip Defense, Yashin Offense","Kassandra Defense, Koen Offense",8,10,-206.7,0.375,0.444,13.4
 "Yashin Defense, Koen Offense","Kassandra Defense, Philip Offense",10,2,284.1,0.668,0.833,28.0
+"Bart Defense, Timo Offense","Liveris Defense, Bas Offense",10,7,-167.9,0.398,0.588,35.3
+"Bart Defense, Philip Offense","Donnie Defense, Carl Offense",10,2,244.0,0.646,0.833,31.3
+"Wouter Defense, Philip Offense","Yashin Defense, Timo Offense",4,10,-164.8,0.4,0.286,-19.9
+"Katherine Defense, Bart Offense","Martin Defense, Yashin Offense",8,10,-428.4,0.258,0.444,38.6
+"Bart Defense, Martin Offense","Katherine Defense, Yashin Offense",10,3,148.8,0.591,0.769,30.1
+"Loek Defense, Bas Offense","Philip Defense, Timo Offense",10,5,242.8,0.645,0.667,3.9
+"Maarten Defense, Timo Offense","Yashin Defense, Donnie Offense",10,9,53.9,0.533,0.526,-1.3
+"Dennis Defense, Timo Offense","Yashin Defense, Donnie Offense",7,10,-71.0,0.456,0.412,-8.2
+"Kassandra Defense, Yashin Offense","Thomas Defense, Bas Offense",9,10,-21.8,0.487,0.474,-2.5
+"Yashin Defense, Thomas Offense","Bas Defense, Kassandra Offense",10,6,285.2,0.669,0.625,-8.4
+"Maarten Defense, Bart Offense","Yashin Defense, Timo Offense",10,8,-274.4,0.337,0.556,42.4
+"Bart Defense, Yashin Offense","Timo Defense, Maarten Offense",10,0,348.8,0.703,1.0,47.5
+"Maarten Defense, Timo Offense","Katherine Defense, Brian Offense",9,10,90.1,0.555,0.474,-15.8
+"Bart Defense, Yashin Offense","Martin Defense, Liveris Offense",10,9,164.6,0.6,0.526,-14.5
+"Yashin Defense, Donnie Offense","Bart Defense, Timo Offense",6,10,-256.9,0.347,0.375,5.4
+"Timo Defense, Yashin Offense","Bart Defense, Donnie Offense",10,8,-61.7,0.462,0.556,17.6
+"Kassandra Defense, Yashin Offense","Bart Defense, Timo Offense",10,7,-99.2,0.439,0.588,27.5

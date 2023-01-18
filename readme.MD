@@ -1,64 +1,65 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
 1. Koen Offense: 1818.5 
-2. Loek Defense: 1685.7 
-3. Liveris Offense: 1666.2 
-4. Liveris Defense: 1643.6 
-5. Job V Defense: 1639.2 
-6. Yashin Offense: 1635.4 
-7. Yashin Defense: 1629.6 
+2. Loek Defense: 1689.6 
+3. Bart Defense: 1688.4 
+4. Liveris Offense: 1680.7 
+5. Yashin Offense: 1642.3 
+6. Job V Defense: 1639.2 
+7. Yashin Defense: 1613.6 
 8. Job V Offense: 1612.2 
-9. Bart Defense: 1609.2 
-10. Bas Offense: 1606.8 
-11. Carl Offense: 1597.7 
-12. Philip Offense: 1596.1 
-13. Oliver Offense: 1580.8 
-14. Martin Defense: 1572.9 
+9. Liveris Defense: 1608.3 
+10. Philip Offense: 1607.5 
+11. Oliver Offense: 1580.8 
+12. Bas Offense: 1577.9 
+13. Carl Offense: 1566.4 
+14. Martin Offense: 1564.4 
 15. Job Offense: 1554.5 
-16. Carl Defense: 1539.4 
-17. Bas Defense: 1538.1 
-18. Martin Offense: 1534.3 
+16. Martin Defense: 1548.8 
+17. Bas Defense: 1546.5 
+18. Carl Defense: 1539.4 
 19. Floris Offense: 1531.9 
 20. Oliver Defense: 1527.6 
 21. Mohammed Defense: 1526.9 
-22. Jane Defense: 1525.0 
-23. Koen Defense: 1514.4 
-24. Vincent Offense: 1511.8 
-25. Job Defense: 1506.7 
-26. Frenk  Defense: 1503.3 
-27. Job  Defense: 1496.7 
-28. Brian Offense: 1489.3 
-29. Philip Defense: 1485.9 
-30. Thomas Offense: 1484.7 
+22. Maarten Defense: 1525.3 
+23. Jane Defense: 1525.0 
+24. Koen Defense: 1514.4 
+25. Vincent Offense: 1511.8 
+26. Job Defense: 1506.7 
+27. Brian Offense: 1505.1 
+28. Frenk  Defense: 1503.3 
+29. Job  Defense: 1496.7 
+30. Philip Defense: 1482.0 
 31. Irene Offense: 1481.4 
-32. Mohammed Offense: 1480.8 
-33. Frenk Offense: 1474.7 
-34. Timo Offense: 1473.3 
-35. Thomas Defense: 1469.0 
-36. Bruno Defense: 1468.1 
-37. Jelle Offense: 1468.0 
-38. Frenk Defense: 1464.4 
-39. Maarten Offense: 1463.1 
-40. Timo Defense: 1458.2 
-41. Floris Defense: 1456.5 
-42. Bruno Offense: 1456.5 
-43. Kassandra Defense: 1455.9 
-44. Loek Offense: 1455.6 
-45. Wouter Offense: 1451.0 
-46. Daan Ri Defense: 1445.4 
-47. Irene Defense: 1439.1 
-48. Jay Offense: 1439.1 
+32. Kassandra Defense: 1480.9 
+33. Mohammed Offense: 1480.8 
+34. Thomas Offense: 1476.3 
+35. Frenk Offense: 1474.7 
+36. Thomas Defense: 1471.5 
+37. Bruno Defense: 1468.1 
+38. Jelle Offense: 1468.0 
+39. Frenk Defense: 1464.4 
+40. Floris Defense: 1456.5 
+41. Bruno Offense: 1456.5 
+42. Loek Offense: 1455.6 
+43. Wouter Offense: 1451.0 
+44. Katherine Defense: 1450.2 
+45. Daan Ri Defense: 1445.4 
+46. Irene Defense: 1439.1 
+47. Jay Offense: 1439.1 
+48. Bart Offense: 1435.0 
 49. Daan Ri Offense: 1434.7 
-50. Kathrine Defense: 1425.9 
-51. Dennis Offense: 1417.8 
-52. Donnie Defense: 1398.9 
-53. Dennis Defense: 1379.0 
-54. Bart Offense: 1354.0 
-55. Michiel Defense: 1349.4 
-56. Wouter Defense: 1346.0 
-57. Donnie Offense: 1321.2 
-58. Kassandra Offense: 1320.4 
-59. Michiel Offense: 1288.2 
+50. Timo Defense: 1428.3 
+51. Timo Offense: 1424.0 
+52. Dennis Offense: 1417.8 
+53. Maarten Offense: 1415.6 
+54. Dennis Defense: 1370.8 
+55. Donnie Defense: 1367.6 
+56. Michiel Defense: 1349.4 
+57. Kassandra Offense: 1328.8 
+58. Wouter Defense: 1326.1 
+59. Donnie Offense: 1318.5 
+60. Michiel Offense: 1288.2 
 
 ## Barto Rating
 The Barto rating system extends the Elo rating system by taking the score into account. This results in more accurate estimation of strengths of players. Another interesting property is that if a heavy-favorite team or player plays against a weaker opponent, they are expected to score the majority of points. So if the favorite only wins a narrow victory the weaker team performed better than expected and will win rating and can therefore be seen as the winner. The ratings are based on the rating system named Barto which I developed during my Master's thesis which is included in pdf-form (see barto.pdf).
