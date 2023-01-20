@@ -49,6 +49,59 @@ def get_ratings_and_calculations(game_results: list[GameResult]) -> tuple[list[P
     return barto_ratings.ratings, barto_ratings.calculations
 
 
+def add_avg_ratings(ratings: list[Player]) -> list[Player]:
+    player_names = {player.name.rsplit(' ')[0] for player in ratings}
+    player_lookups = {player.name: player for player in ratings}
+
+    avg_ratings = [
+        _create_all_games_player(player_name=player_name, player_lookups=player_lookups)
+        for player_name in player_names
+        if _player_has_offense_and_defense_rating(player_name=player_name, player_lookups=player_lookups)
+    ]
+
+    return ratings + avg_ratings
+
+
+def _create_all_games_player(player_name: str, player_lookups: dict) -> Player:
+    defense_player = player_lookups[_get_offense_name(player_name=player_name)]
+    offense_player = player_lookups[_get_defense_name(player_name=player_name)]
+
+    player_name_all_games = f'{player_name} Average'
+    avg_rating = _calculate_avg_rating(defense_player=defense_player, offense_player=offense_player)
+    nr_games = _calculate_number_of_games(defense_player=defense_player, offense_player=offense_player)
+
+    all_games_player = Player(name=player_name_all_games, rating=avg_rating, nr_games=nr_games)
+
+    return all_games_player
+
+
+def _calculate_avg_rating(defense_player: Player, offense_player: Player) -> float:
+    defense_rating = defense_player.rating
+    offense_rating = offense_player.rating
+    avg_rating = (offense_rating + defense_rating) / 2
+    return avg_rating.round(1)
+
+
+def _calculate_number_of_games(defense_player: Player, offense_player: Player) -> int:
+    defense_games = defense_player.nr_games
+    offense_games = offense_player.nr_games
+    total_number_of_games = defense_games + offense_games
+    return total_number_of_games
+
+
+def _get_offense_name(player_name: str) -> str:
+    return f'{player_name} Offense'
+
+
+def _get_defense_name(player_name: str) -> str:
+    return f'{player_name} Defense'
+
+
+def _player_has_offense_and_defense_rating(player_name: str, player_lookups: dict) -> bool:
+    return (_get_defense_name(player_name=player_name) in player_lookups
+            and _get_offense_name(player_name=player_name) in player_lookups)
+
+
 def save_ratings(ratings: list[Player]) -> None:
     filename = 'beta_ratings.csv'
     ratings.sort(reverse=True)
@@ -56,11 +109,12 @@ def save_ratings(ratings: list[Player]) -> None:
     with open(filename, 'w') as f:
         writer = csv.writer(f, delimiter=',')
 
-        header = ['Player', 'Rating', '#Games']
+        header = ['Player', 'Position', 'Rating', '#Games']
         writer.writerow(header)
 
         for player in ratings:
-            values = [player.name, player.rating, player.nr_games]
+            player_name, position = player.name.rsplit(' ', maxsplit=1)
+            values = [player_name, position, player.rating, player.nr_games]
             writer.writerow(values)
 
 
@@ -102,6 +156,7 @@ if __name__ == "__main__":
     download_game_results('results_table_football.csv')
     game_results = read_game_results('results_table_football.csv')
     ratings, calculations = get_ratings_and_calculations(game_results=game_results)
+    ratings = add_avg_ratings(ratings)
     save_ratings(ratings=ratings)
     save_calculations(calculations=calculations)
     save_readme(ratings=ratings)
