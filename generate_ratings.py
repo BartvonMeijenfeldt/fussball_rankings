@@ -129,13 +129,28 @@ def save_calculations(calculations: list[GameCalculation]) -> None:
         writer.writerow(header)
 
         for result in calculations:
-            values = [', '.join(result.team1), ', '.join(result.team2),
-                      result.points_team1, result.points_team2,
+            team1 = _parse_team(team=result.team1)
+            team2 = _parse_team(team=result.team2)
+
+            values = [team1,
+                      team2,
+                      result.points_team1,
+                      result.points_team2,
                       round(result.rating_advantage, ndigits=1),
                       round(result.expected_percent_score, ndigits=3),
                       round(result.achieved_percent_score, ndigits=3),
                       result.rating_change_players_team1]
             writer.writerow(values)
+
+
+def _parse_team(team: list[str]) -> str:
+    player1_name = _remove_position_suffix(team[0])
+    player2_name = _remove_position_suffix(team[1])
+    return f'{player1_name}, {player2_name}'
+
+
+def _remove_position_suffix(player_position_name: str) -> str:
+    return player_position_name.rsplit(' ', maxsplit=1)[0]
 
 
 def save_readme(ratings: list[Player]) -> None:
