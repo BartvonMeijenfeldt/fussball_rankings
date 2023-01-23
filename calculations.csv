@@ -277,3 +277,8 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Yashin, Donnie","Bart, Timo",6,10,-256.9,0.347,0.375,5.4
 "Timo, Yashin","Bart, Donnie",10,8,-61.7,0.462,0.556,17.6
 "Kassandra, Yashin","Bart, Timo",10,7,-99.2,0.439,0.588,27.5
+"Maarten, Bart","Yashin, Timo",8,10,-77.3,0.453,0.444,-1.5
+"Timo, Bart","Maarten, Yashin",5,10,-304.3,0.321,0.333,2.4
+"Bart, Wouter","Katherine, Liveris",10,7,8.5,0.505,0.588,15.3
+"Liveris, Yashin","Bart, Wouter",10,4,78.2,0.548,0.714,28.5
+"Liveris, Yashin","Loek, Bart",10,2,179.7,0.609,0.833,36.8
