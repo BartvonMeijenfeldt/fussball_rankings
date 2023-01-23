@@ -280,3 +280,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Maarten, Bart","Yashin, Timo",8,10,12.4,0.508,0.444,-11.9
 "Timo, Bart","Maarten, Yashin",5,10,37.0,0.523,0.333,-33.1
 "Bart, Wouter","Katherine, Liveris",10,7,-86.3,0.447,0.588,26.0
+"Liveris, Yashin","Bart, Wouter",10,4,318.0,0.686,0.714,5.0
+"Liveris, Yashin","Loek, Bart",10,2,47.1,0.529,0.833,48.5
