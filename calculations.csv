@@ -289,3 +289,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Yashin, Katherine","Philip, Kassandra",8,10,269.6,0.66,0.444,-41.8
 "Bart, Wouter","Timo, Donnie",10,2,254.1,0.652,0.833,30.5
 "Yashin, Timo","Philip, Wouter",10,3,189.4,0.615,0.769,26.3
+"Loek, Yashin","Philip, Timo",10,1,417.6,0.737,0.909,29.6
+"Yashin, Wouter","Loek, Timo",5,10,117.3,0.572,0.333,-41.6
