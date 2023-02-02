@@ -282,3 +282,10 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bart, Wouter","Katherine, Liveris",10,7,8.5,0.505,0.588,15.3
 "Liveris, Yashin","Bart, Wouter",10,4,78.2,0.548,0.714,28.5
 "Liveris, Yashin","Loek, Bart",10,2,179.7,0.609,0.833,36.8
+"Yashin, Job","Philip, Timo",10,7,262.1,0.656,0.588,-13.1
+"Bart, Liveris","Katherine, Yashin",10,1,200.5,0.621,0.909,45.8
+"Liveris, Bart","Yashin, Katherine",10,5,-29.3,0.482,0.667,32.2
+"Yashin, Katherine","Kassandra, Philip",10,1,-50.8,0.469,0.909,66.5
+"Yashin, Katherine","Philip, Kassandra",8,10,346.7,0.701,0.444,-50.7
+"Bart, Wouter","Timo, Donnie",10,2,409.6,0.733,0.833,17.8
+"Yashin, Timo","Philip, Wouter",10,3,22.8,0.514,0.769,42.0
