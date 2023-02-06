@@ -14,23 +14,23 @@
 12. Vincent: 1510.7 
 13. Frenk : 1509.9 
 14. Jane: 1509.5 
-15. Brian: 1500.9 
+15. Brian: 1504.5 
 16. Job : 1490.1 
-17. Philip: 1486.8 
-18. Floris: 1486.0 
+17. Floris: 1486.0 
+18. Philip: 1483.2 
 19. Thomas: 1482.3 
 20. Mohammed: 1478.1 
 21. Jelle: 1461.8 
 22. Kassandra: 1443.9 
 23. Jay: 1442.5 
-24. Timo: 1439.5 
-25. Maarten: 1437.8 
+24. Maarten: 1441.4 
+25. Timo: 1439.5 
 26. Irene: 1435.5 
 27. Bruno: 1423.2 
 28. Daan Ri: 1412.7 
 29. Frenk: 1392.9 
 30. Katherine: 1361.9 
-31. Wouter: 1339.6 
+31. Wouter: 1336.0 
 32. Dennis: 1313.5 
 33. Donnie: 1307.1 
 34. Michiel: 1197.8 
