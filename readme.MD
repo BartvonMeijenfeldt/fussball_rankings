@@ -2,35 +2,35 @@
 ## Ratings
 1. Koen: 1829.3 
 2. Liveris: 1738.2 
-3. Yashin: 1730.1 
+3. Yashin: 1713.0 
 4. Job V: 1701.3 
 5. Loek: 1690.6 
 6. Bart: 1688.2 
 7. Oliver: 1609.1 
 8. Martin: 1603.3 
-9. Carl: 1519.1 
-10. Bas: 1514.1 
+9. Bas: 1522.2 
+10. Brian: 1521.6 
 11. Job: 1512.7 
 12. Vincent: 1510.7 
 13. Frenk : 1509.9 
 14. Jane: 1509.5 
-15. Brian: 1504.5 
+15. Carl: 1493.9 
 16. Job : 1490.1 
 17. Floris: 1486.0 
-18. Philip: 1483.2 
-19. Thomas: 1482.3 
-20. Mohammed: 1478.1 
-21. Jelle: 1461.8 
-22. Kassandra: 1443.9 
-23. Jay: 1442.5 
-24. Maarten: 1441.4 
+18. Thomas: 1482.3 
+19. Mohammed: 1478.1 
+20. Jelle: 1461.8 
+21. Maarten: 1458.5 
+22. Philip: 1458.0 
+23. Kassandra: 1443.9 
+24. Jay: 1442.5 
 25. Timo: 1439.5 
 26. Irene: 1435.5 
 27. Bruno: 1423.2 
 28. Daan Ri: 1412.7 
 29. Frenk: 1392.9 
 30. Katherine: 1361.9 
-31. Wouter: 1336.0 
+31. Wouter: 1361.2 
 32. Dennis: 1313.5 
 33. Donnie: 1307.1 
 34. Michiel: 1197.8 
