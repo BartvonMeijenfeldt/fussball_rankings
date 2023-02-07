@@ -295,3 +295,7 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Maarten, Brian","Philip, Wouter",10,7,112.3,0.569,0.588,3.6
 "Bas, Yashin","Maarten, Brian",10,7,298.3,0.676,0.588,-17.1
 "Bas, Wouter","Philip, Carl",10,9,-169.3,0.397,0.526,25.2
+"Katherine, Bas","Philip, Vincent",10,6,-84.6,0.448,0.625,31.7
+"Bas, Katherine","Philip, Vincent",10,3,42.2,0.526,0.769,40.2
+"Yashin, Timo","Katherine, Bas",10,7,124.6,0.576,0.588,2.2
+"Katherine, Yashin","Wouter, Timo",10,6,343.9,0.7,0.625,-14.6
