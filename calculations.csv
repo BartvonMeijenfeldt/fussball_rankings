@@ -289,3 +289,19 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Yashin, Katherine","Philip, Kassandra",8,10,346.7,0.701,0.444,-50.7
 "Bart, Wouter","Timo, Donnie",10,2,409.6,0.733,0.833,17.8
 "Yashin, Timo","Philip, Wouter",10,3,22.8,0.514,0.769,42.0
+"Loek, Yashin","Philip, Timo",10,1,327.8,0.692,0.909,36.0
+"Yashin, Wouter","Loek, Timo",5,10,-92.2,0.443,0.333,-19.4
+"Loek, Wouter","Frenk, Yashin",9,10,-57.4,0.465,0.474,1.8
+"Maarten, Brian","Philip, Wouter",10,7,162.7,0.599,0.588,-2.0
+"Bas, Yashin","Maarten, Brian",10,7,217.6,0.631,0.588,-8.2
+"Bas, Wouter","Philip, Carl",10,9,-99.9,0.439,0.526,16.9
+"Katherine, Bas","Philip, Vincent",10,6,2.3,0.501,0.625,22.2
+"Bas, Katherine","Philip, Vincent",10,3,118.5,0.572,0.769,32.9
+"Yashin, Timo","Katherine, Bas",10,7,60.8,0.537,0.588,9.4
+"Katherine, Yashin","Wouter, Timo",10,6,287.8,0.67,0.625,-8.6
+"Philip, Yashin","Timo, Loek",8,10,206.1,0.624,0.444,-34.4
+"Yashin, Vincent","Roy, Donnie",10,4,273.6,0.662,0.714,9.3
+"Frenk, Roy","Bas, Donnie",8,10,83.1,0.551,0.444,-20.1
+"Kassandra, Bas","Dennis, Donnie",10,6,322.8,0.689,0.625,-12.3
+"Loek, Bas","Kassandra, Job V",10,5,274.1,0.663,0.667,0.7
+"Loek, Yashin","Job V, Philip",5,10,172.9,0.605,0.333,-47.5
