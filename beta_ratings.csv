@@ -2,20 +2,20 @@ Player,Position,Rating,#Games
 Koen,Offense,1818.5,148
 Bart,Defense,1753.3,95
 Liveris,Offense,1711.2,19
-Liveris,Average,1690.1,32
 Job V,Defense,1686.7,5
-Liveris,Defense,1669.0,13
+Liveris,Average,1668.4,33
 Koen,Average,1666.4,157
 Loek,Defense,1663.2,28
+Bas,Offense,1635.2,41
 Bart,Average,1630.0,109
+Liveris,Defense,1625.5,14
 Job V,Offense,1611.5,5
-Bas,Offense,1591.7,40
-Bas,Average,1591.5,108
-Bas,Defense,1591.3,68
-Philip,Offense,1588.5,19
+Philip,Offense,1606.1,20
+Bas,Average,1604.4,110
 Oliver,Offense,1580.8,2
 Loek,Average,1576.6,31
 Yashin,Defense,1575.8,66
+Bas,Defense,1573.7,69
 Yashin,Average,1571.6,174
 Yashin,Offense,1567.4,108
 Martin,Offense,1564.4,18
@@ -28,6 +28,7 @@ Maarten,Defense,1541.4,8
 Carl,Defense,1539.4,16
 Floris,Offense,1531.9,1
 Oliver,Defense,1527.6,2
+Philip,Average,1527.2,61
 Mohammed,Defense,1526.9,17
 Brian,Offense,1525.1,5
 Jane,Defense,1525.0,1
@@ -39,23 +40,20 @@ Job,Defense,1506.7,19
 Mohammed,Average,1503.8,54
 Frenk ,Defense,1503.3,1
 Job ,Defense,1496.7,1
-Philip,Average,1496.6,59
 Floris,Average,1494.2,2
 Roy,Defense,1490.7,1
 Loek,Offense,1490.0,3
-Roy,Average,1485.3,2
+Frenk,Defense,1488.6,39
 Timo,Offense,1482.0,60
+Frenk,Average,1481.6,40
 Irene,Offense,1481.4,2
 Mohammed,Offense,1480.8,37
-Roy,Offense,1479.9,1
 Vincent,Offense,1478.8,8
 Maarten,Average,1478.5,10
 Thomas,Offense,1476.3,2
 Frenk,Offense,1474.7,1
 Thomas,Average,1473.9,4
-Frenk,Average,1472.8,39
 Thomas,Defense,1471.5,2
-Frenk,Defense,1471.0,38
 Katherine,Offense,1468.5,5
 Bruno,Defense,1468.1,1
 Jelle,Offense,1468.0,1
@@ -64,16 +62,18 @@ Bruno,Average,1462.3,2
 Irene,Average,1460.2,3
 Floris,Defense,1456.5,1
 Bruno,Offense,1456.5,1
+Roy,Average,1454.8,4
 Laura,Offense,1450.4,2
+Philip,Defense,1448.3,41
 Timo,Defense,1447.3,38
 Daan Ri,Defense,1445.4,8
 Irene,Defense,1439.1,1
 Jay,Offense,1439.1,1
 Daan Ri,Offense,1434.7,13
 Katherine,Average,1430.9,17
+Roy,Offense,1418.8,3
 Maarten,Offense,1415.6,2
 Kassandra,Defense,1414.2,50
-Philip,Defense,1404.8,40
 Dennis,Defense,1402.6,20
 Dennis,Average,1401.8,24
 Dennis,Offense,1400.9,4
