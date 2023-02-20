@@ -3,25 +3,25 @@
 1. Koen: 1829.3 
 2. Job V: 1753.1 
 3. Bart: 1733.7 
-4. Liveris: 1653.5 
-5. Loek: 1642.3 
-6. Yashin: 1629.4 
+4. Yashin: 1685.1 
+5. Liveris: 1653.5 
+6. Loek: 1642.3 
 7. Oliver: 1609.1 
 8. Bas: 1585.9 
 9. Martin: 1568.6 
-10. Brian: 1541.6 
-11. Philip: 1529.5 
+10. Philip: 1529.5 
+11. Timo: 1515.5 
 12. Job: 1512.7 
 13. Frenk : 1509.9 
 14. Jane: 1509.5 
 15. Carl: 1493.9 
 16. Job : 1490.1 
 17. Floris: 1486.0 
-18. Thomas: 1482.3 
-19. Maarten: 1478.5 
-20. Mohammed: 1478.1 
-21. Jelle: 1461.8 
-22. Timo: 1459.8 
+18. Brian: 1485.9 
+19. Thomas: 1482.3 
+20. Maarten: 1478.5 
+21. Mohammed: 1478.1 
+22. Jelle: 1461.8 
 23. Vincent: 1458.4 
 24. Frenk: 1450.2 
 25. Jay: 1442.5 
@@ -34,7 +34,7 @@
 32. Roy: 1405.4 
 33. Katherine: 1377.5 
 34. Dennis: 1352.4 
-35. Wouter: 1327.7 
+35. Wouter: 1272.0 
 36. Michiel: 1197.8 
 
 ## Barto Rating
