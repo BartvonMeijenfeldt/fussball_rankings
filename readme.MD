@@ -5,37 +5,38 @@
 3. Bart: 1752.7 
 4. Liveris: 1653.5 
 5. Loek: 1642.3 
-6. Yashin: 1635.8 
+6. Yashin: 1634.1 
 7. Oliver: 1609.1 
 8. Martin: 1587.6 
-9. Bas: 1566.9 
-10. Timo: 1545.8 
+9. Bas: 1562.0 
+10. Tim: 1532.0 
 11. Philip: 1529.5 
-12. Carl: 1524.2 
-13. Job: 1512.7 
-14. Frenk : 1509.9 
-15. Jane: 1509.5 
-16. Job : 1490.1 
-17. Floris: 1486.0 
-18. Brian: 1485.9 
-19. Thomas: 1482.3 
-20. Maarten: 1478.5 
-21. Mohammed: 1478.1 
-22. Jelle: 1461.8 
-23. Vincent: 1458.4 
-24. Frenk: 1450.2 
-25. Jay: 1442.5 
-26. Laura: 1440.0 
-27. Irene: 1435.5 
-28. Kassandra: 1423.7 
-29. Bruno: 1423.2 
-30. Daan Ri: 1412.7 
-31. Roy: 1405.4 
-32. Donnie: 1384.1 
-33. Katherine: 1377.5 
-34. Dennis: 1352.4 
-35. Wouter: 1272.0 
-36. Michiel: 1197.8 
+12. Carl: 1525.9 
+13. Timo: 1520.4 
+14. Job: 1512.7 
+15. Frenk : 1509.9 
+16. Jane: 1509.5 
+17. Job : 1490.1 
+18. Floris: 1486.0 
+19. Brian: 1485.9 
+20. Thomas: 1482.3 
+21. Maarten: 1478.5 
+22. Mohammed: 1478.1 
+23. Jelle: 1461.8 
+24. Vincent: 1458.4 
+25. Frenk: 1450.2 
+26. Jay: 1442.5 
+27. Laura: 1440.0 
+28. Irene: 1435.5 
+29. Kassandra: 1423.7 
+30. Bruno: 1423.2 
+31. Daan Ri: 1412.7 
+32. Roy: 1410.3 
+33. Donnie: 1382.4 
+34. Katherine: 1377.5 
+35. Dennis: 1347.5 
+36. Wouter: 1272.0 
+37. Michiel: 1197.8 
 
 ## Barto Rating
 Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
