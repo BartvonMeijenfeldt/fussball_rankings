@@ -12,10 +12,10 @@
 10. Tim: 1532.0 
 11. Philip: 1529.8 
 12. Carl: 1525.9 
-13. Timo: 1520.7 
-14. Job: 1512.7 
-15. Frenk : 1509.9 
-16. Jane: 1509.5 
+13. Job: 1512.7 
+14. Frenk : 1509.9 
+15. Jane: 1509.5 
+16. Timo: 1492.2 
 17. Job : 1490.1 
 18. Floris: 1486.0 
 19. Brian: 1485.9 
@@ -23,19 +23,19 @@
 21. Maarten: 1478.5 
 22. Mohammed: 1478.1 
 23. Jelle: 1461.8 
-24. Vincent: 1458.4 
+24. Kassandra: 1452.2 
 25. Frenk: 1450.2 
 26. Jay: 1442.5 
 27. Laura: 1440.0 
 28. Irene: 1435.5 
-29. Kassandra: 1423.7 
+29. Vincent: 1429.9 
 30. Bruno: 1423.2 
 31. Daan Ri: 1412.7 
 32. Roy: 1410.0 
 33. Donnie: 1382.4 
 34. Katherine: 1377.5 
 35. Dennis: 1347.5 
-36. Wouter: 1271.7 
+36. Wouter: 1300.2 
 37. Michiel: 1197.8 
 
 ## Barto Rating
