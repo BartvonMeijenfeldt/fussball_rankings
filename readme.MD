@@ -10,9 +10,9 @@
 8. Martin: 1587.6 
 9. Bas: 1562.0 
 10. Tim: 1532.0 
-11. Philip: 1529.5 
+11. Philip: 1529.8 
 12. Carl: 1525.9 
-13. Timo: 1520.4 
+13. Timo: 1520.7 
 14. Job: 1512.7 
 15. Frenk : 1509.9 
 16. Jane: 1509.5 
@@ -31,11 +31,11 @@
 29. Kassandra: 1423.7 
 30. Bruno: 1423.2 
 31. Daan Ri: 1412.7 
-32. Roy: 1410.3 
+32. Roy: 1410.0 
 33. Donnie: 1382.4 
 34. Katherine: 1377.5 
 35. Dennis: 1347.5 
-36. Wouter: 1272.0 
+36. Wouter: 1271.7 
 37. Michiel: 1197.8 
 
 ## Barto Rating
