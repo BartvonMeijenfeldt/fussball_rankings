@@ -327,3 +327,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Kassandra, Roy","Frenk, Donnie",6,10,-6.5,0.496,0.375,-21.7
 "Martin, Bart","Donnie, Job",10,8,120.9,0.574,0.556,-3.5
 "Bart, Loek","Martin, Laura",10,0,276.6,0.664,1.0,52.3
+"Carl, Donnie","Dennis, Job",10,5,5.7,0.504,0.667,28.5
+"Philip , Job","Martin, Loek",10,1,6.8,0.504,0.909,61.6
+"Loek, Job","Philip, Martin",10,9,225.2,0.635,0.526,-21.6
