@@ -22,17 +22,17 @@
 20. Thomas: 1482.3 
 21. Maarten: 1478.5 
 22. Mohammed: 1478.1 
-23. Jelle: 1461.8 
-24. Kassandra: 1452.2 
-25. Frenk: 1450.2 
-26. Jay: 1442.5 
-27. Laura: 1440.0 
-28. Irene: 1435.5 
-29. Vincent: 1429.9 
+23. Frenk: 1475.9 
+24. Jelle: 1461.8 
+25. Jay: 1442.5 
+26. Laura: 1440.0 
+27. Irene: 1435.5 
+28. Vincent: 1429.9 
+29. Kassandra: 1426.5 
 30. Bruno: 1423.2 
 31. Daan Ri: 1412.7 
-32. Roy: 1410.0 
-33. Donnie: 1382.4 
+32. Donnie: 1408.1 
+33. Roy: 1384.3 
 34. Katherine: 1377.5 
 35. Dennis: 1347.5 
 36. Wouter: 1300.2 
