@@ -1,14 +1,14 @@
 Player,Position,Rating,#Games
 Koen,Offense,1818.5,148
-Bart,Defense,1808.9,97
+Bart,Defense,1804.0,98
 Liveris,Offense,1713.0,20
 Job V,Defense,1686.7,5
-Liveris,Average,1669.2,34
+Liveris,Average,1671.7,35
 Koen,Average,1666.4,157
-Bart,Average,1656.1,112
+Bart,Average,1653.6,113
 Loek,Defense,1641.6,29
+Liveris,Defense,1630.4,15
 Bas,Offense,1629.4,42
-Liveris,Defense,1625.5,14
 Philip,Offense,1624.7,21
 Yashin,Defense,1614.1,69
 Job V,Offense,1611.5,5
@@ -55,11 +55,11 @@ Frenk,Offense,1474.7,1
 Thomas,Average,1473.9,4
 Thomas,Defense,1471.5,2
 Philip,Defense,1469.9,42
-Katherine,Offense,1468.5,5
+Vincent,Offense,1468.7,10
 Bruno,Defense,1468.1,1
 Jelle,Offense,1468.0,1
 Brian,Offense,1466.4,7
-Vincent,Offense,1463.8,9
+Katherine,Offense,1463.6,6
 Bruno,Average,1462.3,2
 Irene,Average,1460.2,3
 Floris,Defense,1456.5,1
@@ -70,7 +70,7 @@ Irene,Defense,1439.1,1
 Jay,Offense,1439.1,1
 Roy,Average,1437.5,7
 Daan Ri,Offense,1434.7,13
-Katherine,Average,1430.9,17
+Katherine,Average,1428.4,18
 Donnie,Offense,1416.1,32
 Maarten,Offense,1415.6,2
 Martin,Defense,1405.7,45

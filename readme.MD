@@ -1,15 +1,15 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
 1. Koen Offense: 1818.5 
-2. Bart Defense: 1808.9 
+2. Bart Defense: 1804.0 
 3. Liveris Offense: 1713.0 
 4. Job V Defense: 1686.7 
-5. Liveris Average: 1669.2 
+5. Liveris Average: 1671.7 
 6. Koen Average: 1666.4 
-7. Bart Average: 1656.1 
+7. Bart Average: 1653.6 
 8. Loek Defense: 1641.6 
-9. Bas Offense: 1629.4 
-10. Liveris Defense: 1625.5 
+9. Liveris Defense: 1630.4 
+10. Bas Offense: 1629.4 
 11. Philip Offense: 1624.7 
 12. Yashin Defense: 1614.1 
 13. Job V Offense: 1611.5 
@@ -56,11 +56,11 @@
 54. Thomas Average: 1473.9 
 55. Thomas Defense: 1471.5 
 56. Philip Defense: 1469.9 
-57. Katherine Offense: 1468.5 
+57. Vincent Offense: 1468.7 
 58. Bruno Defense: 1468.1 
 59. Jelle Offense: 1468.0 
 60. Brian Offense: 1466.4 
-61. Vincent Offense: 1463.8 
+61. Katherine Offense: 1463.6 
 62. Bruno Average: 1462.3 
 63. Irene Average: 1460.2 
 64. Floris Defense: 1456.5 
@@ -71,7 +71,7 @@
 69. Jay Offense: 1439.1 
 70. Roy Average: 1437.5 
 71. Daan Ri Offense: 1434.7 
-72. Katherine Average: 1430.9 
+72. Katherine Average: 1428.4 
 73. Donnie Offense: 1416.1 
 74. Maarten Offense: 1415.6 
 75. Martin Defense: 1405.7 
