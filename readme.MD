@@ -10,31 +10,31 @@
 8. Job: 1579.4 
 9. Philip : 1576.3 
 10. Bas: 1562.0 
-11. Philip: 1555.6 
-12. Carl: 1547.3 
-13. Tim: 1532.0 
-14. Frenk : 1509.9 
-15. Jane: 1509.5 
-16. Timo: 1498.6 
-17. Job : 1490.1 
-18. Floris: 1486.0 
-19. Brian: 1485.9 
-20. Thomas: 1482.3 
+11. Carl: 1547.3 
+12. Tim: 1532.0 
+13. Thomas: 1521.2 
+14. Philip: 1516.7 
+15. Frenk : 1509.9 
+16. Jane: 1509.5 
+17. Timo: 1498.6 
+18. Job : 1490.1 
+19. Floris: 1486.0 
+20. Brian: 1485.9 
 21. Maarten: 1478.5 
 22. Mohammed: 1478.1 
 23. Frenk: 1475.9 
-24. Jelle: 1461.8 
-25. Donnie: 1460.7 
-26. Martin: 1453.1 
-27. Jay: 1442.5 
-28. Irene: 1435.5 
-29. Kassandra: 1432.9 
+24. Kassandra: 1471.8 
+25. Jelle: 1461.8 
+26. Donnie: 1460.7 
+27. Martin: 1453.1 
+28. Jay: 1442.5 
+29. Irene: 1435.5 
 30. Bruno: 1423.2 
 31. Vincent: 1420.6 
 32. Daan Ri: 1412.7 
 33. Laura: 1393.6 
 34. Katherine: 1386.8 
-35. Roy: 1384.3 
+35. Roy: 1345.4 
 36. Dennis: 1326.1 
 37. Wouter: 1300.2 
 38. Michiel: 1197.8 
