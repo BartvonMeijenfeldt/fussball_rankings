@@ -12,21 +12,22 @@ Bas,Offense,1629.4,42
 Philip,Offense,1624.7,21
 Yashin,Defense,1614.1,69
 Job V,Offense,1611.5,5
+Yashin,Average,1606.9,179
 Bas,Average,1599.9,112
+Yashin,Offense,1599.7,110
 Martin,Offense,1589.3,20
-Yashin,Average,1589.1,178
-Carl,Defense,1588.3,18
 Oliver,Offense,1580.8,2
 Bas,Defense,1570.4,70
-Carl,Average,1568.9,26
-Yashin,Offense,1564.1,109
 Philip ,Defense,1561.6,1
 Loek,Average,1561.2,34
 Job,Offense,1556.4,24
 Oliver,Average,1554.2,4
+Carl,Defense,1552.7,19
+Carl,Average,1551.1,27
 Carl,Offense,1549.5,8
 Timo,Offense,1544.7,64
 Maarten,Defense,1541.4,8
+Brian,Defense,1535.6,1
 Floris,Offense,1531.9,1
 Job,Average,1531.6,43
 Philip,Average,1529.9,64
@@ -41,6 +42,7 @@ Job,Defense,1506.7,19
 Mohammed,Average,1503.8,54
 Bart,Offense,1503.3,15
 Frenk ,Defense,1503.3,1
+Brian,Average,1501.0,8
 Timo,Average,1497.8,104
 Martin,Average,1497.5,65
 Job ,Defense,1496.7,1
@@ -54,7 +56,6 @@ Maarten,Average,1478.5,10
 Roy,Defense,1477.9,3
 Frenk,Offense,1474.7,1
 Thomas,Defense,1471.5,2
-Vincent,Offense,1468.7,10
 Bruno,Defense,1468.1,1
 Jelle,Offense,1468.0,1
 Brian,Offense,1466.4,7
@@ -70,6 +71,7 @@ Irene,Defense,1439.1,1
 Jay,Offense,1439.1,1
 Philip,Defense,1435.1,43
 Daan Ri,Offense,1434.7,13
+Vincent,Offense,1433.1,11
 Katherine,Average,1428.4,18
 Roy,Average,1420.1,8
 Donnie,Offense,1416.1,32
