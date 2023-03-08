@@ -6,19 +6,19 @@
 4. Yashin: 1679.7 
 5. Liveris: 1662.3 
 6. Oliver: 1609.1 
-7. Bas: 1608.4 
+7. Bas: 1590.0 
 8. Loek: 1586.6 
 9. Philip : 1576.3 
-10. Tim: 1532.0 
-11. Carl: 1526.2 
-12. Job: 1524.1 
+10. Tim: 1550.4 
+11. Job: 1542.5 
+12. Carl: 1526.2 
 13. Thomas: 1521.2 
 14. Philip: 1516.7 
-15. Donnie: 1516.0 
-16. Frenk : 1509.9 
-17. Jane: 1509.5 
-18. Timo: 1498.6 
-19. Brian: 1498.1 
+15. Frenk : 1509.9 
+16. Jane: 1509.5 
+17. Timo: 1498.6 
+18. Brian: 1498.1 
+19. Donnie: 1497.6 
 20. Job : 1490.1 
 21. Floris: 1486.0 
 22. Mohammed: 1478.1 
