@@ -339,3 +339,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bas, Donnie","Job, Martin",10,2,-81.9,0.45,0.833,60.3
 "Tim, Job","Bas, Donnie",10,8,-64.5,0.46,0.556,18.0
 "Katherine, Timo","Martin, Job",10,7,-42.1,0.474,0.588,21.0
+"Donnie, Timo","Job, Vincent",9,10,59.1,0.536,0.474,-12.1
+"Job, Timo","Liveris, Donnie",9,10,-104.7,0.436,0.474,7.4
+"Katherine, Timo","Donnie, Liveris",8,10,-98.5,0.44,0.444,0.9
