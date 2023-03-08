@@ -10,13 +10,13 @@
 8. Loek: 1586.6 
 9. Philip : 1576.3 
 10. Tim: 1550.4 
-11. Job: 1542.5 
-12. Carl: 1526.2 
+11. Carl: 1526.2 
+12. Timo: 1522.1 
 13. Thomas: 1521.2 
-14. Philip: 1516.7 
-15. Frenk : 1509.9 
-16. Jane: 1509.5 
-17. Timo: 1498.6 
+14. Job: 1519.0 
+15. Philip: 1516.7 
+16. Frenk : 1509.9 
+17. Jane: 1509.5 
 18. Brian: 1498.1 
 19. Donnie: 1497.6 
 20. Job : 1490.1 
@@ -30,10 +30,10 @@
 28. Irene: 1435.5 
 29. Bruno: 1423.2 
 30. Daan Ri: 1412.7 
-31. Martin: 1406.7 
+31. Katherine: 1410.3 
 32. Vincent: 1399.5 
 33. Laura: 1393.6 
-34. Katherine: 1386.8 
+34. Martin: 1383.2 
 35. Roy: 1345.4 
 36. Dennis: 1335.0 
 37. Wouter: 1300.2 
