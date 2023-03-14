@@ -3,39 +3,39 @@
 1. Koen: 1829.3 
 2. Job V: 1753.1 
 3. Bart: 1748.3 
-4. Yashin: 1679.7 
-5. Bas: 1643.8 
+4. Yashin: 1664.6 
+5. Bas: 1637.8 
 6. Liveris: 1628.7 
 7. Oliver: 1609.1 
 8. Loek: 1586.6 
 9. Philip : 1576.3 
 10. Timo: 1569.4 
 11. Tim: 1550.4 
-12. Job: 1543.1 
+12. Job: 1537.1 
 13. Philip: 1535.1 
 14. Carl: 1526.2 
 15. Thomas: 1521.2 
-16. Brian: 1511.3 
+16. Brian: 1517.3 
 17. Frenk : 1509.9 
 18. Jane: 1509.5 
 19. Job : 1490.1 
 20. Floris: 1486.0 
 21. Mohammed: 1478.1 
 22. Frenk: 1475.9 
-23. Jelle: 1461.8 
-24. Donnie: 1458.1 
-25. Maarten: 1454.0 
+23. Maarten: 1469.1 
+24. Jelle: 1461.8 
+25. Donnie: 1458.1 
 26. Jay: 1442.5 
 27. Irene: 1435.5 
 28. Kassandra: 1427.8 
-29. Katherine: 1423.7 
-30. Bruno: 1423.2 
-31. Vincent: 1416.6 
-32. Daan Ri: 1412.7 
+29. Bruno: 1423.2 
+30. Vincent: 1416.6 
+31. Daan Ri: 1412.7 
+32. Katherine: 1408.6 
 33. Laura: 1406.8 
 34. Martin: 1383.2 
-35. Dennis: 1335.0 
-36. Wouter: 1300.2 
+35. Dennis: 1341.0 
+36. Wouter: 1315.3 
 37. Roy: 1260.0 
 38. Michiel: 1197.8 
 
