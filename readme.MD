@@ -13,8 +13,8 @@
 11. Tim: 1550.4 
 12. Job: 1537.1 
 13. Philip: 1535.1 
-14. Carl: 1526.2 
-15. Thomas: 1521.2 
+14. Thomas: 1526.8 
+15. Carl: 1526.2 
 16. Brian: 1517.3 
 17. Frenk : 1509.9 
 18. Jane: 1509.5 
@@ -23,18 +23,18 @@
 21. Mohammed: 1478.1 
 22. Frenk: 1475.9 
 23. Maarten: 1469.1 
-24. Jelle: 1461.8 
-25. Donnie: 1458.1 
+24. Donnie: 1463.7 
+25. Jelle: 1461.8 
 26. Jay: 1442.5 
 27. Irene: 1435.5 
 28. Kassandra: 1427.8 
 29. Bruno: 1423.2 
 30. Vincent: 1416.6 
-31. Daan Ri: 1412.7 
-32. Katherine: 1408.6 
+31. Katherine: 1408.6 
+32. Daan Ri: 1407.1 
 33. Laura: 1406.8 
 34. Martin: 1383.2 
-35. Dennis: 1341.0 
+35. Dennis: 1335.4 
 36. Wouter: 1315.3 
 37. Roy: 1260.0 
 38. Michiel: 1197.8 
