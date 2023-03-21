@@ -352,5 +352,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Dennis, Daan Ri","Thomas, Donnie",5,10,-77.0,0.453,0.333,-21.0
 "Bas, Wouter","Yashin, Arjen",10,5,-127.2,0.422,0.667,42.7
 "Bas, Wouter","Yashin, Kassandra",10,9,121.4,0.574,0.526,-9.3
-"Bas, Wouter","Kassandra, Yashin",10,5,8.1,0.505,0.667,28.3
-"Kassandra, Bas","Yashin, Wouter",5,10,10.6,0.507,0.333,-30.3
+"Bas, Kassandra","Yashin, Wouter",10,2,60.4,0.537,0.833,47.3
+"Kassandra, Bas","Yashin, Wouter",5,10,161.8,0.598,0.333,-46.3
