@@ -351,3 +351,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Katherine, Yashin","Maarten, Wouter",10,6,349.2,0.703,0.625,-15.1
 "Dennis, Daan Ri","Thomas, Donnie",5,10,-225.6,0.365,0.333,-5.6
 "Bas, Wouter","Yashin, Arjen",10,5,-211.5,0.373,0.667,51.7
+"Bas, Wouter","Yashin, Kassandra",10,9,15.8,0.51,0.526,3.2
+"Bas, Wouter","Kassandra, Yashin",10,5,28.6,0.518,0.667,26.1
+"Kassandra, Bas","Yashin, Wouter",5,10,137.4,0.584,0.333,-43.7
