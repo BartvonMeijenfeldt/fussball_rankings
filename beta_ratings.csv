@@ -8,16 +8,15 @@ Liveris,Average,1675.2,39
 Bart,Average,1668.5,116
 Koen,Average,1666.4,157
 Liveris,Defense,1638.2,18
-Yashin,Offense,1636.5,112
 Bas,Average,1631.4,124
 Philip,Offense,1624.7,21
 Job V,Offense,1611.5,5
-Loek,Defense,1610.9,30
-Yashin,Average,1608.1,185
 Timo,Offense,1603.4,70
+Yashin,Offense,1603.2,113
+Yashin,Average,1599.3,187
+Yashin,Defense,1595.4,74
 Oliver,Offense,1580.8,2
-Yashin,Defense,1579.7,73
-Maarten,Defense,1563.3,10
+Loek,Defense,1577.6,31
 Bas,Offense,1562.5,45
 Philip ,Defense,1561.6,1
 Bart,Offense,1561.0,17
@@ -27,10 +26,11 @@ Carl,Defense,1552.7,19
 Carl,Average,1551.1,27
 Carl,Offense,1549.5,8
 Brian,Defense,1548.4,2
+Maarten,Defense,1547.6,11
 Job,Offense,1546.9,27
-Loek,Average,1545.8,35
 Brian,Average,1532.9,12
 Floris,Offense,1531.9,1
+Loek,Average,1529.2,36
 Oliver,Defense,1527.6,2
 Mohammed,Defense,1526.9,17
 Jane,Defense,1525.0,1
@@ -56,10 +56,11 @@ Irene,Offense,1481.4,2
 Mohammed,Offense,1480.8,37
 Loek,Offense,1480.7,5
 Roy,Defense,1477.9,3
-Maarten,Average,1475.4,13
 Frenk,Offense,1474.7,1
 Bruno,Defense,1468.1,1
 Jelle,Offense,1468.0,1
+Maarten,Average,1467.6,14
+Martin,Average,1466.6,69
 Job,Defense,1465.9,22
 Katherine,Offense,1463.6,6
 Bruno,Average,1462.3,2
@@ -67,7 +68,7 @@ Irene,Average,1460.2,3
 Arjen,Offense,1457.3,1
 Floris,Defense,1456.5,1
 Bruno,Offense,1456.5,1
-Martin,Average,1450.0,68
+Wouter,Offense,1448.7,39
 Daan Ri,Defense,1445.4,8
 Vincent,Offense,1445.2,12
 Katherine,Average,1443.8,21
@@ -77,21 +78,20 @@ Jay,Offense,1439.1,1
 Kassandra,Offense,1436.1,17
 Katherine,Defense,1424.0,15
 Donnie,Offense,1422.2,37
+Martin,Defense,1418.0,47
 Daan Ri,Offense,1413.7,14
-Laura,Offense,1410.9,4
 Dennis,Offense,1400.9,4
-Wouter,Offense,1399.7,37
 Kassandra,Average,1399.4,75
+Laura,Offense,1395.2,5
 Maarten,Offense,1387.6,3
 Donnie,Average,1387.1,52
-Martin,Defense,1384.7,46
 Roy,Average,1384.0,11
 Dennis,Average,1370.4,29
 Kassandra,Defense,1362.8,58
+Wouter,Average,1362.4,56
 Donnie,Defense,1352.0,15
 Michiel,Defense,1349.4,4
 Dennis,Defense,1340.0,25
-Wouter,Average,1337.8,54
 Michiel,Average,1318.8,12
 Roy,Offense,1290.0,8
 Michiel,Offense,1288.2,8
