@@ -3,7 +3,7 @@
 1. Koen: 1829.3 
 2. Bart: 1760.7 
 3. Job V: 1753.1 
-4. Yashin: 1644.8 
+4. Yashin: 1669.6 
 5. Liveris: 1615.3 
 6. Oliver: 1609.1 
 7. Tim: 1592.2 
@@ -17,28 +17,29 @@
 15. Carl: 1513.8 
 16. Frenk : 1509.9 
 17. Jane: 1509.5 
-18. Maarten: 1502.4 
-19. Loek: 1491.0 
-20. Job : 1490.1 
-21. Floris: 1486.0 
-22. Mohammed: 1478.1 
-23. Donnie: 1463.7 
-24. Jelle: 1461.8 
-25. Arjen: 1448.3 
-26. Jay: 1442.5 
-27. Irene: 1435.5 
-28. Frenk: 1434.1 
-29. Martin: 1431.8 
+18. Luka: 1504.4 
+19. Maarten: 1502.4 
+20. Loek: 1491.0 
+21. Job : 1490.1 
+22. Floris: 1486.0 
+23. Mohammed: 1478.1 
+24. Donnie: 1463.7 
+25. Jelle: 1461.8 
+26. Arjen: 1448.3 
+27. Jay: 1442.5 
+28. Irene: 1435.5 
+29. Frenk: 1434.1 
 30. Wouter: 1428.7 
-31. Kassandra: 1423.6 
-32. Bruno: 1423.2 
-33. Vincent: 1416.6 
-34. Daan Ri: 1407.1 
-35. Laura: 1395.3 
+31. Martin: 1427.4 
+32. Kassandra: 1423.6 
+33. Bruno: 1423.2 
+34. Vincent: 1416.6 
+35. Daan Ri: 1407.1 
 36. Katherine: 1390.2 
-37. Dennis: 1335.4 
-38. Roy: 1310.2 
-39. Michiel: 1197.8 
+37. Laura: 1370.5 
+38. Dennis: 1335.4 
+39. Roy: 1310.2 
+40. Michiel: 1197.8 
 
 ## Barto Rating
 Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
