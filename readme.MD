@@ -1,46 +1,47 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
 1. Koen: 1829.3 
-2. Bart: 1760.7 
-3. Job V: 1753.1 
-4. Yashin: 1686.9 
-5. Liveris: 1615.3 
+2. Job V: 1753.1 
+3. Bart: 1709.8 
+4. Yashin: 1694.0 
+5. Liveris: 1626.0 
 6. Oliver: 1609.1 
 7. Tim: 1592.2 
-8. Brian: 1576.9 
-9. Philip : 1576.3 
-10. Timo: 1569.4 
-11. Bas: 1547.3 
-12. Job: 1537.1 
-13. Philip: 1535.1 
-14. Thomas: 1526.8 
-15. Carl: 1513.8 
-16. Frenk : 1509.9 
-17. Jane: 1509.5 
-18. Luka: 1504.4 
-19. Maarten: 1502.4 
-20. Loek: 1491.0 
-21. Job : 1490.1 
-22. Floris: 1486.0 
-23. Lars: 1482.7 
-24. Mohammed: 1478.1 
-25. Donnie: 1463.7 
-26. Jelle: 1461.8 
-27. Arjen: 1448.3 
-28. Jay: 1442.5 
-29. Irene: 1435.5 
-30. Frenk: 1434.1 
-31. Wouter: 1428.7 
-32. Kassandra: 1423.6 
-33. Bruno: 1423.2 
-34. Vincent: 1416.6 
-35. Martin: 1410.1 
-36. Daan Ri: 1407.1 
-37. Katherine: 1390.2 
-38. Laura: 1387.8 
-39. Dennis: 1335.4 
-40. Roy: 1310.2 
-41. Michiel: 1197.8 
+8. Bas: 1587.3 
+9. Brian: 1576.9 
+10. Philip : 1576.3 
+11. Timo: 1569.4 
+12. Philip: 1535.1 
+13. Thomas: 1526.8 
+14. Carl: 1513.8 
+15. Frenk : 1509.9 
+16. Jane: 1509.5 
+17. Luka: 1504.4 
+18. Maarten: 1502.4 
+19. Job: 1497.1 
+20. Donnie: 1496.8 
+21. Loek: 1491.0 
+22. Job : 1490.1 
+23. Floris: 1486.0 
+24. Lars: 1482.7 
+25. Mohammed: 1478.1 
+26. Wouter: 1465.1 
+27. Jelle: 1461.8 
+28. Kristin: 1449.1 
+29. Arjen: 1448.3 
+30. Jay: 1442.5 
+31. Irene: 1435.5 
+32. Frenk: 1434.1 
+33. Martin: 1424.6 
+34. Kassandra: 1423.6 
+35. Bruno: 1423.2 
+36. Vincent: 1416.6 
+37. Daan Ri: 1407.1 
+38. Katherine: 1390.2 
+39. Laura: 1387.8 
+40. Dennis: 1335.4 
+41. Roy: 1310.2 
+42. Michiel: 1197.8 
 
 ## Barto Rating
 Ratings are based on the rating system named Barto which I developed during my Master's thesis. This thesis is included as pdf in barto.pdf. It can be seen as an extension of the Elo rating for games consisting out of smaller sub-games (contests) such as Tennis (sub-game either Sets, Games, or single points) or Fussball (sub-game every single point/goal scored)
