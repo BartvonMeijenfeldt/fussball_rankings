@@ -380,3 +380,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bas, Yashin","Frenk, Martin",10,4,178.3,0.608,0.714,18.5
 "Dennis, Yashin","Frenk, Donnie",10,4,-11.8,0.493,0.714,37.6
 "Frenk, Yashin","Carl, Donnie",10,2,137.6,0.584,0.833,40.5
+"Dennis, Frenk","Yashin, Donnie",2,10,-267.5,0.341,0.167,-29.3
+"Dennis, Frenk","Donnie, Yashin",1,10,-384.7,0.279,0.091,-31.9
