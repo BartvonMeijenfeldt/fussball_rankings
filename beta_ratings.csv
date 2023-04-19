@@ -1,11 +1,11 @@
 Player,Position,Rating,#Games
 Koen,Offense,1818.5,148
 Bart,Defense,1726.6,101
+Yashin,Offense,1711.0,121
+Yashin,Average,1709.2,202
+Yashin,Defense,1707.4,81
 Job V,Defense,1686.7,5
 Liveris,Offense,1683.1,25
-Yashin,Defense,1671.8,80
-Yashin,Average,1671.4,200
-Yashin,Offense,1670.9,120
 Koen,Average,1666.4,157
 Bas,Defense,1661.5,84
 Liveris,Average,1660.6,43
@@ -54,13 +54,11 @@ Thomas,Defense,1492.5,3
 Frenk,Defense,1488.8,48
 Philip,Defense,1484.9,44
 Job,Defense,1484.5,24
-Frenk,Average,1481.8,49
 Irene,Offense,1481.4,2
 Mohammed,Offense,1480.8,37
 Loek,Offense,1480.7,5
 Carl,Defense,1478.2,22
 Daan,Offense,1477.7,1
-Frenk,Offense,1474.7,1
 Lars,Defense,1470.1,1
 Maarten,Average,1469.4,15
 Martin,Average,1468.2,77
@@ -75,28 +73,30 @@ Bruno,Offense,1456.5,1
 Katherine,Average,1453.2,24
 Daan Ri,Defense,1445.4,8
 Vincent,Offense,1445.2,12
+Frenk,Average,1443.9,51
 Katherine,Defense,1442.9,18
 Timo,Defense,1440.8,41
 Irene,Defense,1439.1,1
 Jay,Offense,1439.1,1
 Kassandra,Offense,1436.1,17
 Kassandra,Average,1423.9,79
+Donnie,Defense,1422.0,18
 Kristin,Offense,1415.5,2
+Donnie,Average,1415.5,61
 Daan Ri,Offense,1413.7,14
 Roy,Average,1413.6,15
 Kassandra,Defense,1411.7,62
+Donnie,Offense,1409.0,43
 Martin,Defense,1401.2,48
 Dennis,Offense,1400.9,4
+Frenk,Offense,1399.0,3
 Laura,Offense,1390.2,11
-Dennis,Average,1388.6,30
 Maarten,Offense,1387.6,3
 Wouter,Average,1386.6,61
-Donnie,Defense,1381.9,17
-Donnie,Average,1377.6,59
-Dennis,Defense,1376.3,26
-Donnie,Offense,1373.4,42
+Dennis,Average,1350.8,32
 Michiel,Defense,1349.4,4
 Roy,Offense,1328.3,10
 Michiel,Average,1318.8,12
+Dennis,Defense,1300.6,28
 Michiel,Offense,1288.2,8
 Wouter,Defense,1276.0,17
