@@ -16,20 +16,20 @@
 14. Job: 1524.5 
 15. Frenk : 1509.9 
 16. Jane: 1509.5 
-17. Luka: 1504.4 
-18. Maarten: 1503.9 
-19. Loek: 1491.0 
-20. Job : 1490.1 
-21. Floris: 1486.0 
-22. Lars: 1482.7 
-23. Donnie: 1478.4 
+17. Wouter: 1504.5 
+18. Luka: 1504.4 
+19. Maarten: 1503.9 
+20. Loek: 1491.0 
+21. Job : 1490.1 
+22. Floris: 1486.0 
+23. Lars: 1482.7 
 24. Mohammed: 1478.1 
-25. Wouter: 1477.2 
-26. Daan: 1477.2 
+25. Daan: 1477.2 
+26. Carl: 1472.2 
 27. Martin: 1462.0 
 28. Jelle: 1461.8 
-29. Arjen: 1448.3 
-30. Carl: 1444.9 
+29. Donnie: 1451.1 
+30. Arjen: 1448.3 
 31. Jay: 1442.5 
 32. Irene: 1435.5 
 33. Kassandra: 1427.3 
@@ -40,7 +40,7 @@
 38. Frenk: 1408.0 
 39. Daan Ri: 1407.1 
 40. Laura: 1360.4 
-41. Roy: 1353.9 
+41. Roy: 1326.6 
 42. Dennis: 1311.8 
 43. Michiel: 1197.8 
 
