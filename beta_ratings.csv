@@ -1,9 +1,9 @@
 Player,Rating,#Games
 Koen,1829.3,157
 Job V,1753.1,10
-Yashin,1734.2,206
 Bart,1709.8,118
-Liveris,1639.9,44
+Yashin,1689.7,207
+Liveris,1684.4,45
 Tim,1611.3,4
 Oliver,1609.1,4
 Bas,1583.7,134
@@ -12,6 +12,7 @@ Philip ,1576.3,1
 Timo,1569.4,111
 Donnie,1539.1,64
 Philip,1535.1,65
+Martin,1534.2,80
 Thomas,1526.8,6
 Job,1524.5,52
 Frenk ,1509.9,1
@@ -21,7 +22,6 @@ Maarten,1503.9,15
 Wouter,1496.3,64
 Loek,1491.0,38
 Job ,1490.1,1
-Martin,1489.7,79
 Floris,1486.0,2
 Lars,1482.7,1
 Mohammed,1478.1,54
@@ -37,7 +37,7 @@ Kristin,1420.7,2
 Katherine,1418.6,24
 Vincent,1416.6,12
 Daan Ri,1407.1,22
-Frenk,1397.8,52
+Frenk,1353.3,53
 Dennis,1311.8,32
 Roy,1309.1,17
 Laura,1272.4,13
