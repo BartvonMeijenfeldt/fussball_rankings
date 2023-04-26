@@ -388,3 +388,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bas, Martin","Roy, Yashin",10,8,-23.9,0.485,0.556,13.2
 "Liveris, Martin","Frenk, Yashin",10,9,-40.2,0.475,0.526,9.8
 "Liveris, Martin","Frenk, Yashin",10,3,-1.0,0.499,0.769,44.3
+"Roy, Yashin","Donnie, Maarten",10,4,260.4,0.655,0.714,10.5
+"Carl, Liveris","Roy, Donnie",10,5,344.8,0.7,0.667,-6.5
+"Donnie, Carl","Liveris, Roy",9,10,10.6,0.507,0.474,-6.3
