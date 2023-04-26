@@ -4,7 +4,7 @@
 2. Job V: 1753.1 
 3. Yashin: 1730.6 
 4. Bart: 1709.8 
-5. Liveris: 1684.4 
+5. Liveris: 1679.1 
 6. Tim: 1611.3 
 7. Oliver: 1609.1 
 8. Bas: 1583.7 
@@ -18,7 +18,7 @@
 16. Frenk : 1509.9 
 17. Jane: 1509.5 
 18. Luka: 1504.4 
-19. Donnie: 1498.2 
+19. Donnie: 1503.5 
 20. Wouter: 1496.3 
 21. Loek: 1491.0 
 22. Job : 1490.1 
@@ -26,7 +26,7 @@
 24. Lars: 1482.7 
 25. Mohammed: 1478.1 
 26. Daan: 1477.2 
-27. Carl: 1472.2 
+27. Carl: 1471.9 
 28. Maarten: 1463.0 
 29. Jelle: 1461.8 
 30. Arjen: 1448.3 
@@ -39,7 +39,7 @@
 37. Vincent: 1416.6 
 38. Daan Ri: 1407.1 
 39. Frenk: 1353.3 
-40. Roy: 1350.0 
+40. Roy: 1350.3 
 41. Dennis: 1311.8 
 42. Laura: 1272.4 
 43. Michiel: 1197.8 
