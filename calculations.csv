@@ -391,3 +391,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Roy, Yashin","Donnie, Maarten",10,4,-44.2,0.473,0.714,40.9
 "Carl, Liveris","Roy, Donnie",10,5,308.4,0.681,0.667,-2.8
 "Donnie, Carl","Liveris, Roy",9,10,-64.0,0.461,0.474,2.5
+"Roy, Yashin","Job, Rob",10,4,56.4,0.535,0.714,30.7
+"Rob, Yashin","Roy, Job",10,6,355.8,0.706,0.625,-15.8
