@@ -399,3 +399,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bas, Donnie","Job, Martin",10,6,13.1,0.508,0.625,21.0
 "Bart, Yashin","Donnie, Job",10,3,414.3,0.735,0.769,6.2
 "Donnie, Job","Dennis, Bas",10,9,250.2,0.649,0.526,-24.6
+"Dennis, Yashin","Carl, Bas",8,10,56.4,0.535,0.444,-17.0
+"Carl, Yashin","Dennis, Bas",10,7,408.6,0.732,0.588,-29.2
