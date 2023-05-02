@@ -395,3 +395,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Rob, Yashin","Roy, Job",10,6,163.5,0.599,0.625,4.7
 "Yashin, Job","Rob, Roy",10,1,391.3,0.724,0.909,31.4
 "Roy, Yashin","Job, Rob",10,2,255.6,0.652,0.833,30.3
+"Bas, Job","Donnie, Kristin",10,5,368.3,0.713,0.667,-8.8
+"Bas, Donnie","Job, Martin",10,6,13.1,0.508,0.625,21.0
