@@ -415,3 +415,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Liveris, Wouter","Roy, Job",10,6,141.6,0.586,0.625,7.0
 "Brian, Yashin","Dennis, Bart",10,1,113.4,0.569,0.909,52.7
 "Brian, Wouter","Loek, Bas",10,4,-15.5,0.49,0.714,37.9
+"Liveris, Wouter","Philip, Bart",10,8,179.2,0.609,0.556,-10.3
+"Wouter, Yashin","Liveris, Bart",3,10,-416.1,0.264,0.231,-6.0
+"Wouter, Bart","Liveris, Yashin",7,10,-583.5,0.192,0.412,47.8
