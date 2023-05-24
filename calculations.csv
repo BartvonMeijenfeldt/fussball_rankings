@@ -430,3 +430,9 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Donnie, Yashin","Brian, Bas",4,10,-100.2,0.439,0.286,-26.3
 "Wouter, Martin","Donnie, Liveris",10,6,-286.6,0.33,0.625,54.0
 "Dennis, Yashin","Kassandra, Bas",10,5,66.2,0.541,0.667,22.2
+"Donnie, Job","Philip, Martin",10,7,-146.1,0.411,0.588,32.8
+"Job, Donnie","Philip, Martin",10,4,-190.5,0.385,0.714,55.9
+"Liveris, Wouter","Carl, Martin",10,7,261.7,0.656,0.588,-13.1
+"Liveris, Wouter","Carl, Kassandra",9,10,270.7,0.661,0.474,-37.2
+"Bas, Martin","Rob, Yashin",10,4,6.8,0.504,0.714,35.7
+"Bas, Yashin","Rob, Martin",10,3,324.2,0.69,0.769,14.1
