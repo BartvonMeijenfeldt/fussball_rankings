@@ -5,35 +5,36 @@ Brian,Defense,1701.9,7
 Job V,Defense,1686.7,5
 Bart,Defense,1685.8,104
 Yashin,Defense,1682.2,85
+Yashin,Average,1682.0,232
+Yashin,Offense,1681.8,147
 Bart,Average,1676.8,128
 Liveris,Defense,1668.5,31
 Bart,Offense,1667.8,24
 Koen,Average,1666.4,157
-Yashin,Average,1663.8,231
 Bas,Average,1646.6,152
-Yashin,Offense,1645.4,146
-Liveris,Average,1628.4,60
 Tim,Offense,1625.1,4
 Philip,Offense,1624.7,21
 Job V,Offense,1611.5,5
+Liveris,Average,1610.2,61
 Brian,Average,1609.6,17
 Timo,Offense,1603.4,70
 Job,Offense,1600.2,40
-Liveris,Offense,1588.4,29
 Oliver,Offense,1580.8,2
 Tim,Average,1571.6,5
 Philip ,Defense,1561.6,1
 Bas,Offense,1556.1,60
 Oliver,Average,1554.2,4
 Carl,Offense,1552.5,11
+Liveris,Offense,1552.0,30
 Maarten,Defense,1550.4,13
+Carl,Average,1543.0,44
 Job,Average,1535.6,68
+Carl,Defense,1533.6,33
 Floris,Offense,1531.9,1
 Philip,Average,1531.6,71
 Oliver,Defense,1527.6,2
 Mohammed,Defense,1526.9,17
 Jane,Defense,1525.0,1
-Carl,Average,1524.8,43
 Timo,Average,1522.1,111
 Martin,Offense,1519.1,43
 Tim,Defense,1518.0,1
@@ -45,7 +46,6 @@ Loek,Defense,1508.6,34
 Mohammed,Average,1503.8,54
 Frenk ,Defense,1503.3,1
 Thomas,Average,1501.8,6
-Carl,Defense,1497.2,32
 Job ,Defense,1496.7,1
 Loek,Average,1494.6,39
 Floris,Average,1494.2,2
@@ -53,22 +53,21 @@ Thomas,Defense,1492.5,3
 Rob,Offense,1490.0,3
 Donnie,Offense,1485.0,50
 Irene,Offense,1481.4,2
-Rob,Average,1481.0,11
 Mohammed,Offense,1480.8,37
 Loek,Offense,1480.7,5
 Daan,Offense,1477.7,1
 Roy,Defense,1474.4,16
 Kassandra,Offense,1473.3,18
-Rob,Defense,1472.0,8
 Maarten,Average,1471.6,18
 Job,Defense,1471.0,28
 Lars,Defense,1470.1,1
 Bruno,Defense,1468.1,1
 Jelle,Offense,1468.0,1
+Rob,Average,1462.8,12
 Bruno,Average,1462.3,2
 Laura,Defense,1461.6,1
-Irene,Average,1460.2,3
 Martin,Average,1460.2,91
+Irene,Average,1460.2,3
 Donnie,Average,1457.7,82
 Arjen,Offense,1457.3,1
 Floris,Defense,1456.5,1
@@ -80,6 +79,7 @@ Timo,Defense,1440.8,41
 Irene,Defense,1439.1,1
 Jay,Offense,1439.1,1
 Philip,Defense,1438.5,50
+Rob,Defense,1435.6,9
 Wouter,Offense,1434.7,54
 Frenk,Defense,1434.7,50
 Donnie,Defense,1430.4,32
