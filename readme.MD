@@ -92,8 +92,8 @@
 90. Katherine Offense: 1416.7 
 91. Daan Ri Offense: 1413.7 
 92. Laura Average: 1411.1 
-93. Kristin Average: 1409.2 
-94. Dennis Average: 1409.2 
+93. Dennis Average: 1409.2 
+94. Kristin Average: 1409.2 
 95. Martin Defense: 1401.2 
 96. Dennis Offense: 1400.9 
 97. Frenk Offense: 1399.0 
