@@ -438,3 +438,11 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bas, Yashin","Rob, Martin",10,3,324.2,0.69,0.769,14.1
 "Donnie, Yashin","Carl, Laura",10,5,174.8,0.606,0.667,10.8
 "Carl, Yashin","Rob, Liveris",10,3,82.2,0.55,0.769,36.4
+"Donnie, Job","Brian, Bas",3,10,-227.4,0.364,0.231,-22.8
+"Philip, Maarten","Job, Brian",8,10,-157.0,0.405,0.444,7.7
+"Wouter, Martin","Katherine, Carl",7,10,-144.8,0.412,0.412,0.0
+"Maarten, Wouter","Donnie, Philip",10,4,-47.2,0.471,0.714,41.2
+"Carl, Donnie","Martin, Job",7,10,40.0,0.525,0.412,-20.8
+"Donnie, Martin","Job, Carl",10,8,-130.3,0.42,0.556,25.6
+"Bas, Donnie","Dennis, Yashin",10,5,101.9,0.562,0.667,18.4
+"Dennis, Bas","Donnie, Yashin",6,10,-77.3,0.453,0.375,-14.0
