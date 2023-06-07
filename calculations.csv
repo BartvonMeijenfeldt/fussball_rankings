@@ -446,3 +446,11 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Donnie, Martin","Job, Carl",10,8,-130.3,0.42,0.556,25.6
 "Bas, Donnie","Dennis, Yashin",10,5,101.9,0.562,0.667,18.4
 "Dennis, Bas","Donnie, Yashin",6,10,-77.3,0.453,0.375,-14.0
+"Kristin, Wouter","Job, Bas",3,10,-132.7,0.419,0.231,-31.6
+"Job, Kristin","Bas, Wouter",4,10,-306.2,0.32,0.286,-6.1
+"Job, Wouter","Laura, Anna",10,6,-48.0,0.47,0.625,27.7
+"Bas, Job","Brian, Martin",2,10,90.4,0.555,0.167,-61.1
+"Bas, Maarten","Job, Brian",7,10,100.5,0.562,0.412,-27.6
+"Donnie, Bas","Wouter, Job",10,9,133.9,0.582,0.526,-10.8
+"Donnie, Job","Maarten, Roy",10,3,71.4,0.544,0.769,37.4
+"Wouter, Martin","Roy, Maarten",10,5,100.7,0.562,0.667,18.6
