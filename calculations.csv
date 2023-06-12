@@ -455,3 +455,7 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Donnie, Job","Maarten, Roy",10,3,71.4,0.544,0.769,37.4
 "Wouter, Martin","Roy, Maarten",10,5,100.7,0.562,0.667,18.6
 "Rob, Donnie","Laura, Anna",10,8,12.0,0.507,0.556,9.1
+"Carl, Job","Anna, Wouter",10,4,120.0,0.573,0.714,24.3
+"Carl, Job","Roy, Bas",10,3,105.2,0.564,0.769,34.2
+"Job, Carl","Bas, Roy",10,3,129.8,0.579,0.769,31.9
+"Carl, Job","Bas, Wouter",10,8,120.3,0.574,0.556,-3.5
