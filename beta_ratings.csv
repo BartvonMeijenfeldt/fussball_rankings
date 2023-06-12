@@ -11,27 +11,27 @@ Liveris,Defense,1668.5,31
 Bart,Offense,1667.8,24
 Koen,Average,1666.4,157
 Brian,Average,1661.6,21
-Bas,Defense,1644.5,98
 Job,Offense,1640.3,48
+Bas,Defense,1626.6,100
 Tim,Offense,1625.1,4
 Martin,Offense,1624.4,47
 Job V,Offense,1611.5,5
 Liveris,Average,1610.2,61
+Job,Average,1604.3,85
 Timo,Offense,1603.4,70
-Bas,Average,1598.0,163
-Job,Average,1595.4,83
+Bas,Average,1589.0,165
 Philip,Offense,1583.5,22
 Oliver,Offense,1580.8,2
+Carl,Offense,1576.7,16
+Carl,Average,1572.2,53
 Tim,Average,1571.6,5
+Job,Defense,1568.3,37
 Carl,Defense,1567.8,37
-Carl,Average,1563.3,51
 Philip ,Defense,1561.6,1
-Carl,Offense,1558.8,14
 Maarten,Defense,1554.2,15
 Oliver,Average,1554.2,4
 Liveris,Offense,1552.0,30
 Bas,Offense,1551.5,65
-Job,Defense,1550.4,35
 Brian,Offense,1537.3,12
 Floris,Offense,1531.9,1
 Oliver,Defense,1527.6,2
@@ -69,7 +69,6 @@ Anna,Offense,1463.2,2
 Bruno,Average,1462.3,2
 Donnie,Average,1462.2,91
 Irene,Average,1460.2,3
-Wouter,Offense,1457.3,60
 Arjen,Offense,1457.3,1
 Floris,Defense,1456.5,1
 Bruno,Offense,1456.5,1
@@ -80,6 +79,7 @@ Vincent,Offense,1445.2,12
 Rob,Defense,1444.7,10
 Katherine,Defense,1442.9,19
 Timo,Defense,1440.8,41
+Wouter,Offense,1439.4,62
 Irene,Defense,1439.1,1
 Jay,Offense,1439.1,1
 Frenk,Defense,1434.7,50
@@ -93,8 +93,8 @@ Kassandra,Average,1418.0,83
 Frenk,Average,1416.8,53
 Katherine,Offense,1416.7,7
 Daan Ri,Offense,1413.7,14
-Wouter,Average,1409.1,84
 Dennis,Offense,1400.9,4
+Wouter,Average,1400.2,86
 Frenk,Offense,1399.0,3
 Dennis,Average,1393.1,45
 Laura,Average,1392.7,19

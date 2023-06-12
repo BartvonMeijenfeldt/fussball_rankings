@@ -459,3 +459,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Carl, Job","Roy, Bas",10,3,105.2,0.564,0.769,34.2
 "Job, Carl","Bas, Roy",10,3,129.8,0.579,0.769,31.9
 "Carl, Job","Bas, Wouter",10,8,120.3,0.574,0.556,-3.5
+"Job, Carl","Bas, Wouter",10,7,7.4,0.505,0.588,15.4
+"Job, Carl","Bas, Wouter",10,8,69.0,0.542,0.556,2.5
