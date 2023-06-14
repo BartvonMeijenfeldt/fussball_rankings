@@ -461,3 +461,8 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Carl, Job","Bas, Wouter",10,8,120.3,0.574,0.556,-3.5
 "Job, Carl","Bas, Wouter",10,7,7.4,0.505,0.588,15.4
 "Job, Carl","Bas, Wouter",10,8,69.0,0.542,0.556,2.5
+"Carl, Job","Dennis, Bas",10,5,271.4,0.661,0.667,0.9
+"Job, Carl","Katherine, Wouter",10,1,262.7,0.656,0.909,40.9
+"Laura, Carl","Bas, Wouter",5,10,17.3,0.511,0.333,-31.0
+"Bart, Anna","Donnie, Boele",5,6,216.4,0.63,0.455,-26.6
+"Anna, Bart","Rob, Donnie",10,3,207.1,0.625,0.769,24.7
