@@ -468,3 +468,4 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Anna, Bart","Rob, Donnie",10,3,207.1,0.625,0.769,24.7
 "Rob, Carl","Dennis, Donnie",10,5,155.3,0.594,0.667,12.9
 "Dennis, Carl","Donnie, Bas",6,10,-38.9,0.476,0.375,-18.2
+"Dennis, Carl","Donnie, Rob",10,0,-32.9,0.48,1.0,75.1
