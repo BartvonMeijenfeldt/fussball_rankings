@@ -479,3 +479,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Brian, Carl","Bart, Kassandra",10,5,232.9,0.64,0.667,4.9
 "Carl, Brian","Kassandra, Bart",10,5,91.6,0.556,0.667,19.5
 "Carl, Wouter","Anna, Brian",10,7,74.3,0.546,0.588,7.9
+"Laura, Carl","Anna, Donnie",10,5,108.5,0.566,0.667,17.7
+"Anna, Carl","Laura, Donnie",10,8,102.3,0.563,0.556,-1.4
