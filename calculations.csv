@@ -481,3 +481,4 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Carl, Wouter","Anna, Brian",10,7,74.3,0.546,0.588,7.9
 "Laura, Carl","Anna, Donnie",10,5,108.5,0.566,0.667,17.7
 "Anna, Carl","Laura, Donnie",10,8,102.3,0.563,0.556,-1.4
+"Donnie, Wouter","Laura, Bas",9,10,28.7,0.518,0.474,-8.5
