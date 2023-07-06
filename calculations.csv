@@ -496,3 +496,4 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Loek, Job","Donnie, Boele",10,7,129.8,0.579,0.588,1.6
 "Anna, Carl","Kassandra, Boele",10,6,225.0,0.635,0.625,-1.9
 "Carl, Anna","Boele, Kassandra",10,5,64.3,0.539,0.667,22.4
+"Dennis, Carl","Bas, Kassandra",10,8,-90.8,0.444,0.556,21.0
