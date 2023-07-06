@@ -494,3 +494,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Wouter, Carl","Bas, Loek",7,10,-241.6,0.355,0.412,10.8
 "Donnie, Loek","Job, Boele",10,3,-102.1,0.437,0.769,54.2
 "Loek, Job","Donnie, Boele",10,7,129.8,0.579,0.588,1.6
+"Anna, Carl","Kassandra, Boele",10,6,225.0,0.635,0.625,-1.9
+"Carl, Anna","Boele, Kassandra",10,5,64.3,0.539,0.667,22.4
