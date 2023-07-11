@@ -497,3 +497,4 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Anna, Carl","Kassandra, Boele",10,6,225.0,0.635,0.625,-1.9
 "Carl, Anna","Boele, Kassandra",10,5,64.3,0.539,0.667,22.4
 "Dennis, Carl","Bas, Kassandra",10,8,-90.8,0.444,0.556,21.0
+"Dennis, Brian","Carl, Job",10,6,-156.8,0.405,0.625,39.7
