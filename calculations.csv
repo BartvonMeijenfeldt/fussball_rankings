@@ -500,3 +500,8 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Dennis, Brian","Carl, Job",10,6,-156.8,0.405,0.625,39.7
 "Brian, Dennis","Rob, Carl",9,10,94.9,0.558,0.474,-16.4
 "Roy, Wouter","Anna, Job",10,7,-95.9,0.441,0.588,27.1
+"Donnie, Liveris","Bas, Kassandra",10,7,36.5,0.522,0.588,12.1
+"Brian, Andreea","Dennis, Donnie",7,10,264.0,0.657,0.412,-46.2
+"Carl, Job","Dennis, Bas",10,0,73.5,0.545,1.0,66.9
+"Donnie, Wouter","Job, Boele",10,8,58.0,0.536,0.556,3.7
+"Liveris, Wouter","Laura, Job",10,8,91.2,0.556,0.556,-0.1
