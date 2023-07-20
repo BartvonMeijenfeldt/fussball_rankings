@@ -513,3 +513,4 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Roy, Brian","Donnie, Loek",10,1,57.5,0.535,0.909,57.4
 "Wouter, Boele","Kassandra, Loek",7,10,15.6,0.51,0.412,-18.0
 "Wouter, Boele","Loek, Kassandra",7,10,-170.1,0.397,0.412,2.9
+"Roy, Brian","Dennis, Carl",10,9,136.9,0.583,0.526,-11.2
