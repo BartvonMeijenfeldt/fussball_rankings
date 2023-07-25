@@ -514,3 +514,8 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Wouter, Boele","Kassandra, Loek",7,10,15.6,0.51,0.412,-18.0
 "Wouter, Boele","Loek, Kassandra",7,10,-170.1,0.397,0.412,2.9
 "Roy, Brian","Dennis, Carl",10,9,136.9,0.583,0.526,-11.2
+"Dennis, Donnie","Wouter, Job",7,10,32.0,0.52,0.412,-19.9
+"Katherine, Carl","Bart, Kassandra",10,7,-24.9,0.485,0.588,19.1
+"Anna, Bart","Roy, Dennis",9,10,93.4,0.557,0.474,-16.2
+"Wouter, Job","Katherine, Kristin",10,7,185.1,0.612,0.588,-4.5
+"Katherine, Wouter","Job, Kristin",10,6,-12.6,0.492,0.625,23.8
