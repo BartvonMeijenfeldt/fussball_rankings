@@ -522,3 +522,7 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Kassandra, Loek","Rob, Wouter",10,0,-148.8,0.409,1.0,84.4
 "Boele, Kassandra","Anna, Rob",8,10,142.7,0.587,0.444,-27.1
 "Kassandra, Boele","Rob, Anna",10,4,-7.4,0.495,0.714,37.1
+"Roy, Boele","Anna, Rob",10,8,204.2,0.623,0.556,-13.1
+"Brenda, Boele","Anna, Roy",10,8,364.3,0.71,0.556,-31.4
+"Dennis, Carl","Anna, Boele",10,1,316.7,0.686,0.909,36.9
+"Anna, Carl","Dennis, Boele",10,9,186.9,0.613,0.526,-17.1
