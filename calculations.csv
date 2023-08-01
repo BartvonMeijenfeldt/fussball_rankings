@@ -526,3 +526,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Brenda, Boele","Anna, Roy",10,8,364.3,0.71,0.556,-31.4
 "Dennis, Carl","Anna, Boele",10,1,316.7,0.686,0.909,36.9
 "Anna, Carl","Dennis, Boele",10,9,186.9,0.613,0.526,-17.1
+"Dennis, Bart","Boele, Liveris",9,10,145.3,0.589,0.474,-22.3
+"Dennis, Bart","Boele, Anna",10,6,225.4,0.635,0.625,-2.0
+"Bart, Boele","Anna, Dennis",10,0,286.6,0.67,1.0,51.6
