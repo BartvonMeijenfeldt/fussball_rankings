@@ -532,3 +532,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Michiel, Carl","Anna, Donnie",10,7,230.9,0.638,0.588,-9.6
 "Carl, Michiel","Anna, Donnie",8,10,100.6,0.562,0.444,-22.2
 "Michiel, Carl","Dennis, Donnie",10,6,-20.3,0.488,0.625,24.7
+"Dennis, Carl","Rob, Boele",10,5,367.5,0.712,0.667,-8.7
+"Carl, Rob","Boele, Dennis",10,4,266.7,0.659,0.714,9.9
+"Rob, Carl","Dennis, Boele",10,1,142.3,0.587,0.909,50.4
