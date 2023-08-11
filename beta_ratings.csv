@@ -1,8 +1,8 @@
 Player,Position,Rating,#Games
 Koen,Offense,1818.5,148
+Brian,Defense,1754.7,17
 Carl,Offense,1752.4,38
-Brian,Defense,1715.7,16
-Brian,Average,1710.2,39
+Brian,Average,1729.6,40
 Brian,Offense,1704.6,23
 Carl,Average,1692.9,83
 Job V,Defense,1686.7,5
@@ -45,16 +45,15 @@ Timo,Average,1522.1,111
 Tim,Defense,1518.0,1
 Koen,Defense,1514.4,9
 Luka,Defense,1513.7,2
-Thomas,Offense,1511.1,3
 Loek,Defense,1507.3,36
 Mohammed,Average,1503.8,54
 Frenk ,Defense,1503.3,1
 Donnie,Average,1502.5,121
-Thomas,Average,1501.8,6
 Job ,Defense,1496.7,1
 Philip,Defense,1496.4,52
 Floris,Average,1494.2,2
 Thomas,Defense,1492.5,3
+Thomas,Average,1482.3,7
 Irene,Offense,1481.4,2
 Mohammed,Offense,1480.8,37
 Donnie,Defense,1477.9,55
@@ -62,6 +61,7 @@ Daan,Offense,1477.7,1
 Rob,Offense,1477.0,8
 Job,Defense,1476.0,43
 Bas,Offense,1475.6,72
+Thomas,Offense,1472.1,4
 Lars,Defense,1470.1,1
 Bruno,Defense,1468.1,1
 Jelle,Offense,1468.0,1
@@ -94,21 +94,21 @@ Katherine,Offense,1416.7,7
 Rob,Defense,1416.1,18
 Boele,Offense,1414.1,19
 Daan Ri,Offense,1413.7,14
-Dennis,Defense,1410.5,63
 Kristin,Offense,1403.2,7
+Laura,Offense,1399.6,17
 Frenk,Offense,1399.0,3
 Wouter,Average,1398.2,108
+Laura,Average,1396.8,30
 Laura,Defense,1394.0,13
 Kassandra,Offense,1393.0,26
 Roy,Average,1387.0,41
 Kristin,Average,1382.8,10
-Laura,Average,1377.3,29
 Anna,Average,1374.9,25
-Dennis,Average,1374.8,71
 Wouter,Defense,1372.0,29
+Dennis,Defense,1371.5,64
 Michiel,Defense,1364.5,6
 Kristin,Defense,1362.4,3
-Laura,Offense,1360.6,16
+Dennis,Average,1355.4,72
 Dennis,Offense,1339.2,8
 Anna,Defense,1325.9,19
 Michiel,Average,1315.2,15
