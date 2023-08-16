@@ -1,10 +1,10 @@
 Player,Position,Rating,#Games
 Koen,Offense,1818.5,148
+Carl,Offense,1784.1,39
 Brian,Defense,1754.6,18
-Carl,Offense,1752.4,38
 Brian,Average,1739.0,42
 Brian,Offense,1723.4,24
-Carl,Average,1692.9,83
+Carl,Average,1708.8,84
 Job V,Defense,1686.7,5
 Yashin,Defense,1682.2,85
 Bart,Defense,1680.4,109
@@ -38,20 +38,20 @@ Floris,Offense,1531.9,1
 Roy,Defense,1531.8,25
 Martin,Average,1528.5,98
 Oliver,Defense,1527.6,2
-Donnie,Offense,1527.2,67
 Mohammed,Defense,1526.9,17
 Jane,Defense,1525.0,1
 Timo,Average,1522.1,111
 Tim,Defense,1518.0,1
 Koen,Defense,1514.4,9
 Luka,Defense,1513.7,2
-Donnie,Average,1512.0,123
 Loek,Defense,1507.3,36
 Mohammed,Average,1503.8,54
 Frenk ,Defense,1503.3,1
 Donnie,Defense,1496.7,56
 Job ,Defense,1496.7,1
 Philip,Defense,1496.4,52
+Donnie,Average,1496.1,124
+Donnie,Offense,1495.5,68
 Floris,Average,1494.2,2
 Thomas,Defense,1492.5,3
 Thomas,Average,1482.3,7
@@ -65,7 +65,6 @@ Thomas,Offense,1472.1,4
 Lars,Defense,1470.1,1
 Bruno,Defense,1468.1,1
 Jelle,Offense,1468.0,1
-Boele,Defense,1464.9,5
 Bruno,Average,1462.3,2
 Irene,Average,1460.2,3
 Arjen,Offense,1457.3,1
@@ -80,20 +79,22 @@ Daan Ri,Defense,1445.4,8
 Vincent,Offense,1445.2,12
 Andreea,Offense,1443.6,2
 Timo,Defense,1440.8,41
-Boele,Average,1439.5,24
 Irene,Defense,1439.1,1
 Jay,Offense,1439.1,1
 Katherine,Average,1434.8,34
 Frenk,Defense,1434.7,50
+Boele,Defense,1433.2,6
 Maarten,Average,1425.2,25
 Wouter,Offense,1424.5,79
 Anna,Offense,1423.9,6
+Boele,Average,1423.6,25
 Kassandra,Average,1422.2,98
 Frenk,Average,1416.8,53
 Katherine,Offense,1416.7,7
 Rob,Defense,1416.1,18
 Boele,Offense,1414.1,19
 Daan Ri,Offense,1413.7,14
+Dennis,Defense,1403.3,66
 Kristin,Offense,1403.2,7
 Laura,Offense,1399.6,17
 Frenk,Offense,1399.0,3
@@ -105,10 +106,9 @@ Roy,Average,1387.0,41
 Kristin,Average,1382.8,10
 Anna,Average,1374.9,25
 Wouter,Defense,1372.0,29
-Dennis,Defense,1371.6,65
+Dennis,Average,1371.2,74
 Michiel,Defense,1364.5,6
 Kristin,Defense,1362.4,3
-Dennis,Average,1355.4,73
 Dennis,Offense,1339.2,8
 Anna,Defense,1325.9,19
 Michiel,Average,1315.2,15
