@@ -540,3 +540,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Brian, Job","Dennis, Donnie",10,3,488.5,0.769,0.769,-0.1
 "Dennis, Carl","Boele, Donnie",10,3,131.9,0.58,0.769,31.7
 "Dennis, Boele","Donnie, Carl",1,10,-463.4,0.242,0.091,-26.4
+"Roy, Brian","Dennis, Liveris",10,9,287.1,0.67,0.526,-28.9
+"Carl, Kassandra","Anna, Brian",10,5,6.0,0.504,0.667,28.5
