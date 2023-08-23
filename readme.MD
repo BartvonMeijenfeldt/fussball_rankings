@@ -1,27 +1,27 @@
 # Internal Fussball ratings at Transavia
 ## Ratings
-1. Koen Offense: 1818.5 
-2. Carl Offense: 1810.5 
+1. Carl Offense: 1819.9 
+2. Koen Offense: 1818.5 
 3. Brian Defense: 1754.6 
 4. Brian Average: 1733.1 
-5. Carl Average: 1713.4 
+5. Carl Average: 1723.6 
 6. Brian Offense: 1711.6 
-7. Job V Defense: 1686.7 
-8. Yashin Defense: 1682.2 
-9. Bart Defense: 1680.4 
+7. Bart Defense: 1701.6 
+8. Job V Defense: 1686.7 
+9. Yashin Defense: 1682.2 
 10. Yashin Average: 1679.8 
 11. Yashin Offense: 1677.4 
 12. Koen Average: 1666.4 
-13. Bas Defense: 1653.1 
-14. Bart Average: 1651.1 
+13. Bart Average: 1656.2 
+14. Bas Defense: 1653.1 
 15. Liveris Defense: 1644.4 
 16. Job Offense: 1632.3 
 17. Liveris Average: 1632.2 
-18. Tim Offense: 1625.1 
-19. Bart Offense: 1621.8 
+18. Carl Defense: 1627.4 
+19. Tim Offense: 1625.1 
 20. Liveris Offense: 1620.1 
-21. Carl Defense: 1616.3 
-22. Job V Offense: 1611.5 
+21. Job V Offense: 1611.5 
+22. Bart Offense: 1610.7 
 23. Timo Offense: 1603.4 
 24. Martin Offense: 1602.1 
 25. Loek Offense: 1593.1 
@@ -83,23 +83,23 @@
 81. Timo Defense: 1440.8 
 82. Irene Defense: 1439.1 
 83. Jay Offense: 1439.1 
-84. Kassandra Average: 1436.4 
+84. Kassandra Average: 1437.3 
 85. Katherine Average: 1434.8 
 86. Frenk Defense: 1434.7 
-87. Boele Defense: 1433.2 
-88. Maarten Average: 1425.2 
-89. Anna Offense: 1423.9 
-90. Kassandra Offense: 1421.5 
-91. Frenk Average: 1416.8 
-92. Katherine Offense: 1416.7 
-93. Rob Defense: 1416.1 
-94. Daan Ri Offense: 1413.7 
-95. Boele Average: 1410.4 
-96. Kristin Offense: 1403.2 
-97. Laura Offense: 1399.6 
-98. Frenk Offense: 1399.0 
-99. Laura Average: 1396.8 
-100. Dennis Average: 1395.3 
+87. Maarten Average: 1425.2 
+88. Anna Offense: 1423.9 
+89. Kassandra Offense: 1423.2 
+90. Frenk Average: 1416.8 
+91. Katherine Offense: 1416.7 
+92. Rob Defense: 1416.1 
+93. Daan Ri Offense: 1413.7 
+94. Kristin Offense: 1403.2 
+95. Boele Defense: 1400.9 
+96. Laura Offense: 1399.6 
+97. Frenk Offense: 1399.0 
+98. Laura Average: 1396.8 
+99. Dennis Average: 1395.3 
+100. Boele Average: 1394.3 
 101. Laura Defense: 1394.0 
 102. Boele Offense: 1387.7 
 103. Kristin Average: 1382.8 
