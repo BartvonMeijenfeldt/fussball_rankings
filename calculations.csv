@@ -546,3 +546,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bart, Carl","Boele, Kassandra",10,1,636.2,0.828,0.909,15.3
 "Boele, Carl","Bart, Kassandra",10,8,141.8,0.586,0.556,-5.9
 "Carl, Kassandra","Boele, Bart",10,8,-5.4,0.497,0.556,11.1
+"Anna, Brian","Boele, Donnie",10,6,112.6,0.569,0.625,10.2
+"Roy, Brian","Liveris, Donnie",6,10,95.0,0.558,0.375,-32.9
