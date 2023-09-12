@@ -1,10 +1,10 @@
 Player,Position,Rating,#Games
-Carl,Offense,1819.9,42
+Carl,Offense,1826.1,43
 Koen,Offense,1818.5,148
-Carl,Average,1744.8,91
+Carl,Average,1747.9,92
 Bart,Offense,1705.4,35
-Bart,Average,1703.5,146
-Bart,Defense,1701.6,111
+Bart,Average,1700.4,147
+Bart,Defense,1695.4,112
 Brian,Offense,1688.9,29
 Job V,Defense,1686.7,5
 Brian,Average,1684.0,49
@@ -22,15 +22,15 @@ Liveris,Offense,1620.1,34
 Job V,Offense,1611.5,5
 Timo,Offense,1603.4,70
 Martin,Offense,1602.1,48
-Loek,Offense,1599.7,12
 Job,Offense,1597.1,64
+Loek,Offense,1593.5,13
 Philip,Offense,1583.5,22
 Oliver,Offense,1574.2,3
 Tim,Average,1571.6,5
 Bas,Average,1564.4,177
 Philip ,Defense,1561.6,1
-Loek,Average,1553.5,48
 Oliver,Average,1550.9,5
+Loek,Average,1550.4,49
 Philip,Average,1540.0,74
 Job,Average,1536.6,107
 Floris,Offense,1531.9,1
@@ -101,9 +101,9 @@ Laura,Average,1396.8,30
 Maarten,Average,1396.4,27
 Dennis,Average,1395.3,77
 Laura,Defense,1394.0,13
+Boele,Defense,1393.1,13
+Boele,Average,1390.4,33
 Boele,Offense,1387.7,20
-Boele,Average,1387.3,32
-Boele,Defense,1386.9,12
 Anna,Offense,1384.9,7
 Kristin,Average,1382.8,10
 Wouter,Defense,1372.0,29
