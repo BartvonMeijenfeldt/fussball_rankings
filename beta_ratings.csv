@@ -1,20 +1,20 @@
 Player,Position,Rating,#Games
-Carl,Offense,1826.1,43
 Koen,Offense,1818.5,148
-Carl,Average,1747.9,92
-Bart,Offense,1705.4,35
-Bart,Average,1700.4,147
+Bart,Offense,1787.5,38
+Carl,Offense,1781.5,44
+Bart,Average,1741.4,150
+Carl,Average,1723.0,94
 Bart,Defense,1695.4,112
-Brian,Offense,1688.9,29
 Job V,Defense,1686.7,5
-Brian,Average,1684.0,49
 Yashin,Defense,1682.2,85
 Yashin,Average,1679.8,234
 Brian,Defense,1679.1,20
 Yashin,Offense,1677.4,149
 Liveris,Defense,1677.3,34
-Carl,Defense,1669.7,49
+Brian,Average,1667.8,50
 Koen,Average,1666.4,157
+Carl,Defense,1664.6,50
+Brian,Offense,1656.5,30
 Bas,Defense,1653.1,105
 Liveris,Average,1648.7,68
 Tim,Offense,1625.1,4
@@ -37,6 +37,7 @@ Floris,Offense,1531.9,1
 Martin,Average,1528.5,98
 Oliver,Defense,1527.6,2
 Mohammed,Defense,1526.9,17
+Katherine,Defense,1525.1,30
 Jane,Defense,1525.0,1
 Timo,Average,1522.1,111
 Donnie,Offense,1518.2,70
@@ -60,8 +61,8 @@ Daan,Offense,1477.7,1
 Rob,Offense,1477.0,8
 Job,Defense,1476.0,43
 Bas,Offense,1475.6,72
-Katherine,Defense,1475.4,28
 Thomas,Offense,1472.1,4
+Katherine,Average,1470.9,37
 Lars,Defense,1470.1,1
 Roy,Defense,1470.0,27
 Bruno,Defense,1468.1,1
@@ -78,7 +79,6 @@ Rob,Defense,1455.1,19
 Martin,Defense,1454.9,50
 Dennis,Defense,1451.4,69
 Kassandra,Defense,1451.4,72
-Katherine,Average,1446.1,35
 Daan Ri,Defense,1445.4,8
 Vincent,Offense,1445.2,12
 Andreea,Offense,1443.6,2
@@ -87,22 +87,24 @@ Irene,Defense,1439.1,1
 Jay,Offense,1439.1,1
 Kassandra,Average,1437.3,102
 Frenk,Defense,1434.7,50
+Boele,Defense,1425.5,14
 Kassandra,Offense,1423.2,30
+Timo2,Defense,1423.0,2
 Frenk,Average,1416.8,53
 Katherine,Offense,1416.7,7
 Wouter,Average,1414.2,111
 Daan Ri,Offense,1413.7,14
+Timo2,Average,1410.0,6
+Boele,Average,1406.6,34
 Kristin,Offense,1403.2,7
-Timo2,Offense,1402.0,3
 Laura,Offense,1399.6,17
 Frenk,Offense,1399.0,3
 Michiel,Defense,1397.7,7
+Timo2,Offense,1396.9,4
 Laura,Average,1396.8,30
 Maarten,Average,1396.4,27
 Dennis,Average,1395.3,77
 Laura,Defense,1394.0,13
-Boele,Defense,1393.1,13
-Boele,Average,1390.4,33
 Boele,Offense,1387.7,20
 Anna,Offense,1384.9,7
 Kristin,Average,1382.8,10
