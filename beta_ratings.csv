@@ -1,44 +1,46 @@
 Player,Position,Rating,#Games
 Koen,Offense,1818.5,148
-Bart,Offense,1787.5,38
-Carl,Offense,1781.5,44
-Bart,Average,1741.4,150
-Carl,Average,1723.0,94
-Bart,Defense,1695.4,112
+Bart,Offense,1787.6,40
+Bart,Average,1772.8,157
+Carl,Offense,1765.2,45
+Bart,Defense,1758.0,117
+Carl,Average,1707.2,96
 Job V,Defense,1686.7,5
 Yashin,Defense,1682.2,85
 Yashin,Average,1679.8,234
-Brian,Defense,1679.1,20
 Yashin,Offense,1677.4,149
 Liveris,Defense,1677.3,34
-Brian,Average,1667.8,50
 Koen,Average,1666.4,157
-Carl,Defense,1664.6,50
-Brian,Offense,1656.5,30
 Bas,Defense,1653.1,105
+Carl,Defense,1649.1,51
+Brian,Defense,1648.9,22
 Liveris,Average,1648.7,68
+Brian,Average,1642.9,54
+Brian,Offense,1636.9,32
 Tim,Offense,1625.1,4
 Liveris,Offense,1620.1,34
+Job,Offense,1616.0,65
 Job V,Offense,1611.5,5
 Timo,Offense,1603.4,70
 Martin,Offense,1602.1,48
-Job,Offense,1597.1,64
 Loek,Offense,1593.5,13
 Philip,Offense,1583.5,22
 Oliver,Offense,1574.2,3
 Tim,Average,1571.6,5
 Bas,Average,1564.4,177
 Philip ,Defense,1561.6,1
+Loek,Average,1559.8,50
 Oliver,Average,1550.9,5
-Loek,Average,1550.4,49
+Job,Average,1546.0,108
 Philip,Average,1540.0,74
-Job,Average,1536.6,107
 Floris,Offense,1531.9,1
 Martin,Average,1528.5,98
 Oliver,Defense,1527.6,2
 Mohammed,Defense,1526.9,17
+Loek,Defense,1526.2,37
 Katherine,Defense,1525.1,30
 Jane,Defense,1525.0,1
+Wouter,Offense,1522.4,85
 Timo,Average,1522.1,111
 Donnie,Offense,1518.2,70
 Tim,Defense,1518.0,1
@@ -46,7 +48,6 @@ Donnie,Average,1517.4,128
 Donnie,Defense,1516.5,58
 Koen,Defense,1514.4,9
 Luka,Defense,1513.7,2
-Loek,Defense,1507.3,36
 Mohammed,Average,1503.8,54
 Frenk ,Defense,1503.3,1
 Job ,Defense,1496.7,1
@@ -64,7 +65,6 @@ Bas,Offense,1475.6,72
 Thomas,Offense,1472.1,4
 Katherine,Average,1470.9,37
 Lars,Defense,1470.1,1
-Roy,Defense,1470.0,27
 Bruno,Defense,1468.1,1
 Jelle,Offense,1468.0,1
 Rob,Average,1466.0,27
@@ -74,11 +74,12 @@ Arjen,Offense,1457.3,1
 Brenda,Defense,1456.6,2
 Floris,Defense,1456.5,1
 Bruno,Offense,1456.5,1
-Wouter,Offense,1456.4,82
 Rob,Defense,1455.1,19
 Martin,Defense,1454.9,50
+Roy,Defense,1453.7,28
 Dennis,Defense,1451.4,69
 Kassandra,Defense,1451.4,72
+Wouter,Average,1447.2,116
 Daan Ri,Defense,1445.4,8
 Vincent,Offense,1445.2,12
 Andreea,Offense,1443.6,2
@@ -89,30 +90,29 @@ Kassandra,Average,1437.3,102
 Frenk,Defense,1434.7,50
 Boele,Defense,1425.5,14
 Kassandra,Offense,1423.2,30
-Timo2,Defense,1423.0,2
 Frenk,Average,1416.8,53
 Katherine,Offense,1416.7,7
-Wouter,Average,1414.2,111
+Laura,Offense,1415.1,18
 Daan Ri,Offense,1413.7,14
-Timo2,Average,1410.0,6
 Boele,Average,1406.6,34
+Laura,Average,1404.6,31
+Timo2,Defense,1403.4,4
 Kristin,Offense,1403.2,7
-Laura,Offense,1399.6,17
 Frenk,Offense,1399.0,3
 Michiel,Defense,1397.7,7
-Timo2,Offense,1396.9,4
-Laura,Average,1396.8,30
 Maarten,Average,1396.4,27
 Dennis,Average,1395.3,77
 Laura,Defense,1394.0,13
 Boele,Offense,1387.7,20
 Anna,Offense,1384.9,7
 Kristin,Average,1382.8,10
-Wouter,Defense,1372.0,29
+Wouter,Defense,1372.1,31
+Timo2,Average,1367.8,12
 Kristin,Defense,1362.4,3
-Roy,Average,1356.1,43
 Anna,Average,1349.6,29
+Roy,Average,1348.0,44
 Dennis,Offense,1339.2,8
+Timo2,Offense,1332.3,8
 Michiel,Average,1331.8,16
 Maarten,Offense,1315.0,9
 Anna,Defense,1314.2,22

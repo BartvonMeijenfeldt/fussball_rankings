@@ -558,3 +558,10 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Boele, Bart","Timo2, Brian",10,6,-90.4,0.445,0.625,32.4
 "Katherine, Bart","Timo2, Carl",10,4,-80.5,0.451,0.714,44.6
 "Katherine, Bart","Carl, Timo2",10,5,230.7,0.638,0.667,5.1
+"Bart, Wouter","Timo2, Brian",10,6,72.3,0.544,0.625,14.6
+"Wouter, Bart","Brian, Timo2",10,9,83.5,0.551,0.526,-4.9
+"Bart, Wouter","Brian, Timo2",10,3,95.2,0.558,0.769,35.1
+"Wouter, Bart","Timo2, Brian",10,7,99.4,0.561,0.588,5.0
+"Bart, Wouter","Roy, Carl",10,7,-0.3,0.5,0.588,16.3
+"Bart, Laura","Carl, Timo2",10,5,129.7,0.579,0.667,15.5
+"Bart, Timo2","Loek, Job",7,10,23.7,0.515,0.412,-18.9
