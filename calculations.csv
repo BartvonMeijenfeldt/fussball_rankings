@@ -573,3 +573,16 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Wouter, Bart","Job, Boele",10,6,224.5,0.635,0.625,-1.9
 "Bart, Wouter","Job, Boele",10,3,318.8,0.687,0.769,14.5
 "Wouter, Bart","Boele, Job",6,10,-6.7,0.496,0.375,-21.7
+"Laura, Bart","Timo2, Wouter",10,2,208.6,0.626,0.833,34.3
+"Laura, Bart","Boele, Job",9,10,-10.3,0.494,0.474,-3.8
+"Bart, Donnie","Job, Loek",7,10,171.4,0.604,0.412,-35.7
+"Katherine, Bart","Donnie, Timo2",10,4,361.8,0.709,0.714,0.9
+"Boele, Brenda","Katherine, Wouter",6,10,64.3,0.539,0.375,-29.5
+"Boele, Bart","Donnie, Laura",10,5,318.1,0.686,0.667,-3.8
+"Boele, Loek","Donnie, Job",10,9,-83.1,0.449,0.526,14.9
+"Brian, Donnie","Brenda, Wouter",10,1,142.4,0.587,0.909,50.4
+"Wouter, Brian","Brenda, Donnie",10,2,77.2,0.547,0.833,45.8
+"Boele, Wouter","Donnie, Job",10,8,-185.6,0.388,0.556,32.0
+"Timo2, Wouter","Bart, Rob",10,9,-329.9,0.307,0.526,44.2
+"Brenda, Bart","Boele, Timo2",10,5,246.0,0.647,0.667,3.5
+"Timo2, Rob","Boele, Brenda",10,6,-188.0,0.386,0.625,43.2
