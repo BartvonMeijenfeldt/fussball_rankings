@@ -586,3 +586,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Timo2, Wouter","Bart, Rob",10,9,-329.9,0.307,0.526,44.2
 "Brenda, Bart","Boele, Timo2",10,5,246.0,0.647,0.667,3.5
 "Timo2, Rob","Boele, Brenda",10,6,-188.0,0.386,0.625,43.2
+"Bart, Job","Timo2, Wouter",10,3,312.4,0.683,0.769,15.1
+"Job, Bart","Wouter, Timo2",10,0,533.4,0.788,1.0,36.4
