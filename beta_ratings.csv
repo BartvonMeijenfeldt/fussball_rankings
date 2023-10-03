@@ -1,13 +1,13 @@
 Player,Position,Rating,#Games
 Koen,Offense,1818.5,148
+Bart,Offense,1794.7,53
 Carl,Offense,1765.2,45
 Brian,Defense,1762.5,26
-Bart,Offense,1759.8,52
+Bart,Average,1760.2,179
 Brian,Average,1751.0,60
 Brian,Offense,1739.6,34
-Bart,Average,1728.0,177
+Bart,Defense,1725.6,126
 Carl,Average,1707.2,96
-Bart,Defense,1696.1,125
 Job V,Defense,1686.7,5
 Yashin,Defense,1682.2,85
 Yashin,Average,1679.8,234
@@ -47,6 +47,7 @@ Koen,Defense,1514.4,9
 Luka,Defense,1513.7,2
 Job,Offense,1511.9,79
 Roy,Defense,1510.6,29
+Rob,Offense,1505.5,11
 Mohammed,Average,1503.8,54
 Frenk ,Defense,1503.3,1
 Katherine,Defense,1502.4,34
@@ -61,19 +62,17 @@ Mohammed,Offense,1480.8,37
 Wouter,Average,1480.6,132
 Maarten,Defense,1477.7,18
 Daan,Offense,1477.7,1
-Rob,Offense,1476.0,10
 Bas,Offense,1475.6,72
 Thomas,Offense,1472.1,4
 Lars,Defense,1470.1,1
 Bruno,Defense,1468.1,1
 Jelle,Offense,1468.0,1
-Rob,Average,1465.6,29
+Rob,Average,1462.8,31
 Bruno,Average,1462.3,2
 Irene,Average,1460.2,3
 Arjen,Offense,1457.3,1
 Floris,Defense,1456.5,1
 Bruno,Offense,1456.5,1
-Rob,Defense,1455.1,19
 Martin,Defense,1454.9,50
 Dennis,Defense,1451.4,69
 Kassandra,Defense,1451.4,72
@@ -89,11 +88,10 @@ Kassandra,Average,1436.6,103
 Frenk,Defense,1434.7,50
 Donnie,Defense,1429.1,64
 Brenda,Offense,1427.3,2
-Laura,Offense,1426.6,22
 Boele,Average,1426.1,49
-Laura,Average,1425.6,37
 Laura,Defense,1424.5,15
 Kassandra,Offense,1421.7,31
+Rob,Defense,1420.2,20
 Frenk,Average,1416.8,53
 Daan Ri,Offense,1413.7,14
 Boele,Offense,1407.1,23
@@ -102,18 +100,20 @@ Frenk,Offense,1399.0,3
 Michiel,Defense,1397.7,7
 Maarten,Average,1396.4,27
 Dennis,Average,1395.3,77
+Laura,Average,1393.4,39
 Anna,Offense,1384.9,7
 Katherine,Offense,1384.7,8
 Kristin,Average,1382.8,10
+Brenda,Average,1378.0,13
 Roy,Average,1376.4,45
-Brenda,Average,1375.4,11
 Wouter,Defense,1368.7,37
 Kristin,Defense,1362.4,3
+Laura,Offense,1362.2,24
 Anna,Average,1349.6,29
 Dennis,Offense,1339.2,8
 Timo2,Defense,1334.6,12
 Michiel,Average,1331.8,16
-Brenda,Defense,1323.4,9
+Brenda,Defense,1328.8,11
 Maarten,Offense,1315.0,9
 Anna,Defense,1314.2,22
 Timo2,Average,1306.9,26
