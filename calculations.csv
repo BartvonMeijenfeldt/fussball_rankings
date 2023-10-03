@@ -592,3 +592,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Job, Wouter","Timo2, Bart",10,3,-54.3,0.467,0.769,49.5
 "Wouter, Job","Bart, Timo2",7,10,34.3,0.521,0.412,-20.1
 "Roy, Brian","Job, Laura",10,1,63.1,0.539,0.909,56.9
+"Katherine, Bart","Donnie, Loek",10,5,110.6,0.568,0.667,17.5
+"Brian, Laura","Donnie, Job",10,4,92.1,0.556,0.714,27.1
