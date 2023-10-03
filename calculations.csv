@@ -597,3 +597,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Katherine, Bart","Donnie, Loek",10,5,110.6,0.568,0.667,17.5
 "Brian, Laura","Donnie, Job",10,4,104.4,0.564,0.714,25.9
 "Loek, Donnie","Boele, Job",10,3,13.8,0.508,0.769,42.9
+"Brenda, Loek","Boele, Kassandra",10,8,77.3,0.547,0.556,1.5
+"Brian, Donnie","Brenda, Job",10,3,504.8,0.776,0.769,-1.4
