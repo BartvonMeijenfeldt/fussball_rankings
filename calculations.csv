@@ -601,3 +601,9 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Brian, Donnie","Brenda, Job",10,3,504.8,0.776,0.769,-1.4
 "Brenda, Bart","Rob, Laura",10,2,201.5,0.622,0.833,34.9
 "Bart, Rob","Brenda, Laura",6,0,422.1,0.739,1.0,29.5
+"Roy, Rob","Donnie, Brenda",10,8,159.7,0.597,0.556,-8.0
+"Rob, Donnie","Brenda, Timo2",10,4,384.2,0.72,0.714,-1.2
+"Loek, Donnie","Timo2, Rob",10,2,307.8,0.681,0.833,26.0
+"Brenda, Loek","Rob, Donnie",3,10,-57.7,0.465,0.231,-38.7
+"Loek, Brenda","Rob, Donnie",10,0,-62.8,0.461,1.0,77.5
+"Loek, Brenda","Donnie, Timo2",7,10,467.9,0.76,0.412,-69.2
