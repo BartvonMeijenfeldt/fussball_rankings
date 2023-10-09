@@ -607,3 +607,9 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Brenda, Loek","Rob, Donnie",3,10,-57.7,0.465,0.231,-38.7
 "Loek, Brenda","Rob, Donnie",10,0,-62.8,0.461,1.0,77.5
 "Loek, Brenda","Donnie, Timo2",7,10,467.9,0.76,0.412,-69.2
+"Wouter, Bart","Timo2, Carl",10,7,89.6,0.555,0.588,6.1
+"Job, Brenda","Timo2, Bart",8,10,-69.8,0.457,0.444,-2.4
+"Brenda, Job","Bart, Timo2",6,10,-272.0,0.338,0.375,7.0
+"Job, Wouter","Laura, Bart",9,10,-47.6,0.471,0.474,0.6
+"Wouter, Job","Bart, Laura",10,6,-187.1,0.387,0.625,43.1
+"Brenda, Wouter","Job, Timo2",5,10,-39.2,0.476,0.333,-25.0
