@@ -613,3 +613,12 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Job, Wouter","Laura, Bart",9,10,-47.6,0.471,0.474,0.6
 "Wouter, Job","Bart, Laura",10,6,-187.1,0.387,0.625,43.1
 "Brenda, Wouter","Job, Timo2",5,10,-39.2,0.476,0.333,-25.0
+"Katherine, Wouter","Timo2, Bart",9,10,-36.9,0.477,0.474,-0.7
+"Wouter, Katherine","Bart, Timo2",3,10,-240.5,0.356,0.231,-21.6
+"Boele, Kassandra","Laura, Rob",10,0,-28.6,0.482,1.0,74.8
+"Carl, Bart","Katherine, Job",10,1,388.7,0.723,0.909,31.6
+"Katherine, Bart","Timo2, Carl",10,4,240.3,0.644,0.714,12.5
+"Bart, Andreea","Donnie, Brenda",10,2,193.2,0.617,0.833,35.7
+"Job, Donnie","Timo2, Brenda",10,2,472.5,0.762,0.833,12.9
+"Donnie, Timo2","Brenda, Job",10,9,56.1,0.534,0.526,-1.6
+"Wouter, Donnie","Bart, Brenda",10,5,-158.2,0.404,0.667,46.0
