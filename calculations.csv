@@ -637,3 +637,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Bart, Donnie","Brenda, Kassandra",10,3,494.9,0.772,0.769,-0.6
 "Anna, Carl","Donnie, Andreea",9,10,215.9,0.63,0.474,-30.7
 "Bart, Katherine","Donnie, Andreea",10,6,6.6,0.504,0.625,21.7
+"Loek, Donnie","Timo2, Carl",10,9,178.5,0.608,0.526,-16.1
+"Carl, Loek","Donnie, Timo2",10,6,397.4,0.727,0.625,-20.2
