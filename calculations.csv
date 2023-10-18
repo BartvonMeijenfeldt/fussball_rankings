@@ -629,3 +629,11 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Job, Yashin","Bart, Timo2",10,3,213.3,0.628,0.769,24.1
 "Job, Yashin","Roy, Ivar",10,0,362.2,0.709,1.0,46.7
 "Job, Yashin","Bart, Timo2",10,9,403.1,0.73,0.526,-42.5
+"Roy, Donnie","Timo2, Brenda",10,3,436.1,0.746,0.769,4.3
+"Anna, Brian","Bart, Kassandra",10,9,-142.4,0.413,0.526,22.0
+"Anna, Brian","Bart, Katherine",10,7,57.0,0.535,0.588,9.8
+"Brian, Laura","Bart, Ivar",10,6,-40.2,0.475,0.625,26.9
+"Brian, Donnie","Anna, Carl",10,9,345.8,0.701,0.526,-35.8
+"Bart, Donnie","Brenda, Kassandra",10,3,494.9,0.772,0.769,-0.6
+"Anna, Carl","Donnie, Andreea",9,10,215.9,0.63,0.474,-30.7
+"Bart, Katherine","Donnie, Andreea",10,6,6.6,0.504,0.625,21.7
