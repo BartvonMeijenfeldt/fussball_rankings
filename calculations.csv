@@ -641,3 +641,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Carl, Loek","Donnie, Timo2",10,6,397.4,0.727,0.625,-20.2
 "Carl, Donnie","Timo2, Loek",10,3,374.6,0.716,0.769,9.6
 "Donnie, Carl","Loek, Timo2",10,8,229.9,0.638,0.556,-16.1
+"Anna, Yashin","Boele, Kassandra",9,10,39.8,0.524,0.474,-9.8
+"Yashin, Anna","Kassandra, Boele",10,5,208.6,0.626,0.667,7.4
