@@ -645,4 +645,9 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Yashin, Anna","Kassandra, Boele",10,5,208.6,0.626,0.667,7.4
 "Brenda, Carl","Donnie, Job",10,3,3.2,0.502,0.769,43.9
 "Brenda, Ivar","Job, Donnie",1,10,-494.2,0.228,0.091,-24.3
-"Loek, Carl","Job, Donnie",10,1,105.7,0.565,0.909,53.4
+"Timo2, Wouter","Carl, Donnie",7,10,-429.4,0.258,0.412,31.4
+"Liveris, Wouter","Job, Donnie",10,5,25.6,0.516,0.667,26.4
+"Loek, Carl","Job, Donnie",10,1,189.9,0.615,0.909,46.6
+"Carl, Ivar","Anna, Timo2",10,3,250.6,0.65,0.769,20.7
+"Anna, Carl","Ivar, Timo2",10,1,229.9,0.638,0.909,43.5
+"Brenda, Wouter","Anna, Donnie",7,10,51.5,0.532,0.412,-22.1
