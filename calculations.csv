@@ -651,3 +651,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Carl, Ivar","Anna, Timo2",10,3,250.6,0.65,0.769,20.7
 "Anna, Carl","Ivar, Timo2",10,1,229.9,0.638,0.909,43.5
 "Brenda, Wouter","Anna, Donnie",7,10,51.5,0.532,0.412,-22.1
+"Timo2, Carl","Loek, Anna",10,8,145.9,0.589,0.556,-6.4
+"Carl, Timo2","Anna, Loek",10,8,91.7,0.556,0.556,-0.2
