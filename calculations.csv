@@ -656,3 +656,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Timo2, Wouter","Brenda, Donnie",9,10,110.7,0.568,0.474,-18.2
 "Liveris, Brenda","Job, Donnie",7,10,-98.9,0.439,0.412,-5.1
 "Timo2, Wouter","Anna, Brenda",10,4,150.6,0.592,0.714,21.3
+"Donnie, Wouter","Brenda, Job",5,10,244.0,0.646,0.333,-55.2
+"Wouter, Job","Brenda, Donnie",10,6,98.9,0.561,0.625,11.7
