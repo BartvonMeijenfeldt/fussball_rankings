@@ -658,3 +658,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Timo2, Wouter","Anna, Brenda",10,4,150.6,0.592,0.714,21.3
 "Donnie, Wouter","Brenda, Job",5,10,244.0,0.646,0.333,-55.2
 "Wouter, Job","Brenda, Donnie",10,6,98.9,0.561,0.625,11.7
+"Brenda, Wouter","Job, Rob",8,10,-115.8,0.429,0.444,2.9
+"Wouter, Job","Brenda, Anna",10,2,282.6,0.667,0.833,28.1
