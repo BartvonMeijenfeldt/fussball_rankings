@@ -663,3 +663,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Timo2, Wouter","Ivar, Job",10,7,-185.0,0.388,0.588,37.2
 "Ivar, Brian","Job, Wouter",10,8,8.8,0.505,0.556,9.4
 "Ivar, Timo2","Wouter, Job",10,5,-231.3,0.361,0.667,53.8
+"Wouter, Job","Timo2, Loek",10,8,22.8,0.514,0.556,7.8
+"Job, Wouter","Loek, Timo2",10,8,86.3,0.553,0.556,0.5
