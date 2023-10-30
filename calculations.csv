@@ -661,3 +661,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Brenda, Wouter","Job, Rob",8,10,-115.8,0.429,0.444,2.9
 "Wouter, Job","Brenda, Anna",10,2,282.6,0.667,0.833,28.1
 "Timo2, Wouter","Ivar, Job",10,7,-185.0,0.388,0.588,37.2
+"Ivar, Brian","Job, Wouter",10,8,8.8,0.505,0.556,9.4
+"Ivar, Timo2","Wouter, Job",10,5,-231.3,0.361,0.667,53.8
