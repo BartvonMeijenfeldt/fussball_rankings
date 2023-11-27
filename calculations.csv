@@ -685,3 +685,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Boele, Wouter","Carl, Timo2",10,9,11.9,0.507,0.526,3.7
 "Boele, Carl","Wouter, Timo2",10,9,605.6,0.817,0.526,-65.7
 "Brian, Donnie","Ivar, Liveris",10,9,286.1,0.669,0.526,-28.8
+"Timo2, Brenda","Roy, Wouter",2,10,-400.5,0.271,0.167,-18.5
+"Ivar, Timo2","Wouter, Job",4,10,-44.8,0.472,0.286,-31.8
+"Timo2, Ivar","Job, Wouter",3,10,-395.3,0.274,0.231,-7.8
