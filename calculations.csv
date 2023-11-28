@@ -690,3 +690,4 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Timo2, Ivar","Job, Wouter",3,10,-395.3,0.274,0.231,-7.8
 "Brenda, Wouter","Job, Timo2",4,10,-175.2,0.394,0.286,-18.8
 "Timo2, Wouter","Brenda, Job",6,10,-3.3,0.498,0.375,-22.1
+"Timo2, Wouter","Donnie, Job",6,10,-122.1,0.425,0.375,-9.1
