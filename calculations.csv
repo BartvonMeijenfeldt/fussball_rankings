@@ -694,3 +694,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Donnie, Job","Brenda, Liveris",10,4,-23.5,0.486,0.714,38.8
 "Wouter, Timo2","Rob, Liveris",5,10,-17.6,0.489,0.333,-27.3
 "Donnie, Wouter","Brenda, Job",10,4,20.0,0.512,0.714,34.3
+"Brenda, Job","Brian, Donnie",2,10,-416.9,0.264,0.167,-17.2
+"Brenda, Carl","Katherine, Wouter",9,10,48.8,0.53,0.474,-10.9
