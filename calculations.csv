@@ -698,3 +698,9 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Brenda, Carl","Katherine, Wouter",9,10,48.8,0.53,0.474,-10.9
 "Brenda, Liveris","Wouter, Andreea",10,1,-23.8,0.485,0.909,64.2
 "Brian, Laura","Carl, Donnie",10,6,-40.7,0.475,0.625,26.9
+"Liveris, Wouter","Roy, Ivar",10,2,323.3,0.689,0.833,24.7
+"Liveris, Brenda","Wouter, Job",7,10,-47.1,0.471,0.412,-10.9
+"Wouter, Laura","Ivar, Brian",7,10,-460.4,0.243,0.412,34.7
+"Brenda, Wouter","Adrian, Loek",10,5,-169.3,0.397,0.667,47.2
+"Loek, Carl","Brenda, Anna",10,2,804.4,0.879,0.833,-9.8
+"Brenda, Loek","Anna, Carl",10,6,-301.5,0.322,0.625,55.7
