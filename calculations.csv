@@ -705,3 +705,6 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Loek, Carl","Brenda, Anna",10,2,804.4,0.879,0.833,-9.8
 "Brenda, Loek","Anna, Carl",10,6,-301.5,0.322,0.625,55.7
 "Brenda, Wouter","Anna, Daan",10,7,274.6,0.663,0.588,-14.5
+"Wouter, Job","Brian, Laura",10,3,-161.2,0.402,0.769,60.0
+"Donnie, Job","Anna, Brenda",10,1,553.7,0.797,0.909,20.4
+"Wouter, Job","Loek, Rob",5,10,108.4,0.566,0.333,-40.6
