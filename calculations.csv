@@ -708,3 +708,5 @@ Team1,Team2,PointsTeam1,PointsTeam2,RatingAdvantage,ExpectedPercentScore,Achieve
 "Wouter, Job","Brian, Laura",10,3,-161.2,0.402,0.769,60.0
 "Donnie, Job","Anna, Brenda",10,1,553.7,0.797,0.909,20.4
 "Wouter, Job","Loek, Rob",5,10,108.4,0.566,0.333,-40.6
+"Anna, Brian","Donnie, Laura",10,9,275.1,0.663,0.526,-27.5
+"Job, Donnie","Brian, Maarten",10,9,86.5,0.553,0.526,-5.2
